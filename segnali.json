@@ -1,0 +1,412 @@
+{
+ "versione": 1,
+ "aggiornato": "2026-10-22T07:55:00+02:00",
+ "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
+ "esiti_precedenti": [
+  {
+   "data": "2026-10-20T20:45:00+02:00",
+   "partita": "Stafford Rangers – Gateshead",
+   "squadra_segnalata": "Gateshead",
+   "era_favorita": true,
+   "risultato": "5-0",
+   "esito_segnale": "confermato",
+   "commento": "Il favorito Gateshead, con stipendi non pagati, perde 5-0: entrambi gli obiettivi centrati.",
+   "avversaria": "Stafford Rangers",
+   "gol_avversaria": true
+  },
+  {
+   "data": "2026-10-21T18:45:00+02:00",
+   "partita": "Como – Manchester United",
+   "squadra_segnalata": "Manchester United",
+   "era_favorita": false,
+   "risultato": "4-1",
+   "gol_avversario": true,
+   "esito_segnale": "confermato",
+   "commento": "United con spogliatoio diviso e difesa decimata: il Como vince 4-1. Entrambi gli obiettivi centrati.",
+   "avversaria": "Como",
+   "gol_avversaria": true
+  },
+  {
+   "data": "2026-10-21T21:00:00+02:00",
+   "partita": "Real Madrid – Lipsia",
+   "squadra_segnalata": "Real Madrid",
+   "era_favorita": true,
+   "risultato": "4-1",
+   "esito_segnale": "smentito",
+   "commento": "Il favorito Real vince: obiettivo principale mancato. Il Lipsia però segna: obiettivo secondario centrato.",
+   "avversaria": "Lipsia",
+   "gol_avversaria": true
+  },
+  {
+   "data": "2026-10-22T05:00:00+02:00",
+   "partita": "Pachuca – Cruz Azul",
+   "squadra_segnalata": "Cruz Azul",
+   "era_favorita": null,
+   "risultato": null,
+   "gol_avversario": null,
+   "esito_segnale": "da_verificare",
+   "commento": "Risultato della notte non ancora disponibile.",
+   "avversaria": null,
+   "gol_avversaria": null
+  }
+ ],
+ "bilancio": {
+  "valutati": 3,
+  "avversaria_non_perde": 2,
+  "segnalata_vince": 1,
+  "gol_avversaria_si": 3,
+  "gol_avversaria_valutati": 3,
+  "osservazione": "In 3 partite su 3 l'avversaria ha segnato; in 2 su 3 non ha perso. L'unica squadra segnalata che ha vinto (Real Madrid) aveva solo voci di spogliatoio, nessun problema concreto."
+ },
+ "squadre": [
+  {
+   "id": "east-bengal",
+   "squadra": "East Bengal",
+   "alias": [
+    "East Bengal FC",
+    "SC East Bengal",
+    "Emami East Bengal"
+   ],
+   "paese": "India",
+   "tipo": "stipendi",
+   "livello": "alto",
+   "motivo": "Tre mesi di stipendi arretrati; boicottaggio degli allenamenti il 14/10; fondi del club bloccati.",
+   "andamento": "4-0 al Churchill all'esordio in campionato; 2-3 con Al-Shorta in Asia.",
+   "novita": "L'allenatore Habas parla di clima positivo; nessuna notizia di stipendi pagati.",
+   "da_verificare": "Stipendi pagati?",
+   "segnalata_dal": "2026-10-15",
+   "fonti": [
+    "https://www.mykhel.com/football/east-bengal-players-boycott-training-over-unpaid-salaries-ahead-of-isl-opener-456435.html"
+   ],
+   "prima_notizia": "2026-10-14",
+   "ultima_notizia": "2026-10-17"
+  },
+  {
+   "id": "gateshead",
+   "squadra": "Gateshead",
+   "alias": [
+    "Gateshead FC"
+   ],
+   "paese": "Inghilterra",
+   "tipo": "stipendi",
+   "livello": "alto",
+   "motivo": "Stipendi di settembre non pagati; allenatore Cattermole esonerato; cessione in attesa del regolatore.",
+   "andamento": "Ultimo in National League; 6 sconfitte di fila; 0-5 a Stafford in FA Cup.",
+   "novita": null,
+   "da_verificare": "Cessione approvata?",
+   "segnalata_dal": "2026-10-10",
+   "fonti": [
+    "https://www.rawchili.com/5120408/"
+   ],
+   "prima_notizia": "2026-10-10",
+   "ultima_notizia": "2026-10-10"
+  },
+  {
+   "id": "juventus",
+   "squadra": "Juventus",
+   "alias": [
+    "Juve",
+    "Juventus FC"
+   ],
+   "paese": "Italia",
+   "tipo": "spogliatoio",
+   "livello": "medio",
+   "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
+   "andamento": "Ultime 5: 2 vittorie, 2 pareggi, 1 sconfitta.",
+   "novita": "Bremer si è scusato; Spalletti chiede di 'essere più squadra' e cambia formazione.",
+   "assenze": {
+    "difesa": "Locatelli infortunato, centrocampo meno protettivo; si valuta il ritorno alla difesa a tre.",
+    "attacco": null
+   },
+   "da_verificare": "Formazione ufficiale",
+   "segnalata_dal": "2026-10-19",
+   "fonti": [
+    "https://www.juvelive.it/2026/10/21/spalletti-juventus-kolo-muani/"
+   ],
+   "prima_notizia": "2026-10-19",
+   "ultima_notizia": "2026-10-21"
+  },
+  {
+   "id": "crystal-palace",
+   "squadra": "Crystal Palace",
+   "alias": [
+    "Palace",
+    "CPFC"
+   ],
+   "paese": "Inghilterra",
+   "tipo": "spogliatoio",
+   "livello": "medio",
+   "motivo": "L'allenatore Pierre Sage è vicino all'esonero.",
+   "andamento": "14° in Premier League.",
+   "novita": "Stasera gioca a Istanbul, non a Londra.",
+   "da_verificare": "Sage ancora in panchina?",
+   "segnalata_dal": "2026-10-20",
+   "fonti": [
+    "https://www.kickoff.co.uk/uefa-europa-league-predictions-stats-odds/besiktas-vs-crystal-palace/"
+   ],
+   "prima_notizia": "2026-10-20",
+   "ultima_notizia": "2026-10-20"
+  },
+  {
+   "id": "manchester-united",
+   "squadra": "Manchester United",
+   "alias": [
+    "Man Utd",
+    "Man United",
+    "Manchester Utd"
+   ],
+   "paese": "Inghilterra",
+   "tipo": "spogliatoio",
+   "livello": "medio",
+   "motivo": "Martínez contro la dirigenza, lite con Diallo, Carrick sotto pressione.",
+   "andamento": "7 partite senza vittorie; 1-4 a Como.",
+   "novita": "Sconfitta pesante in Champions, pressione su Carrick aumentata.",
+   "assenze": {
+    "difesa": "Fuori Martínez e Shaw, Yoro squalificato in Champions; De Ligt appena rientrato dopo 11 mesi.",
+    "attacco": "Fuori Šeško e Rashford."
+   },
+   "da_verificare": "Carrick resta?",
+   "segnalata_dal": "2026-10-14",
+   "fonti": [
+    "https://www.caughtoffside.com/2026/10/14/man-united-dressing-room-make-stance-clear-martinez-rant/"
+   ],
+   "prima_notizia": "2026-10-14",
+   "ultima_notizia": "2026-10-21"
+  },
+  {
+   "id": "atletico-go",
+   "squadra": "Atlético-GO",
+   "alias": [
+    "Atlético Goianiense",
+    "Atletico GO"
+   ],
+   "paese": "Brasile",
+   "tipo": "stipendi",
+   "livello": "basso",
+   "motivo": "Due mesi di stipendi, diritti d'immagine e contributi arretrati; sciopero delle interviste.",
+   "andamento": "Ha battuto Criciúma, Goiás e América-MG senza stipendio; 6° in Série B.",
+   "novita": null,
+   "da_verificare": "Il club ha pagato?",
+   "segnalata_dal": "2026-10-19",
+   "fonti": [
+    "https://brasilemfolhas.com.br/2026/10/atletico-go-anuncia-greve-de-entrevistas-por-atraso-salarial/"
+   ],
+   "prima_notizia": "2026-10-19",
+   "ultima_notizia": "2026-10-20"
+  },
+  {
+   "id": "san-lorenzo",
+   "squadra": "San Lorenzo",
+   "alias": [
+    "CA San Lorenzo",
+    "San Lorenzo de Almagro"
+   ],
+   "paese": "Argentina",
+   "tipo": "stipendi",
+   "livello": "medio",
+   "motivo": "Stipendio di agosto non pagato; promessi pagamenti scaglionati.",
+   "andamento": "0-3 con il Defensa y Justicia; 7° in campionato.",
+   "novita": null,
+   "da_verificare": "Pagamento effettuato?",
+   "segnalata_dal": "2026-10-16",
+   "fonti": [
+    "https://vamosciclon.com/san-lorenzo-reunion-jugadores-sueldos-cuando-cobraran/"
+   ],
+   "prima_notizia": "2026-10-16",
+   "ultima_notizia": "2026-10-17"
+  },
+  {
+   "id": "corinthians",
+   "squadra": "Corinthians",
+   "alias": [
+    "SC Corinthians",
+    "Corinthians Paulista"
+   ],
+   "paese": "Brasile",
+   "tipo": "societa",
+   "livello": "medio",
+   "motivo": "Lascia il direttore sportivo Paz tra debiti e scontri con la dirigenza; allenatore Diniz esonerato il 7/10.",
+   "andamento": "Serie record di sconfitte, vicino alla zona retrocessione.",
+   "novita": null,
+   "da_verificare": "Nuovo allenatore?",
+   "segnalata_dal": "2026-10-20",
+   "fonti": [
+    "https://br.bolavip.com/corinthians/marcelo-paz-deixa-o-corinthians-apos-dez-meses-e-sequencia-de-desgastes-com-a-diretoria"
+   ],
+   "prima_notizia": "2026-10-20",
+   "ultima_notizia": "2026-10-20"
+  },
+  {
+   "id": "fas",
+   "squadra": "FAS",
+   "alias": [
+    "CD FAS",
+    "Club Deportivo FAS"
+   ],
+   "paese": "El Salvador",
+   "tipo": "stipendi",
+   "livello": "medio",
+   "motivo": "Due mesi di stipendi denunciati il 1/10; agosto pagato, settembre in scadenza l'11/10.",
+   "andamento": "Primo in classifica; perso 2-3 con il Platense il 18/10.",
+   "novita": null,
+   "da_verificare": "Settembre pagato?",
+   "segnalata_dal": "2026-10-01",
+   "fonti": [
+    "https://www.eldiariodehoy.com/deportes/fas-pagos-fesfut-deudas/95899/2026/"
+   ],
+   "prima_notizia": "2026-10-01",
+   "ultima_notizia": "2026-10-06"
+  },
+  {
+   "id": "napoli",
+   "squadra": "Napoli",
+   "alias": [
+    "SSC Napoli"
+   ],
+   "paese": "Italia",
+   "tipo": "spogliatoio",
+   "livello": "basso",
+   "motivo": "Rottura tra De Bruyne e Allegri.",
+   "andamento": "Sconfitta con il Venezia ultimo in classifica; nessun punto in Champions prima del Bodø.",
+   "novita": null,
+   "da_verificare": "Formazione",
+   "segnalata_dal": "2026-10-14",
+   "fonti": [
+    "https://www.footballtransfers.com/en/transfer-news/it-serie-a/2026/10/tensions-rise-napoli-communication-breaks-down-kevin-de-bruyne-massimiliano-allegri"
+   ],
+   "prima_notizia": "2026-10-14",
+   "ultima_notizia": "2026-10-18"
+  },
+  {
+   "id": "nottingham-forest",
+   "squadra": "Nottingham Forest",
+   "alias": [
+    "Nott'm Forest",
+    "Forest"
+   ],
+   "paese": "Inghilterra",
+   "tipo": "spogliatoio",
+   "livello": "basso",
+   "motivo": "Glasner a rischio esonero.",
+   "andamento": "Una vittoria nelle prime sette di Premier.",
+   "novita": null,
+   "da_verificare": null,
+   "segnalata_dal": "2026-10-20",
+   "fonti": [
+    "https://footballwhispers.com/blog/oliver-glasner-sack-odds-why-nottingham-forest-manager-could-be-next"
+   ],
+   "prima_notizia": "2026-10-20",
+   "ultima_notizia": "2026-10-20"
+  }
+ ],
+ "partite": [
+  {
+   "data": "2026-10-22T18:45:00+02:00",
+   "casa": "Juventus",
+   "trasferta": "Rennes",
+   "competizione": "Europa League",
+   "squadra_segnalata": "juventus",
+   "favorita_stimata": "si"
+  },
+  {
+   "data": "2026-10-23T13:30:00+02:00",
+   "casa": "Inter Kashi",
+   "trasferta": "East Bengal",
+   "competizione": "Indian Super League",
+   "squadra_segnalata": "east-bengal",
+   "favorita_stimata": "si"
+  },
+  {
+   "data": "2026-10-24T16:00:00+02:00",
+   "casa": "Ipswich",
+   "trasferta": "Nottingham Forest",
+   "competizione": "Premier League",
+   "squadra_segnalata": "nottingham-forest",
+   "favorita_stimata": "incerta"
+  },
+  {
+   "data": "2026-10-24T21:30:00+02:00",
+   "casa": "Atlético-GO",
+   "trasferta": "Novorizontino",
+   "competizione": "Série B",
+   "squadra_segnalata": "atletico-go",
+   "favorita_stimata": "incerta"
+  },
+  {
+   "data": "2026-10-25T00:15:00+02:00",
+   "casa": "San Lorenzo",
+   "trasferta": "Newell's Old Boys",
+   "competizione": "Liga Profesional",
+   "squadra_segnalata": "san-lorenzo",
+   "favorita_stimata": "si",
+   "nota": "data da confermare"
+  },
+  {
+   "data": "2026-10-25T15:00:00+01:00",
+   "casa": "Manchester United",
+   "trasferta": "Bournemouth",
+   "competizione": "Premier League",
+   "squadra_segnalata": "manchester-united",
+   "favorita_stimata": "si"
+  },
+  {
+   "data": "2026-10-25T18:30:00+01:00",
+   "casa": "Napoli",
+   "trasferta": "Roma",
+   "competizione": "Serie A",
+   "squadra_segnalata": "napoli",
+   "favorita_stimata": "incerta",
+   "nota": "orario da confermare"
+  },
+  {
+   "data": "2026-10-25T22:00:00+01:00",
+   "casa": "Águila",
+   "trasferta": "FAS",
+   "competizione": "Primera División",
+   "squadra_segnalata": "fas",
+   "favorita_stimata": "si"
+  },
+  {
+   "data": "2026-10-27T17:00:00+01:00",
+   "casa": "Al-Seeb",
+   "trasferta": "East Bengal",
+   "competizione": "AFC Champions League Two",
+   "squadra_segnalata": "east-bengal",
+   "favorita_stimata": "incerta"
+  },
+  {
+   "data": "2026-10-22T21:00:00+02:00",
+   "casa": "Besiktas",
+   "trasferta": "Crystal Palace",
+   "competizione": "Europa League",
+   "squadra_segnalata": "crystal-palace",
+   "favorita_stimata": "no"
+  },
+  {
+   "data": "2026-10-23T20:45:00+02:00",
+   "casa": "Gateshead",
+   "trasferta": "Tamworth",
+   "competizione": "National League",
+   "squadra_segnalata": "gateshead",
+   "favorita_stimata": "no"
+  },
+  {
+   "data": "2026-10-24T23:30:00+02:00",
+   "casa": "Vasco da Gama",
+   "trasferta": "Corinthians",
+   "competizione": "Brasileirão",
+   "squadra_segnalata": "corinthians",
+   "favorita_stimata": "no"
+  },
+  {
+   "data": "2026-10-27T20:45:00+01:00",
+   "casa": "Boston United",
+   "trasferta": "Gateshead",
+   "competizione": "National League",
+   "squadra_segnalata": "gateshead",
+   "favorita_stimata": "no"
+  }
+ ],
+ "criterio": "Si segnalano le squadre con problemi (soldi, spogliatoio, società, difesa decimata, attacco sterile), soprattutto quelle di peso, anche se le quote le danno sfavorite. Obiettivo principale: l'avversaria non perde (vince o pareggia). Obiettivo secondario, se la quota è interessante: l'avversaria segna almeno un gol. La quota serve solo come informazione.",
+ "regole_freschezza": "Entra una squadra con notizia originale fino a 21 giorni prima, purché ci sia una notizia di conferma negli ultimi 7 giorni. Colore dell'ultima notizia: verde fino a 7 giorni, arancione da 8 a 14, rosso oltre 14. Esce dopo 21 giorni senza notizie."
+}
