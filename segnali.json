@@ -1,6 +1,6 @@
 {
- "versione": 1,
- "aggiornato": "2026-10-22T07:55:00+02:00",
+ "versione": 2,
+ "aggiornato": "2026-10-22T09:30:00+02:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -12,7 +12,8 @@
    "esito_segnale": "confermato",
    "commento": "Il favorito Gateshead, con stipendi non pagati, perde 5-0: entrambi gli obiettivi centrati.",
    "avversaria": "Stafford Rangers",
-   "gol_avversaria": true
+   "gol_avversaria": true,
+   "id_partita": "2026-10-20_stafford-rangers_gateshead"
   },
   {
    "data": "2026-10-21T18:45:00+02:00",
@@ -20,11 +21,11 @@
    "squadra_segnalata": "Manchester United",
    "era_favorita": false,
    "risultato": "4-1",
-   "gol_avversario": true,
    "esito_segnale": "confermato",
    "commento": "United con spogliatoio diviso e difesa decimata: il Como vince 4-1. Entrambi gli obiettivi centrati.",
    "avversaria": "Como",
-   "gol_avversaria": true
+   "gol_avversaria": true,
+   "id_partita": "2026-10-21_como_manchester-united"
   },
   {
    "data": "2026-10-21T21:00:00+02:00",
@@ -35,7 +36,8 @@
    "esito_segnale": "smentito",
    "commento": "Il favorito Real vince: obiettivo principale mancato. Il Lipsia però segna: obiettivo secondario centrato.",
    "avversaria": "Lipsia",
-   "gol_avversaria": true
+   "gol_avversaria": true,
+   "id_partita": "2026-10-21_real-madrid_lipsia"
   },
   {
    "data": "2026-10-22T05:00:00+02:00",
@@ -43,11 +45,11 @@
    "squadra_segnalata": "Cruz Azul",
    "era_favorita": null,
    "risultato": null,
-   "gol_avversario": null,
    "esito_segnale": "da_verificare",
    "commento": "Risultato della notte non ancora disponibile.",
    "avversaria": null,
-   "gol_avversaria": null
+   "gol_avversaria": null,
+   "id_partita": "2026-10-22_pachuca_cruz-azul"
   }
  ],
  "bilancio": {
@@ -79,7 +81,9 @@
     "https://www.mykhel.com/football/east-bengal-players-boycott-training-over-unpaid-salaries-ahead-of-isl-opener-456435.html"
    ],
    "prima_notizia": "2026-10-14",
-   "ultima_notizia": "2026-10-17"
+   "ultima_notizia": "2026-10-17",
+   "nome_flashscore": "East Bengal",
+   "id_flashscore": "hh02MvfE"
   },
   {
    "id": "gateshead",
@@ -99,7 +103,9 @@
     "https://www.rawchili.com/5120408/"
    ],
    "prima_notizia": "2026-10-10",
-   "ultima_notizia": "2026-10-10"
+   "ultima_notizia": "2026-10-10",
+   "nome_flashscore": "Gateshead",
+   "id_flashscore": "d2vIdDRk"
   },
   {
    "id": "juventus",
@@ -124,13 +130,14 @@
     "https://www.juvelive.it/2026/10/21/spalletti-juventus-kolo-muani/"
    ],
    "prima_notizia": "2026-10-19",
-   "ultima_notizia": "2026-10-21"
+   "ultima_notizia": "2026-10-21",
+   "nome_flashscore": "Juventus",
+   "id_flashscore": "C06aJvIB"
   },
   {
    "id": "crystal-palace",
    "squadra": "Crystal Palace",
    "alias": [
-    "Palace",
     "CPFC"
    ],
    "paese": "Inghilterra",
@@ -145,7 +152,9 @@
     "https://www.kickoff.co.uk/uefa-europa-league-predictions-stats-odds/besiktas-vs-crystal-palace/"
    ],
    "prima_notizia": "2026-10-20",
-   "ultima_notizia": "2026-10-20"
+   "ultima_notizia": "2026-10-20",
+   "nome_flashscore": "Crystal Palace",
+   "id_flashscore": "AovF1Mia"
   },
   {
    "id": "manchester-united",
@@ -171,7 +180,9 @@
     "https://www.caughtoffside.com/2026/10/14/man-united-dressing-room-make-stance-clear-martinez-rant/"
    ],
    "prima_notizia": "2026-10-14",
-   "ultima_notizia": "2026-10-21"
+   "ultima_notizia": "2026-10-21",
+   "nome_flashscore": "Manchester Utd",
+   "id_flashscore": "ppjDR086"
   },
   {
    "id": "atletico-go",
@@ -192,7 +203,9 @@
     "https://brasilemfolhas.com.br/2026/10/atletico-go-anuncia-greve-de-entrevistas-por-atraso-salarial/"
    ],
    "prima_notizia": "2026-10-19",
-   "ultima_notizia": "2026-10-20"
+   "ultima_notizia": "2026-10-20",
+   "nome_flashscore": "Atletico GO",
+   "id_flashscore": "8M0mP8nt"
   },
   {
    "id": "san-lorenzo",
@@ -213,7 +226,9 @@
     "https://vamosciclon.com/san-lorenzo-reunion-jugadores-sueldos-cuando-cobraran/"
    ],
    "prima_notizia": "2026-10-16",
-   "ultima_notizia": "2026-10-17"
+   "ultima_notizia": "2026-10-17",
+   "nome_flashscore": "San Lorenzo",
+   "id_flashscore": "ju1xJoJd"
   },
   {
    "id": "corinthians",
@@ -234,7 +249,9 @@
     "https://br.bolavip.com/corinthians/marcelo-paz-deixa-o-corinthians-apos-dez-meses-e-sequencia-de-desgastes-com-a-diretoria"
    ],
    "prima_notizia": "2026-10-20",
-   "ultima_notizia": "2026-10-20"
+   "ultima_notizia": "2026-10-20",
+   "nome_flashscore": "Corinthians",
+   "id_flashscore": "QBGfQbSe"
   },
   {
    "id": "fas",
@@ -255,7 +272,9 @@
     "https://www.eldiariodehoy.com/deportes/fas-pagos-fesfut-deudas/95899/2026/"
    ],
    "prima_notizia": "2026-10-01",
-   "ultima_notizia": "2026-10-06"
+   "ultima_notizia": "2026-10-06",
+   "nome_flashscore": "FAS",
+   "id_flashscore": "4AfSOtSi"
   },
   {
    "id": "napoli",
@@ -275,14 +294,15 @@
     "https://www.footballtransfers.com/en/transfer-news/it-serie-a/2026/10/tensions-rise-napoli-communication-breaks-down-kevin-de-bruyne-massimiliano-allegri"
    ],
    "prima_notizia": "2026-10-14",
-   "ultima_notizia": "2026-10-18"
+   "ultima_notizia": "2026-10-18",
+   "nome_flashscore": "Napoli",
+   "id_flashscore": "69Dxbc61"
   },
   {
    "id": "nottingham-forest",
    "squadra": "Nottingham Forest",
    "alias": [
-    "Nott'm Forest",
-    "Forest"
+    "Nottingham"
    ],
    "paese": "Inghilterra",
    "tipo": "spogliatoio",
@@ -296,7 +316,9 @@
     "https://footballwhispers.com/blog/oliver-glasner-sack-odds-why-nottingham-forest-manager-could-be-next"
    ],
    "prima_notizia": "2026-10-20",
-   "ultima_notizia": "2026-10-20"
+   "ultima_notizia": "2026-10-20",
+   "nome_flashscore": "Nottingham",
+   "id_flashscore": "UsushcZr"
   }
  ],
  "partite": [
@@ -306,7 +328,31 @@
    "trasferta": "Rennes",
    "competizione": "Europa League",
    "squadra_segnalata": "juventus",
-   "favorita_stimata": "si"
+   "favorita_stimata": "si",
+   "segnalata_in_casa": true,
+   "avversaria": {
+    "nome": "Rennes",
+    "nome_flashscore": "Rennes",
+    "id_flashscore": "d2nnj1IE"
+   },
+   "data_utc": "2026-10-22T16:45:00Z",
+   "id_partita": "2026-10-22_juventus_rennes"
+  },
+  {
+   "data": "2026-10-22T21:00:00+02:00",
+   "casa": "Besiktas",
+   "trasferta": "Crystal Palace",
+   "competizione": "Europa League",
+   "squadra_segnalata": "crystal-palace",
+   "favorita_stimata": "no",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Besiktas",
+    "nome_flashscore": "Besiktas",
+    "id_flashscore": "IDmErJCR"
+   },
+   "data_utc": "2026-10-22T19:00:00Z",
+   "id_partita": "2026-10-22_besiktas_crystal-palace"
   },
   {
    "data": "2026-10-23T13:30:00+02:00",
@@ -314,7 +360,31 @@
    "trasferta": "East Bengal",
    "competizione": "Indian Super League",
    "squadra_segnalata": "east-bengal",
-   "favorita_stimata": "si"
+   "favorita_stimata": "si",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Inter Kashi",
+    "nome_flashscore": "Inter Kashi",
+    "id_flashscore": "K2ADKy2f"
+   },
+   "data_utc": "2026-10-23T11:30:00Z",
+   "id_partita": "2026-10-23_inter-kashi_east-bengal"
+  },
+  {
+   "data": "2026-10-23T20:45:00+02:00",
+   "casa": "Gateshead",
+   "trasferta": "Tamworth",
+   "competizione": "National League",
+   "squadra_segnalata": "gateshead",
+   "favorita_stimata": "no",
+   "segnalata_in_casa": true,
+   "avversaria": {
+    "nome": "Tamworth",
+    "nome_flashscore": "Tamworth",
+    "id_flashscore": "6kmzF1qt"
+   },
+   "data_utc": "2026-10-23T18:45:00Z",
+   "id_partita": "2026-10-23_gateshead_tamworth"
   },
   {
    "data": "2026-10-24T16:00:00+02:00",
@@ -322,7 +392,15 @@
    "trasferta": "Nottingham Forest",
    "competizione": "Premier League",
    "squadra_segnalata": "nottingham-forest",
-   "favorita_stimata": "incerta"
+   "favorita_stimata": "incerta",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Ipswich",
+    "nome_flashscore": "Ipswich",
+    "id_flashscore": "thqhB2MB"
+   },
+   "data_utc": "2026-10-24T14:00:00Z",
+   "id_partita": "2026-10-24_ipswich_nottingham-forest"
   },
   {
    "data": "2026-10-24T21:30:00+02:00",
@@ -330,7 +408,31 @@
    "trasferta": "Novorizontino",
    "competizione": "Série B",
    "squadra_segnalata": "atletico-go",
-   "favorita_stimata": "incerta"
+   "favorita_stimata": "incerta",
+   "segnalata_in_casa": true,
+   "avversaria": {
+    "nome": "Novorizontino",
+    "nome_flashscore": "Novorizontino",
+    "id_flashscore": "4lOgZPQl"
+   },
+   "data_utc": "2026-10-24T19:30:00Z",
+   "id_partita": "2026-10-24_atletico-go_novorizontino"
+  },
+  {
+   "data": "2026-10-24T23:30:00+02:00",
+   "casa": "Vasco da Gama",
+   "trasferta": "Corinthians",
+   "competizione": "Brasileirão",
+   "squadra_segnalata": "corinthians",
+   "favorita_stimata": "no",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Vasco da Gama",
+    "nome_flashscore": "Vasco",
+    "id_flashscore": "2RABlYFn"
+   },
+   "data_utc": "2026-10-24T21:30:00Z",
+   "id_partita": "2026-10-24_vasco-da-gama_corinthians"
   },
   {
    "data": "2026-10-25T00:15:00+02:00",
@@ -339,7 +441,15 @@
    "competizione": "Liga Profesional",
    "squadra_segnalata": "san-lorenzo",
    "favorita_stimata": "si",
-   "nota": "data da confermare"
+   "nota": "data da confermare",
+   "segnalata_in_casa": true,
+   "avversaria": {
+    "nome": "Newell's Old Boys",
+    "nome_flashscore": "Newells Old Boys",
+    "id_flashscore": "6gMiRHVj"
+   },
+   "data_utc": "2026-10-24T22:15:00Z",
+   "id_partita": "2026-10-25_san-lorenzo_newell-s-old-boys"
   },
   {
    "data": "2026-10-25T15:00:00+01:00",
@@ -347,7 +457,15 @@
    "trasferta": "Bournemouth",
    "competizione": "Premier League",
    "squadra_segnalata": "manchester-united",
-   "favorita_stimata": "si"
+   "favorita_stimata": "si",
+   "segnalata_in_casa": true,
+   "avversaria": {
+    "nome": "Bournemouth",
+    "nome_flashscore": "Bournemouth",
+    "id_flashscore": "OtpNdwrc"
+   },
+   "data_utc": "2026-10-25T14:00:00Z",
+   "id_partita": "2026-10-25_manchester-united_bournemouth"
   },
   {
    "data": "2026-10-25T18:30:00+01:00",
@@ -356,7 +474,15 @@
    "competizione": "Serie A",
    "squadra_segnalata": "napoli",
    "favorita_stimata": "incerta",
-   "nota": "orario da confermare"
+   "nota": "orario da confermare",
+   "segnalata_in_casa": true,
+   "avversaria": {
+    "nome": "Roma",
+    "nome_flashscore": "AS Roma",
+    "id_flashscore": "zVqqL0ma"
+   },
+   "data_utc": "2026-10-25T17:30:00Z",
+   "id_partita": "2026-10-25_napoli_roma"
   },
   {
    "data": "2026-10-25T22:00:00+01:00",
@@ -364,7 +490,15 @@
    "trasferta": "FAS",
    "competizione": "Primera División",
    "squadra_segnalata": "fas",
-   "favorita_stimata": "si"
+   "favorita_stimata": "si",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Águila",
+    "nome_flashscore": "Aguila",
+    "id_flashscore": "dG3y6ucH"
+   },
+   "data_utc": "2026-10-25T21:00:00Z",
+   "id_partita": "2026-10-25_aguila_fas"
   },
   {
    "data": "2026-10-27T17:00:00+01:00",
@@ -372,31 +506,15 @@
    "trasferta": "East Bengal",
    "competizione": "AFC Champions League Two",
    "squadra_segnalata": "east-bengal",
-   "favorita_stimata": "incerta"
-  },
-  {
-   "data": "2026-10-22T21:00:00+02:00",
-   "casa": "Besiktas",
-   "trasferta": "Crystal Palace",
-   "competizione": "Europa League",
-   "squadra_segnalata": "crystal-palace",
-   "favorita_stimata": "no"
-  },
-  {
-   "data": "2026-10-23T20:45:00+02:00",
-   "casa": "Gateshead",
-   "trasferta": "Tamworth",
-   "competizione": "National League",
-   "squadra_segnalata": "gateshead",
-   "favorita_stimata": "no"
-  },
-  {
-   "data": "2026-10-24T23:30:00+02:00",
-   "casa": "Vasco da Gama",
-   "trasferta": "Corinthians",
-   "competizione": "Brasileirão",
-   "squadra_segnalata": "corinthians",
-   "favorita_stimata": "no"
+   "favorita_stimata": "incerta",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Al-Seeb",
+    "nome_flashscore": "Al Seeb",
+    "id_flashscore": "xx8n54PO"
+   },
+   "data_utc": "2026-10-27T16:00:00Z",
+   "id_partita": "2026-10-27_al-seeb_east-bengal"
   },
   {
    "data": "2026-10-27T20:45:00+01:00",
@@ -404,7 +522,15 @@
    "trasferta": "Gateshead",
    "competizione": "National League",
    "squadra_segnalata": "gateshead",
-   "favorita_stimata": "no"
+   "favorita_stimata": "no",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Boston United",
+    "nome_flashscore": "Boston Utd",
+    "id_flashscore": "EDRBCKEI"
+   },
+   "data_utc": "2026-10-27T19:45:00Z",
+   "id_partita": "2026-10-27_boston-united_gateshead"
   }
  ],
  "criterio": "Si segnalano le squadre con problemi (soldi, spogliatoio, società, difesa decimata, attacco sterile), soprattutto quelle di peso, anche se le quote le danno sfavorite. Obiettivo principale: l'avversaria non perde (vince o pareggia). Obiettivo secondario, se la quota è interessante: l'avversaria segna almeno un gol. La quota serve solo come informazione.",
