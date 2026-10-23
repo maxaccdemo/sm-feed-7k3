@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-22T09:30:00+02:00",
+ "aggiornato": "2026-10-23T09:45:00+02:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -44,21 +44,45 @@
    "partita": "Pachuca – Cruz Azul",
    "squadra_segnalata": "Cruz Azul",
    "era_favorita": null,
-   "risultato": null,
-   "esito_segnale": "da_verificare",
-   "commento": "Risultato della notte non ancora disponibile.",
-   "avversaria": null,
-   "gol_avversaria": null,
+   "risultato": "1-2",
+   "esito_segnale": "smentito",
+   "commento": "Cruz Azul, segnalata, vince 2-1 a Pachuca (giocata il 21/10 ora messicana): obiettivo principale mancato, Pachuca segna: obiettivo secondario centrato.",
+   "avversaria": "Pachuca",
+   "gol_avversaria": true,
    "id_partita": "2026-10-22_pachuca_cruz-azul"
+  },
+  {
+   "id_partita": "2026-10-22_juventus_rennes",
+   "data": "2026-10-22T18:45:00+02:00",
+   "partita": "Juventus – Rennes",
+   "squadra_segnalata": "Juventus",
+   "avversaria": "Rennes",
+   "era_favorita": true,
+   "risultato": "2-2",
+   "gol_avversaria": true,
+   "esito_segnale": "confermato",
+   "commento": "Juve favorita, senza Spalletti in panchina: il Rennes pareggia 2-2 allo Stadium. Entrambi gli obiettivi centrati."
+  },
+  {
+   "id_partita": "2026-10-22_besiktas_crystal-palace",
+   "data": "2026-10-22T21:00:00+02:00",
+   "partita": "Besiktas – Crystal Palace",
+   "squadra_segnalata": "Crystal Palace",
+   "avversaria": "Besiktas",
+   "era_favorita": false,
+   "risultato": "2-2",
+   "gol_avversaria": true,
+   "esito_segnale": "confermato",
+   "commento": "Palace con Sage sotto pressione: 2-2 a Istanbul, il Besiktas non perde e segna. Entrambi gli obiettivi centrati."
   }
  ],
  "bilancio": {
-  "valutati": 3,
-  "avversaria_non_perde": 2,
-  "segnalata_vince": 1,
-  "gol_avversaria_si": 3,
-  "gol_avversaria_valutati": 3,
-  "osservazione": "In 3 partite su 3 l'avversaria ha segnato; in 2 su 3 non ha perso. L'unica squadra segnalata che ha vinto (Real Madrid) aveva solo voci di spogliatoio, nessun problema concreto."
+  "valutati": 6,
+  "avversaria_non_perde": 4,
+  "segnalata_vince": 2,
+  "gol_avversaria_si": 6,
+  "gol_avversaria_valutati": 6,
+  "osservazione": "In 6 partite su 6 l'avversaria ha segnato; in 4 su 6 non ha perso. Le due segnalate che hanno vinto (Real Madrid, Cruz Azul) non avevano problemi concreti verificati su stipendi o società."
  },
  "squadre": [
   {
@@ -74,8 +98,8 @@
    "livello": "alto",
    "motivo": "Tre mesi di stipendi arretrati; boicottaggio degli allenamenti il 14/10; fondi del club bloccati.",
    "andamento": "4-0 al Churchill all'esordio in campionato; 2-3 con Al-Shorta in Asia.",
-   "novita": "L'allenatore Habas parla di clima positivo; nessuna notizia di stipendi pagati.",
-   "da_verificare": "Stipendi pagati?",
+   "novita": "Si gioca a Pune (Balewadi) alle 17 locali (13:30 italiane). Khel Now (21/10): rosa al completo, nessun infortunio; dubbio Dani Ramírez titolare per il turnover in vista dell'AFC. Inter Kashi senza stranieri per il blocco del mercato. Nessuna notizia nuova sugli stipendi.",
+   "da_verificare": "Stipendi pagati? Formazione ufficiale (turnover?)",
    "segnalata_dal": "2026-10-15",
    "fonti": [
     "https://www.mykhel.com/football/east-bengal-players-boycott-training-over-unpaid-salaries-ahead-of-isl-opener-456435.html"
@@ -83,7 +107,11 @@
    "prima_notizia": "2026-10-14",
    "ultima_notizia": "2026-10-17",
    "nome_flashscore": "East Bengal",
-   "id_flashscore": "hh02MvfE"
+   "id_flashscore": "hh02MvfE",
+   "assenze": {
+    "difesa": null,
+    "attacco": null
+   }
   },
   {
    "id": "gateshead",
@@ -96,8 +124,8 @@
    "livello": "alto",
    "motivo": "Stipendi di settembre non pagati; allenatore Cattermole esonerato; cessione in attesa del regolatore.",
    "andamento": "Ultimo in National League; 6 sconfitte di fila; 0-5 a Stafford in FA Cup.",
-   "novita": null,
-   "da_verificare": "Cessione approvata?",
+   "novita": "Nessuna notizia nuova datata trovata nelle ultime ore su stipendi, cessione o infortuni.",
+   "da_verificare": "Cessione approvata? Stipendi di ottobre?",
    "segnalata_dal": "2026-10-10",
    "fonti": [
     "https://www.rawchili.com/5120408/"
@@ -105,7 +133,11 @@
    "prima_notizia": "2026-10-10",
    "ultima_notizia": "2026-10-10",
    "nome_flashscore": "Gateshead",
-   "id_flashscore": "d2vIdDRk"
+   "id_flashscore": "d2vIdDRk",
+   "assenze": {
+    "difesa": null,
+    "attacco": null
+   }
   },
   {
    "id": "juventus",
@@ -119,15 +151,16 @@
    "livello": "medio",
    "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
    "andamento": "Ultime 5: 2 vittorie, 2 pareggi, 1 sconfitta.",
-   "novita": "Bremer si è scusato; Spalletti chiede di 'essere più squadra' e cambia formazione.",
+   "novita": "Spalletti squalificato, non sarà in panchina (Goal, 20/10). Probabile 3-4-2-1: Kalulu, Bremer, Lucumí dietro; Kolo Muani punta. Bremer si era scusato dopo lo sfogo.",
    "assenze": {
     "difesa": "Locatelli infortunato, centrocampo meno protettivo; si valuta il ritorno alla difesa a tre.",
     "attacco": null
    },
-   "da_verificare": "Formazione ufficiale",
+   "da_verificare": "Formazione ufficiale (18:45) e chi va in panchina al posto di Spalletti",
    "segnalata_dal": "2026-10-19",
    "fonti": [
-    "https://www.juvelive.it/2026/10/21/spalletti-juventus-kolo-muani/"
+    "https://www.juvelive.it/2026/10/21/spalletti-juventus-kolo-muani/",
+    "https://www.goal.com/en/news/juventus-rennes-uefa-europa-league-preview/bltfb980f9a5591ee68"
    ],
    "prima_notizia": "2026-10-19",
    "ultima_notizia": "2026-10-21",
@@ -145,7 +178,7 @@
    "livello": "medio",
    "motivo": "L'allenatore Pierre Sage è vicino all'esonero.",
    "andamento": "14° in Premier League.",
-   "novita": "Stasera gioca a Istanbul, non a Londra.",
+   "novita": "Stasera a Istanbul. Nessuna notizia nuova verificata nelle ultime ore: Sage resta l'allenatore nella lista UEFA.",
    "da_verificare": "Sage ancora in panchina?",
    "segnalata_dal": "2026-10-20",
    "fonti": [
@@ -169,7 +202,7 @@
    "livello": "medio",
    "motivo": "Martínez contro la dirigenza, lite con Diallo, Carrick sotto pressione.",
    "andamento": "7 partite senza vittorie; 1-4 a Como.",
-   "novita": "Sconfitta pesante in Champions, pressione su Carrick aumentata.",
+   "novita": "Da Bournemouth: dubbi Martínez (polpaccio) e Mazraoui; De Ligt e Dorgu fuori (fonte non datata con certezza, da verificare).",
    "assenze": {
     "difesa": "Fuori Martínez e Shaw, Yoro squalificato in Champions; De Ligt appena rientrato dopo 11 mesi.",
     "attacco": "Fuori Šeško e Rashford."
@@ -322,38 +355,6 @@
   }
  ],
  "partite": [
-  {
-   "data": "2026-10-22T18:45:00+02:00",
-   "casa": "Juventus",
-   "trasferta": "Rennes",
-   "competizione": "Europa League",
-   "squadra_segnalata": "juventus",
-   "favorita_stimata": "si",
-   "segnalata_in_casa": true,
-   "avversaria": {
-    "nome": "Rennes",
-    "nome_flashscore": "Rennes",
-    "id_flashscore": "d2nnj1IE"
-   },
-   "data_utc": "2026-10-22T16:45:00Z",
-   "id_partita": "2026-10-22_juventus_rennes"
-  },
-  {
-   "data": "2026-10-22T21:00:00+02:00",
-   "casa": "Besiktas",
-   "trasferta": "Crystal Palace",
-   "competizione": "Europa League",
-   "squadra_segnalata": "crystal-palace",
-   "favorita_stimata": "no",
-   "segnalata_in_casa": false,
-   "avversaria": {
-    "nome": "Besiktas",
-    "nome_flashscore": "Besiktas",
-    "id_flashscore": "IDmErJCR"
-   },
-   "data_utc": "2026-10-22T19:00:00Z",
-   "id_partita": "2026-10-22_besiktas_crystal-palace"
-  },
   {
    "data": "2026-10-23T13:30:00+02:00",
    "casa": "Inter Kashi",
