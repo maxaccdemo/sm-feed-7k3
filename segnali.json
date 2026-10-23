@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-23T09:45:00+02:00",
+ "aggiornato": "2026-10-23T09:50:00+02:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -339,19 +339,24 @@
    ],
    "paese": "Inghilterra",
    "tipo": "spogliatoio",
-   "livello": "basso",
-   "motivo": "Glasner a rischio esonero.",
-   "andamento": "Una vittoria nelle prime sette di Premier.",
-   "novita": null,
-   "da_verificare": null,
+   "livello": "medio",
+   "motivo": "Glasner a rischio esonero; attacco sterile: 5 gol in 7 giornate di Premier, 19° con 5 punti.",
+   "andamento": "Una vittoria nelle prime sette di Premier; 0-1 con l'Arsenal nell'ultima.",
+   "novita": "Stasera a Ipswich (21:00 italiane). Fuori Igor Jesus (polpaccio) e Savona (ginocchio); Gibbs-White recuperato. Delap ha segnato un solo gol in campionato.",
+   "da_verificare": "Formazione ufficiale; Glasner resta?",
    "segnalata_dal": "2026-10-20",
    "fonti": [
+    "https://www.fantasyfootballscout.co.uk/2026/10/21/fpl-gameweek-8-team-news-weds-injury-updates-gibbs-white-latest",
     "https://footballwhispers.com/blog/oliver-glasner-sack-odds-why-nottingham-forest-manager-could-be-next"
    ],
    "prima_notizia": "2026-10-20",
-   "ultima_notizia": "2026-10-20",
+   "ultima_notizia": "2026-10-22",
    "nome_flashscore": "Nottingham",
-   "id_flashscore": "UsushcZr"
+   "id_flashscore": "UsushcZr",
+   "assenze": {
+    "difesa": "Savona (ginocchio).",
+    "attacco": "Igor Jesus (polpaccio); Delap con un solo gol stagionale."
+   }
   }
  ],
  "partite": [
@@ -388,7 +393,7 @@
    "id_partita": "2026-10-23_gateshead_tamworth"
   },
   {
-   "data": "2026-10-24T16:00:00+02:00",
+   "data": "2026-10-23T21:00:00+02:00",
    "casa": "Ipswich",
    "trasferta": "Nottingham Forest",
    "competizione": "Premier League",
@@ -400,8 +405,8 @@
     "nome_flashscore": "Ipswich",
     "id_flashscore": "thqhB2MB"
    },
-   "data_utc": "2026-10-24T14:00:00Z",
-   "id_partita": "2026-10-24_ipswich_nottingham-forest"
+   "data_utc": "2026-10-23T19:00:00Z",
+   "id_partita": "2026-10-23_ipswich_nottingham-forest"
   },
   {
    "data": "2026-10-24T21:30:00+02:00",
