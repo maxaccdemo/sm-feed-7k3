@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-23T09:46:14+02:00",
+ "aggiornato": "2026-10-23T16:04:05+02:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -229,14 +229,14 @@
    "livello": "basso",
    "motivo": "Due mesi di stipendi, diritti d'immagine e contributi arretrati; sciopero delle interviste.",
    "andamento": "Ha battuto Criciúma, Goiás e América-MG senza stipendio; 6° in Série B.",
-   "novita": "Presidente Adson Batista ammette i ritardi e promette il pagamento entro venerdì (circa 16 milioni di R$ da incassare da cessioni), ma nello spogliatoio nessuno ci crede; cancelli chiusi a stampa e tifosi (Tribuna do Planalto, ohoje 20/10). Si gioca sabato alle 16:30 locali.",
+   "novita": "Presidente Adson Batista ammette i ritardi e promette il pagamento entro venerdì (circa 16 milioni di R$ da incassare da cessioni), ma nello spogliatoio nessuno ci crede; cancelli chiusi a stampa e tifosi (Tribuna do Planalto, ohoje 20/10). Si gioca sabato (21:30 italiane); confermato da Tribuna do Planalto (21/10): promessa di pagamento entro venerdì, nessuno ci crede.",
    "da_verificare": "Il club ha pagato?",
    "segnalata_dal": "2026-10-19",
    "fonti": [
     "https://brasilemfolhas.com.br/2026/10/atletico-go-anuncia-greve-de-entrevistas-por-atraso-salarial/"
    ],
    "prima_notizia": "2026-10-19",
-   "ultima_notizia": "2026-10-20",
+   "ultima_notizia": "2026-10-21",
    "nome_flashscore": "Atletico GO",
    "id_flashscore": "8M0mP8nt"
   },
@@ -342,7 +342,7 @@
    "livello": "medio",
    "motivo": "Glasner a rischio esonero; attacco sterile: 5 gol in 7 giornate di Premier, 19° con 5 punti.",
    "andamento": "Una vittoria nelle prime sette di Premier; 0-1 con l'Arsenal nell'ultima.",
-   "novita": "Stasera a Ipswich (21:00 italiane). Gibbs-White recuperato; fuori Igor Jesus (polpaccio) e Savona (ginocchio). Delap un solo gol in campionato ma dovrebbe giocare titolare (Sports Mole, 23/10).",
+   "novita": "Stasera a Ipswich (21:00 italiane). Glasner: Gibbs-White pronto, si è allenato tutta la settimana. Fuori Igor Jesus (polpaccio) e Savona (ginocchio). Probabile XI: Sels; Cunha, Diomande, Murillo; Munoz, McAtee, Schlager, N Williams; Gibbs-White, Delap, Ndoye (Sports Mole, 23/10).",
    "da_verificare": "Formazione ufficiale; Glasner resta?",
    "segnalata_dal": "2026-10-20",
    "fonti": [
@@ -350,7 +350,7 @@
     "https://footballwhispers.com/blog/oliver-glasner-sack-odds-why-nottingham-forest-manager-could-be-next"
    ],
    "prima_notizia": "2026-10-20",
-   "ultima_notizia": "2026-10-22",
+   "ultima_notizia": "2026-10-23",
    "nome_flashscore": "Nottingham",
    "id_flashscore": "UsushcZr",
    "assenze": {
