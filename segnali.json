@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-23T09:50:00+02:00",
+ "aggiornato": "2026-10-23T09:46:14+02:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -229,7 +229,7 @@
    "livello": "basso",
    "motivo": "Due mesi di stipendi, diritti d'immagine e contributi arretrati; sciopero delle interviste.",
    "andamento": "Ha battuto Criciúma, Goiás e América-MG senza stipendio; 6° in Série B.",
-   "novita": null,
+   "novita": "Presidente Adson Batista ammette i ritardi e promette il pagamento entro venerdì (circa 16 milioni di R$ da incassare da cessioni), ma nello spogliatoio nessuno ci crede; cancelli chiusi a stampa e tifosi (Tribuna do Planalto, ohoje 20/10). Si gioca sabato alle 16:30 locali.",
    "da_verificare": "Il club ha pagato?",
    "segnalata_dal": "2026-10-19",
    "fonti": [
@@ -342,7 +342,7 @@
    "livello": "medio",
    "motivo": "Glasner a rischio esonero; attacco sterile: 5 gol in 7 giornate di Premier, 19° con 5 punti.",
    "andamento": "Una vittoria nelle prime sette di Premier; 0-1 con l'Arsenal nell'ultima.",
-   "novita": "Stasera a Ipswich (21:00 italiane). Fuori Igor Jesus (polpaccio) e Savona (ginocchio); Gibbs-White recuperato. Delap ha segnato un solo gol in campionato.",
+   "novita": "Stasera a Ipswich (21:00 italiane). Gibbs-White recuperato; fuori Igor Jesus (polpaccio) e Savona (ginocchio). Delap un solo gol in campionato ma dovrebbe giocare titolare (Sports Mole, 23/10).",
    "da_verificare": "Formazione ufficiale; Glasner resta?",
    "segnalata_dal": "2026-10-20",
    "fonti": [
@@ -409,6 +409,23 @@
    "id_partita": "2026-10-23_ipswich_nottingham-forest"
   },
   {
+   "data": "2026-10-24T18:00:00+02:00",
+   "casa": "Napoli",
+   "trasferta": "Roma",
+   "competizione": "Serie A",
+   "squadra_segnalata": "napoli",
+   "favorita_stimata": "incerta",
+   "nota": "orario da confermare (una fonte indica il 25/10)",
+   "segnalata_in_casa": true,
+   "avversaria": {
+    "nome": "Roma",
+    "nome_flashscore": "AS Roma",
+    "id_flashscore": "zVqqL0ma"
+   },
+   "data_utc": "2026-10-24T16:00:00Z",
+   "id_partita": "2026-10-24_napoli_roma"
+  },
+  {
    "data": "2026-10-24T21:30:00+02:00",
    "casa": "Atlético-GO",
    "trasferta": "Novorizontino",
@@ -472,23 +489,6 @@
    },
    "data_utc": "2026-10-25T14:00:00Z",
    "id_partita": "2026-10-25_manchester-united_bournemouth"
-  },
-  {
-   "data": "2026-10-25T18:30:00+01:00",
-   "casa": "Napoli",
-   "trasferta": "Roma",
-   "competizione": "Serie A",
-   "squadra_segnalata": "napoli",
-   "favorita_stimata": "incerta",
-   "nota": "orario da confermare",
-   "segnalata_in_casa": true,
-   "avversaria": {
-    "nome": "Roma",
-    "nome_flashscore": "AS Roma",
-    "id_flashscore": "zVqqL0ma"
-   },
-   "data_utc": "2026-10-25T17:30:00Z",
-   "id_partita": "2026-10-25_napoli_roma"
   },
   {
    "data": "2026-10-25T22:00:00+01:00",
