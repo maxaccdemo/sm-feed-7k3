@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-24T09:10:40+02:00",
+ "aggiornato": "2026-10-24T16:01:59+02:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -175,10 +175,10 @@
    "livello": "medio",
    "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
    "andamento": "Ultime 5: 2 vittorie, 2 pareggi, 1 sconfitta.",
-   "novita": "Contro il Lecce domenica Spalletti torna in panchina (squalifica solo per la Lazio). Il 21/10 non si allenavano Conceição, Locatelli, Yildiz, Thuram, Grabara ed Ekhator: da verificare per Lecce.",
+   "novita": "Spalletti salta la conferenza stampa della vigilia di Lecce. Due nuovi stop muscolari: Çelik (circa 3 settimane) e Nico González (circa un mese). Il 21/10 non si allenavano Conceição, Locatelli, Yildiz, Thuram, Grabara ed Ekhator: da verificare.",
    "assenze": {
-    "difesa": "Locatelli infortunato, Grabara (portiere) assente il 21/10.",
-    "attacco": "Yildiz, Thuram, Ekhator e Conceição assenti dagli allenamenti il 21/10 (da verificare)."
+    "difesa": "Çelik (lesione muscolare, ~3 settimane); Locatelli infortunato; Grabara (portiere) assente il 21/10.",
+    "attacco": "Nico González fuori (~1 mese); Yildiz, Thuram, Ekhator e Conceição assenti dagli allenamenti il 21/10 (da verificare)."
    },
    "da_verificare": "Convocati per Lecce, orario (15:00 secondo Fantacalcio) e assenti",
    "segnalata_dal": "2026-10-19",
@@ -187,7 +187,7 @@
     "https://www.goal.com/en/news/juventus-rennes-uefa-europa-league-preview/bltfb980f9a5591ee68"
    ],
    "prima_notizia": "2026-10-19",
-   "ultima_notizia": "2026-10-21",
+   "ultima_notizia": "2026-10-24",
    "nome_flashscore": "Juventus",
    "id_flashscore": "C06aJvIB"
   },
@@ -203,7 +203,7 @@
    "motivo": "L'allenatore Pierre Sage è vicino all'esonero.",
    "andamento": "14° in Premier League.",
    "novita": "Stasera a Istanbul. Nessuna notizia nuova verificata nelle ultime ore: Sage resta l'allenatore nella lista UEFA.",
-   "da_verificare": "Sage ancora in panchina?",
+   "da_verificare": "Sage ancora in panchina? Prossima: Newcastle in casa il 24 o 25/10 (fonti discordanti, orario non verificato)",
    "segnalata_dal": "2026-10-20",
    "fonti": [
     "https://www.kickoff.co.uk/uefa-europa-league-predictions-stats-odds/besiktas-vs-crystal-palace/"
@@ -226,9 +226,9 @@
    "livello": "medio",
    "motivo": "Martínez contro la dirigenza, lite con Diallo, Carrick sotto pressione.",
    "andamento": "7 partite senza vittorie; 1-4 a Como.",
-   "novita": "Carrick resta in panchina contro il Bournemouth dopo l'1-4 di Como, ma si parla di esonero (Sports Mole/Brit Brief, 23/10). Rientra Heaven; Martínez e Rashford da valutare.",
+   "novita": "Carrick resta in panchina contro il Bournemouth (conferenza del 24/10: discorso sui valori, non esclude Bruno Fernandes fuori); si parla di esonero. Ugarte e Mazraoui fuori; Martínez e Rashford da valutare.",
    "assenze": {
-    "difesa": "Shaw e Dorgu fuori fino a novembre; Lisandro Martínez (polpaccio) da valutare.",
+    "difesa": "Shaw e Dorgu fuori fino a novembre; Mazraoui fuori; Lisandro Martínez (polpaccio) da valutare.",
     "attacco": "Šeško (stinco) in dubbio; Rashford (anca) da valutare; Mainoo fuori fino a 10 giorni, Ugarte lungodegente."
    },
    "da_verificare": "Carrick resta?",
@@ -237,7 +237,7 @@
     "https://www.caughtoffside.com/2026/10/14/man-united-dressing-room-make-stance-clear-martinez-rant/"
    ],
    "prima_notizia": "2026-10-14",
-   "ultima_notizia": "2026-10-23",
+   "ultima_notizia": "2026-10-24",
    "nome_flashscore": "Manchester Utd",
    "id_flashscore": "ppjDR086"
   },
@@ -299,16 +299,20 @@
    "livello": "medio",
    "motivo": "Lascia il direttore sportivo Paz tra debiti e scontri con la dirigenza; allenatore Diniz esonerato il 7/10.",
    "andamento": "Serie record di sconfitte, vicino alla zona retrocessione.",
-   "novita": "Diritti d'immagine non pagati: tre mesi di ritardo (circa 30 milioni di real), stipendi CLT regolari. Gabriel Paulista, che aveva criticato i ritardi, è infortunato; spogliatoio chiuso ai giornalisti e tensione con il presidente Stabile.",
-   "da_verificare": "Nuovo allenatore?",
+   "novita": "Vasco–Corinthians stasera (18:30 di Brasilia), scontro diretto salvezza: Corinthians 16° con 33 punti, Vasco 15°. Seedorf nuovo allenatore (annunciato l'11/10, contratto al 2027). Otto assenti, tra cui Gabriel Paulista (lesione muscolare). Diritti d'immagine in ritardo.",
+   "da_verificare": "Formazione ufficiale; diritti d'immagine pagati?",
    "segnalata_dal": "2026-10-20",
    "fonti": [
     "https://br.bolavip.com/corinthians/marcelo-paz-deixa-o-corinthians-apos-dez-meses-e-sequencia-de-desgastes-com-a-diretoria"
    ],
    "prima_notizia": "2026-10-20",
-   "ultima_notizia": "2026-10-20",
+   "ultima_notizia": "2026-10-24",
    "nome_flashscore": "Corinthians",
-   "id_flashscore": "QBGfQbSe"
+   "id_flashscore": "QBGfQbSe",
+   "assenze": {
+    "difesa": "Gabriel Paulista (lesione muscolare); otto assenti in totale.",
+    "attacco": null
+   }
   },
   {
    "id": "fas",
@@ -344,8 +348,8 @@
    "livello": "basso",
    "motivo": "Rottura tra De Bruyne e Allegri.",
    "andamento": "Sconfitta con il Venezia ultimo in classifica; nessun punto in Champions prima del Bodø.",
-   "novita": "Napoli–Roma oggi alle 18 al Maradona: assenze in difesa e attacco (napolimagazine, 23/10). Libero riportava tensioni nello spogliatoio dopo il pari con la Fiorentina.",
-   "da_verificare": "Formazione",
+   "novita": "Napoli–Roma oggi alle 18 (confermato, Sky 23/10). Fuori Buongiorno e Favasuli in difesa, Neres e Alisson Santos in attacco; Rrahmani in dubbio per la febbre. Roma senza Dybala, Koné, Svilar e Pellegrini. De Bruyne dato titolare in regia.",
+   "da_verificare": "Formazione ufficiale (Rrahmani, portiere, De Bruyne)",
    "segnalata_dal": "2026-10-14",
    "fonti": [
     "https://www.footballtransfers.com/en/transfer-news/it-serie-a/2026/10/tensions-rise-napoli-communication-breaks-down-kevin-de-bruyne-massimiliano-allegri"
@@ -355,8 +359,8 @@
    "nome_flashscore": "Napoli",
    "id_flashscore": "69Dxbc61",
    "assenze": {
-    "difesa": "Buongiorno da valutare, Favasuli indisponibile.",
-    "attacco": "Neres da valutare, Alisson Santos indisponibile."
+    "difesa": "Buongiorno e Favasuli indisponibili, Rrahmani in dubbio (febbre).",
+    "attacco": "Neres e Alisson Santos indisponibili."
    }
   },
   {
@@ -395,7 +399,6 @@
    "competizione": "Serie A",
    "squadra_segnalata": "napoli",
    "favorita_stimata": "incerta",
-   "nota": "orario da confermare (una fonte indica il 25/10)",
    "segnalata_in_casa": true,
    "avversaria": {
     "nome": "Roma",
@@ -485,7 +488,7 @@
    },
    "data_utc": "2026-10-25T14:00:00Z",
    "id_partita": "2026-10-25_lecce_juventus",
-   "nota": "orario da confermare"
+   "nota": "orario da confermare (fonti discordanti: 15:00 / 20:00)"
   },
   {
    "data": "2026-10-25T22:00:00+01:00",
