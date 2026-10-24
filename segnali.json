@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-23T16:04:05+02:00",
+ "aggiornato": "2026-10-24T09:10:40+02:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -74,15 +74,39 @@
    "gol_avversaria": true,
    "esito_segnale": "confermato",
    "commento": "Palace con Sage sotto pressione: 2-2 a Istanbul, il Besiktas non perde e segna. Entrambi gli obiettivi centrati."
+  },
+  {
+   "id_partita": "2026-10-23_inter-kashi_east-bengal",
+   "data": "2026-10-23T13:30:00+02:00",
+   "partita": "Inter Kashi – East Bengal",
+   "squadra_segnalata": "East Bengal",
+   "avversaria": "Inter Kashi",
+   "era_favorita": true,
+   "risultato": "1-5",
+   "gol_avversaria": true,
+   "esito_segnale": "smentito",
+   "commento": "East Bengal, segnalata per gli stipendi arretrati, vince 5-1 a Pune: obiettivo principale mancato, Inter Kashi segna (autogol): obiettivo secondario centrato."
+  },
+  {
+   "id_partita": "2026-10-23_ipswich_nottingham-forest",
+   "data": "2026-10-23T21:00:00+02:00",
+   "partita": "Ipswich – Nottingham Forest",
+   "squadra_segnalata": "Nottingham Forest",
+   "avversaria": "Ipswich",
+   "era_favorita": null,
+   "risultato": "1-1",
+   "gol_avversaria": true,
+   "esito_segnale": "confermato",
+   "commento": "Forest non vince (una sola vittoria in otto partite): l'Ipswich pareggia in rimonta e segna. Entrambi gli obiettivi centrati."
   }
  ],
  "bilancio": {
-  "valutati": 6,
-  "avversaria_non_perde": 4,
-  "segnalata_vince": 2,
-  "gol_avversaria_si": 6,
-  "gol_avversaria_valutati": 6,
-  "osservazione": "In 6 partite su 6 l'avversaria ha segnato; in 4 su 6 non ha perso. Le due segnalate che hanno vinto (Real Madrid, Cruz Azul) non avevano problemi concreti verificati su stipendi o società."
+  "valutati": 8,
+  "avversaria_non_perde": 5,
+  "segnalata_vince": 3,
+  "gol_avversaria_si": 8,
+  "gol_avversaria_valutati": 8,
+  "osservazione": "In 8 partite su 8 l'avversaria ha segnato; in 5 su 8 non ha perso. Le tre segnalate che hanno vinto (Real Madrid, Cruz Azul, East Bengal) erano favorite o in forma: gli stipendi arretrati da soli non fermano chi vince in campionati dove l'avversaria è debole."
  },
  "squadre": [
   {
@@ -97,8 +121,8 @@
    "tipo": "stipendi",
    "livello": "alto",
    "motivo": "Tre mesi di stipendi arretrati; boicottaggio degli allenamenti il 14/10; fondi del club bloccati.",
-   "andamento": "4-0 al Churchill all'esordio in campionato; 2-3 con Al-Shorta in Asia.",
-   "novita": "Si gioca a Pune (Balewadi) alle 17 locali (13:30 italiane). Khel Now (21/10): rosa al completo, nessun infortunio; dubbio Dani Ramírez titolare per il turnover in vista dell'AFC. Inter Kashi senza stranieri per il blocco del mercato. Nessuna notizia nuova sugli stipendi.",
+   "andamento": "4-0 al Churchill all'esordio; 2-3 con Al-Shorta in Asia; 5-1 a Inter Kashi il 23/10 (primo in classifica).",
+   "novita": "Nonostante i problemi, il 23/10 ha battuto 5-1 l'Inter Kashi. Nessuna notizia nuova sugli stipendi.",
    "da_verificare": "Stipendi pagati? Formazione ufficiale (turnover?)",
    "segnalata_dal": "2026-10-15",
    "fonti": [
@@ -124,7 +148,7 @@
    "livello": "alto",
    "motivo": "Stipendi di settembre non pagati; allenatore Cattermole esonerato; cessione in attesa del regolatore.",
    "andamento": "Ultimo in National League; 6 sconfitte di fila; 0-5 a Stafford in FA Cup.",
-   "novita": "Nessuna notizia nuova datata trovata nelle ultime ore su stipendi, cessione o infortuni.",
+   "novita": "Gateshead–Tamworth del 23/10 rinviata per pioggia (maltempo), nuova data da fissare. Nessuna notizia nuova su stipendi o cessione.",
    "da_verificare": "Cessione approvata? Stipendi di ottobre?",
    "segnalata_dal": "2026-10-10",
    "fonti": [
@@ -151,12 +175,12 @@
    "livello": "medio",
    "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
    "andamento": "Ultime 5: 2 vittorie, 2 pareggi, 1 sconfitta.",
-   "novita": "Spalletti squalificato, non sarà in panchina (Goal, 20/10). Probabile 3-4-2-1: Kalulu, Bremer, Lucumí dietro; Kolo Muani punta. Bremer si era scusato dopo lo sfogo.",
+   "novita": "Contro il Lecce domenica Spalletti torna in panchina (squalifica solo per la Lazio). Il 21/10 non si allenavano Conceição, Locatelli, Yildiz, Thuram, Grabara ed Ekhator: da verificare per Lecce.",
    "assenze": {
-    "difesa": "Locatelli infortunato, centrocampo meno protettivo; si valuta il ritorno alla difesa a tre.",
-    "attacco": null
+    "difesa": "Locatelli infortunato, Grabara (portiere) assente il 21/10.",
+    "attacco": "Yildiz, Thuram, Ekhator e Conceição assenti dagli allenamenti il 21/10 (da verificare)."
    },
-   "da_verificare": "Formazione ufficiale (18:45) e chi va in panchina al posto di Spalletti",
+   "da_verificare": "Convocati per Lecce, orario (15:00 secondo Fantacalcio) e assenti",
    "segnalata_dal": "2026-10-19",
    "fonti": [
     "https://www.juvelive.it/2026/10/21/spalletti-juventus-kolo-muani/",
@@ -202,10 +226,10 @@
    "livello": "medio",
    "motivo": "Martínez contro la dirigenza, lite con Diallo, Carrick sotto pressione.",
    "andamento": "7 partite senza vittorie; 1-4 a Como.",
-   "novita": "Da Bournemouth: dubbi Martínez (polpaccio) e Mazraoui; De Ligt e Dorgu fuori (fonte non datata con certezza, da verificare).",
+   "novita": "Carrick resta in panchina contro il Bournemouth dopo l'1-4 di Como, ma si parla di esonero (Sports Mole/Brit Brief, 23/10). Rientra Heaven; Martínez e Rashford da valutare.",
    "assenze": {
-    "difesa": "Fuori Martínez e Shaw, Yoro squalificato in Champions; De Ligt appena rientrato dopo 11 mesi.",
-    "attacco": "Fuori Šeško e Rashford."
+    "difesa": "Shaw e Dorgu fuori fino a novembre; Lisandro Martínez (polpaccio) da valutare.",
+    "attacco": "Šeško (stinco) in dubbio; Rashford (anca) da valutare; Mainoo fuori fino a 10 giorni, Ugarte lungodegente."
    },
    "da_verificare": "Carrick resta?",
    "segnalata_dal": "2026-10-14",
@@ -213,7 +237,7 @@
     "https://www.caughtoffside.com/2026/10/14/man-united-dressing-room-make-stance-clear-martinez-rant/"
    ],
    "prima_notizia": "2026-10-14",
-   "ultima_notizia": "2026-10-21",
+   "ultima_notizia": "2026-10-23",
    "nome_flashscore": "Manchester Utd",
    "id_flashscore": "ppjDR086"
   },
@@ -229,7 +253,7 @@
    "livello": "basso",
    "motivo": "Due mesi di stipendi, diritti d'immagine e contributi arretrati; sciopero delle interviste.",
    "andamento": "Ha battuto Criciúma, Goiás e América-MG senza stipendio; 6° in Série B.",
-   "novita": "Presidente Adson Batista ammette i ritardi e promette il pagamento entro venerdì (circa 16 milioni di R$ da incassare da cessioni), ma nello spogliatoio nessuno ci crede; cancelli chiusi a stampa e tifosi (Tribuna do Planalto, ohoje 20/10). Si gioca sabato (21:30 italiane); confermato da Tribuna do Planalto (21/10): promessa di pagamento entro venerdì, nessuno ci crede.",
+   "novita": "I giocatori non rilasciano interviste finché il club non paga: due mesi di stipendi, due rate di diritti d'immagine e FGTS (ohoje, 20/10). Nessuna conferma di pagamento dopo il 19/10.",
    "da_verificare": "Il club ha pagato?",
    "segnalata_dal": "2026-10-19",
    "fonti": [
@@ -275,7 +299,7 @@
    "livello": "medio",
    "motivo": "Lascia il direttore sportivo Paz tra debiti e scontri con la dirigenza; allenatore Diniz esonerato il 7/10.",
    "andamento": "Serie record di sconfitte, vicino alla zona retrocessione.",
-   "novita": null,
+   "novita": "Diritti d'immagine non pagati: tre mesi di ritardo (circa 30 milioni di real), stipendi CLT regolari. Gabriel Paulista, che aveva criticato i ritardi, è infortunato; spogliatoio chiuso ai giornalisti e tensione con il presidente Stabile.",
    "da_verificare": "Nuovo allenatore?",
    "segnalata_dal": "2026-10-20",
    "fonti": [
@@ -320,7 +344,7 @@
    "livello": "basso",
    "motivo": "Rottura tra De Bruyne e Allegri.",
    "andamento": "Sconfitta con il Venezia ultimo in classifica; nessun punto in Champions prima del Bodø.",
-   "novita": null,
+   "novita": "Napoli–Roma oggi alle 18 al Maradona: assenze in difesa e attacco (napolimagazine, 23/10). Libero riportava tensioni nello spogliatoio dopo il pari con la Fiorentina.",
    "da_verificare": "Formazione",
    "segnalata_dal": "2026-10-14",
    "fonti": [
@@ -329,7 +353,11 @@
    "prima_notizia": "2026-10-14",
    "ultima_notizia": "2026-10-18",
    "nome_flashscore": "Napoli",
-   "id_flashscore": "69Dxbc61"
+   "id_flashscore": "69Dxbc61",
+   "assenze": {
+    "difesa": "Buongiorno da valutare, Favasuli indisponibile.",
+    "attacco": "Neres da valutare, Alisson Santos indisponibile."
+   }
   },
   {
    "id": "nottingham-forest",
@@ -341,7 +369,7 @@
    "tipo": "spogliatoio",
    "livello": "medio",
    "motivo": "Glasner a rischio esonero; attacco sterile: 5 gol in 7 giornate di Premier, 19° con 5 punti.",
-   "andamento": "Una vittoria nelle prime sette di Premier; 0-1 con l'Arsenal nell'ultima.",
+   "andamento": "1-1 a Ipswich il 23/10: una sola vittoria in otto partite.",
    "novita": "Stasera a Ipswich (21:00 italiane). Glasner: Gibbs-White pronto, si è allenato tutta la settimana. Fuori Igor Jesus (polpaccio) e Savona (ginocchio). Probabile XI: Sels; Cunha, Diomande, Murillo; Munoz, McAtee, Schlager, N Williams; Gibbs-White, Delap, Ndoye (Sports Mole, 23/10).",
    "da_verificare": "Formazione ufficiale; Glasner resta?",
    "segnalata_dal": "2026-10-20",
@@ -360,54 +388,6 @@
   }
  ],
  "partite": [
-  {
-   "data": "2026-10-23T13:30:00+02:00",
-   "casa": "Inter Kashi",
-   "trasferta": "East Bengal",
-   "competizione": "Indian Super League",
-   "squadra_segnalata": "east-bengal",
-   "favorita_stimata": "si",
-   "segnalata_in_casa": false,
-   "avversaria": {
-    "nome": "Inter Kashi",
-    "nome_flashscore": "Inter Kashi",
-    "id_flashscore": "K2ADKy2f"
-   },
-   "data_utc": "2026-10-23T11:30:00Z",
-   "id_partita": "2026-10-23_inter-kashi_east-bengal"
-  },
-  {
-   "data": "2026-10-23T20:45:00+02:00",
-   "casa": "Gateshead",
-   "trasferta": "Tamworth",
-   "competizione": "National League",
-   "squadra_segnalata": "gateshead",
-   "favorita_stimata": "no",
-   "segnalata_in_casa": true,
-   "avversaria": {
-    "nome": "Tamworth",
-    "nome_flashscore": "Tamworth",
-    "id_flashscore": "6kmzF1qt"
-   },
-   "data_utc": "2026-10-23T18:45:00Z",
-   "id_partita": "2026-10-23_gateshead_tamworth"
-  },
-  {
-   "data": "2026-10-23T21:00:00+02:00",
-   "casa": "Ipswich",
-   "trasferta": "Nottingham Forest",
-   "competizione": "Premier League",
-   "squadra_segnalata": "nottingham-forest",
-   "favorita_stimata": "incerta",
-   "segnalata_in_casa": false,
-   "avversaria": {
-    "nome": "Ipswich",
-    "nome_flashscore": "Ipswich",
-    "id_flashscore": "thqhB2MB"
-   },
-   "data_utc": "2026-10-23T19:00:00Z",
-   "id_partita": "2026-10-23_ipswich_nottingham-forest"
-  },
   {
    "data": "2026-10-24T18:00:00+02:00",
    "casa": "Napoli",
@@ -489,6 +469,23 @@
    },
    "data_utc": "2026-10-25T14:00:00Z",
    "id_partita": "2026-10-25_manchester-united_bournemouth"
+  },
+  {
+   "data": "2026-10-25T15:00:00+01:00",
+   "casa": "Lecce",
+   "trasferta": "Juventus",
+   "competizione": "Serie A",
+   "squadra_segnalata": "juventus",
+   "favorita_stimata": "si",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Lecce",
+    "nome_flashscore": "Lecce",
+    "id_flashscore": "G8lYsMgU"
+   },
+   "data_utc": "2026-10-25T14:00:00Z",
+   "id_partita": "2026-10-25_lecce_juventus",
+   "nota": "orario da confermare"
   },
   {
    "data": "2026-10-25T22:00:00+01:00",
