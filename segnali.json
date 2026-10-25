@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-25T09:12:55+01:00",
+ "aggiornato": "2026-10-25T16:03:08+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -235,7 +235,7 @@
    "livello": "medio",
    "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
    "andamento": "Ultime 5: 2 vittorie, 2 pareggi, 1 sconfitta.",
-   "novita": "Oggi a Lecce alle 18:00. Assenti Yildiz, Thuram, Ekhator, Locatelli, Grabara, Conceição, Milik, Çelik e Nico González; Sarr convocato ma con un fastidio all'adduttore. Posizione di Spalletti descritta come in bilico (Fanpage 25/10). Dopo la Lazio (0-3) e il 2-2 col Rennes.",
+   "novita": "Oggi a Lecce alle 18:00. Assenti Yildiz, Thuram, Ekhator, Locatelli, Grabara, Conceição, Milik, Çelik e Nico González; Sarr convocato ma con un fastidio all'adduttore. Posizione di Spalletti descritta come in bilico (Fanpage 25/10). Dopo la Lazio (0-3) e il 2-2 col Rennes. Ore 16: Sarr in ballottaggio con Koopmeiners (Goal 55%-45%); attacco Woltemade–Kolo Muani con McKennie dietro (Sky Sport 24/10).",
    "assenze": {
     "difesa": "Çelik (lesione muscolare); Locatelli e Grabara (portiere) indisponibili.",
     "attacco": "Yildiz, Thuram, Ekhator, Conceição, Milik e Nico González indisponibili; Sarr con un fastidio all'adduttore."
@@ -468,9 +468,9 @@
    "livello": "medio",
    "motivo": "Difesa decimata per il Clásico: Christensen (coscia) e Eric García (coscia, 3-4 settimane) fuori, Koundé (caviglia) dato per assente da alcune fonti.",
    "andamento": "Capolista in Liga, vuole vincere le prime dieci di fila; sei punti sul Real Madrid.",
-   "novita": "Clásico oggi alle 21:00 al Camp Nou. Fuori anche Olmo e Bardghji. Il Real Madrid ha a sua volta Asencio, Mendy e Rodrygo fuori e Vinícius squalificato.",
+   "novita": "Clásico oggi alle 21:00 al Camp Nou. Koundé molto improbabile (Sports Mole, Al Jazeera 25/10); fuori anche Olmo e Bardghji. Il Real Madrid ha Rodrygo, Mendy e Asencio fuori e Vinícius squalificato. Formazioni ufficiali non ancora pubblicate.",
    "assenze": {
-    "difesa": "Christensen e Eric García fuori; Koundé (caviglia) in dubbio o fuori.",
+    "difesa": "Christensen e Eric García fuori; Koundé (caviglia) molto improbabile, assente dagli allenamenti di venerdì.",
     "attacco": "Olmo (adduttore, ~1 mese) e Bardghji (ginocchio) fuori."
    },
    "da_verificare": "Koundé convocato? Formazione ufficiale",
@@ -481,7 +481,7 @@
     "https://www.365scores.com/es/news/barcelona-real-madrid-lesionados-bajas/"
    ],
    "prima_notizia": "2026-10-24",
-   "ultima_notizia": "2026-10-24",
+   "ultima_notizia": "2026-10-25",
    "nome_flashscore": "Barcelona",
    "id_flashscore": "SKbpVP5K"
   }
