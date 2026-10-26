@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-25T16:03:08+01:00",
+ "aggiornato": "2026-10-26T09:14:34+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -158,15 +158,63 @@
    "avversaria": "Águila",
    "gol_avversaria": true,
    "id_partita": "2026-10-25_aguila_fas"
+  },
+  {
+   "id_partita": "2026-10-25_manchester-united_bournemouth",
+   "data": "2026-10-25T15:00:00+01:00",
+   "partita": "Manchester United – Bournemouth",
+   "squadra_segnalata": "Manchester United",
+   "avversaria": "Bournemouth",
+   "era_favorita": true,
+   "risultato": "0-3",
+   "gol_avversaria": true,
+   "esito_segnale": "confermato",
+   "commento": "United in casa travolto 0-3 (Rayan, Tavernier, Evanilson), ottava partita senza vittorie: entrambi gli obiettivi centrati."
+  },
+  {
+   "id_partita": "2026-10-25_crystal-palace_newcastle",
+   "data": "2026-10-25T15:00:00+01:00",
+   "partita": "Crystal Palace – Newcastle",
+   "squadra_segnalata": "Crystal Palace",
+   "avversaria": "Newcastle",
+   "era_favorita": null,
+   "risultato": "0-2",
+   "gol_avversaria": true,
+   "esito_segnale": "confermato",
+   "commento": "Palace battuto 0-2 in casa (Osula, Barnes) e Sage sempre più sotto pressione: l'avversaria vince e segna."
+  },
+  {
+   "id_partita": "2026-10-25_lecce_juventus",
+   "data": "2026-10-25T18:00:00+01:00",
+   "partita": "Lecce – Juventus",
+   "squadra_segnalata": "Juventus",
+   "avversaria": "Lecce",
+   "era_favorita": true,
+   "risultato": "0-2",
+   "gol_avversaria": false,
+   "esito_segnale": "smentito",
+   "commento": "La Juve vince 2-0 (McKennie, Douglas Luiz) e Spalletti respira: obiettivo principale mancato, Lecce a secco."
+  },
+  {
+   "id_partita": "2026-10-25_barcelona_real-madrid",
+   "data": "2026-10-25T21:00:00+01:00",
+   "partita": "Barcelona – Real Madrid",
+   "squadra_segnalata": "Barcelona",
+   "avversaria": "Real Madrid",
+   "era_favorita": true,
+   "risultato": "1-2",
+   "gol_avversaria": true,
+   "esito_segnale": "confermato",
+   "commento": "Barcellona con difesa decimata perde il Clásico 1-2 (doppietta di Mbappé, 87'): l'avversaria vince e segna."
   }
  ],
  "bilancio": {
-  "valutati": 13,
-  "avversaria_non_perde": 10,
-  "segnalata_vince": 3,
-  "gol_avversaria_si": 12,
-  "gol_avversaria_valutati": 13,
-  "osservazione": "In 12 partite su 13 l'avversaria ha segnato; in 10 su 13 non ha perso. Le segnalate che vincono (Real Madrid, Cruz Azul, East Bengal) erano favorite o in forma; con squadre di peso (Napoli, Man Utd, Juventus, Corinthians) l'avversaria ha sempre evitato la sconfitta. Unico a secco: San Lorenzo 0-0."
+  "valutati": 17,
+  "avversaria_non_perde": 13,
+  "segnalata_vince": 4,
+  "gol_avversaria_si": 15,
+  "gol_avversaria_valutati": 17,
+  "osservazione": "In 15 partite su 17 l'avversaria ha segnato; in 13 su 17 non ha perso. Le segnalate che vincono (Real Madrid, Cruz Azul, East Bengal, Juventus) erano favorite o in forma. Domenica 25/10 tre segnalate di peso su quattro (United, Palace, Barcellona) hanno perso; la Juve ha vinto contro un Lecce a secco."
  },
  "squadre": [
   {
@@ -234,15 +282,16 @@
    "tipo": "spogliatoio",
    "livello": "medio",
    "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
-   "andamento": "Ultime 5: 2 vittorie, 2 pareggi, 1 sconfitta.",
-   "novita": "Oggi a Lecce alle 18:00. Assenti Yildiz, Thuram, Ekhator, Locatelli, Grabara, Conceição, Milik, Çelik e Nico González; Sarr convocato ma con un fastidio all'adduttore. Posizione di Spalletti descritta come in bilico (Fanpage 25/10). Dopo la Lazio (0-3) e il 2-2 col Rennes. Ore 16: Sarr in ballottaggio con Koopmeiners (Goal 55%-45%); attacco Woltemade–Kolo Muani con McKennie dietro (Sky Sport 24/10).",
+   "andamento": "Lecce–Juventus 0-2 il 25/10: prima vittoria in campionato dopo oltre un mese; 14 punti.",
+   "novita": "La Juve batte il Lecce 2-0 (McKennie, Douglas Luiz) e Spalletti respira; calo nella ripresa. Mercoledì 28/10 a Genoa, il 1/11 col Napoli. Tante assenze restano (Yildiz, Thuram, Locatelli, Grabara...).",
    "assenze": {
     "difesa": "Çelik (lesione muscolare); Locatelli e Grabara (portiere) indisponibili.",
     "attacco": "Yildiz, Thuram, Ekhator, Conceição, Milik e Nico González indisponibili; Sarr con un fastidio all'adduttore."
    },
-   "da_verificare": "Formazione ufficiale; futuro di Spalletti",
+   "da_verificare": "Formazione col Genoa; assenze aggiornate; futuro di Spalletti",
    "segnalata_dal": "2026-10-19",
    "fonti": [
+    "https://www.agi.it/sport/news/2026-10-25/juventus-lecce-spalletti-39706696/",
     "https://www.goal.com/it/notizie/dove-vedere-lecce-juventus-in-diretta-tv-e-in-streaming-canali-data-orario-e-formazioni/blt22681e5b15b63c6e",
     "https://www.juvelive.it/2026/10/21/spalletti-juventus-kolo-muani/",
     "https://www.goal.com/en/news/juventus-rennes-uefa-europa-league-preview/bltfb980f9a5591ee68"
@@ -262,15 +311,16 @@
    "tipo": "spogliatoio",
    "livello": "medio",
    "motivo": "L'allenatore Pierre Sage è vicino all'esonero.",
-   "andamento": "14° in Premier League.",
-   "novita": "Oggi in casa col Newcastle (15:00). Assenti Riad, Tomiyasu e Timber; Burn e Osula recuperati. Palace 14° con 7 punti, dopo il 5-0 a Brighton. Il 31/10 a Tottenham.",
-   "da_verificare": "Allenatore ancora in panchina? Formazione ufficiale",
+   "andamento": "14° prima del Newcastle; quattro partite senza vittorie; 0-2 in casa col Newcastle il 25/10.",
+   "novita": "Palace 0-2 col Newcastle: Sky parla di pressione crescente su Sage e di una possibile decisione della dirigenza; tifosi contro l'allenatore (Yahoo). Mercoledì 28/10 a Fulham in Carabao Cup, il 31/10 a Tottenham.",
+   "da_verificare": "Sage ancora in panchina a Fulham? Formazione ufficiale",
    "segnalata_dal": "2026-10-20",
    "fonti": [
+    "https://www.skysports.com/football/crystal-palace-vs-newcastle-united/report/559518",
     "https://www.kickoff.co.uk/uefa-europa-league-predictions-stats-odds/besiktas-vs-crystal-palace/"
    ],
    "prima_notizia": "2026-10-20",
-   "ultima_notizia": "2026-10-20",
+   "ultima_notizia": "2026-10-25",
    "nome_flashscore": "Crystal Palace",
    "id_flashscore": "AovF1Mia",
    "assenze": {
@@ -290,19 +340,21 @@
    "tipo": "spogliatoio",
    "livello": "medio",
    "motivo": "Martínez contro la dirigenza, lite con Diallo, Carrick sotto pressione.",
-   "andamento": "7 partite senza vittorie; 1-4 a Como.",
-   "novita": "Carrick resta in panchina contro il Bournemouth (conferenza del 24/10): non esclude Bruno Fernandes in panchina; sette partite senza vittorie dopo l'1-4 a Como. Il Bournemouth non batte lo United da sei incontri. Il 31/10 a Chelsea.",
+   "andamento": "Otto partite senza vittorie; 0-3 in casa col Bournemouth il 25/10; 16° in Premier League, a un punto dalla zona retrocessione.",
+   "novita": "Dopo lo 0-3 col Bournemouth Carrick dice di non sapere se resterà (Al Jazeera 25/10); secondo Sky/Brit Brief la dirigenza accelera la ricerca (Nagelsmann ed Eddie Howe in testa), non c'è conferma ufficiale. Fernandes lasciato in panchina dopo le critiche al pressing. Il 31/10 a Chelsea.",
    "assenze": {
     "difesa": "Shaw e Dorgu fuori fino a novembre; Mazraoui fuori; Lisandro Martínez (polpaccio) in corsa per esserci; Yoro rientra dalla squalifica.",
     "attacco": "Šeško fuori (stinco); Rashford (anca) da valutare; Mainoo fuori; Ugarte lungodegente."
    },
-   "da_verificare": "Carrick resta?",
+   "da_verificare": "Carrick esonerato prima di Chelsea? Nuovo allenatore?",
    "segnalata_dal": "2026-10-14",
    "fonti": [
+    "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know",
+    "https://britbrief.co.uk/sports/football/man-utd-sack-carrick-ratcliffe-plan-after-bournemouth-loss.html",
     "https://www.caughtoffside.com/2026/10/14/man-united-dressing-room-make-stance-clear-martinez-rant/"
    ],
    "prima_notizia": "2026-10-14",
-   "ultima_notizia": "2026-10-24",
+   "ultima_notizia": "2026-10-26",
    "nome_flashscore": "Manchester Utd",
    "id_flashscore": "ppjDR086"
   },
@@ -467,13 +519,13 @@
    "tipo": "assenze",
    "livello": "medio",
    "motivo": "Difesa decimata per il Clásico: Christensen (coscia) e Eric García (coscia, 3-4 settimane) fuori, Koundé (caviglia) dato per assente da alcune fonti.",
-   "andamento": "Capolista in Liga, vuole vincere le prime dieci di fila; sei punti sul Real Madrid.",
-   "novita": "Clásico oggi alle 21:00 al Camp Nou. Koundé molto improbabile (Sports Mole, Al Jazeera 25/10); fuori anche Olmo e Bardghji. Il Real Madrid ha Rodrygo, Mendy e Asencio fuori e Vinícius squalificato. Formazioni ufficiali non ancora pubblicate.",
+   "andamento": "Perso 1-2 il Clásico del 25/10 (Mbappé doppietta); resta capolista con 3 punti sul Real Madrid.",
+   "novita": "Barcellona 1-2 Real Madrid: fine della serie di nove vittorie. Difesa decimata (Christensen, Eric García, Koundé dubbio). Prossima partita non verificata.",
    "assenze": {
     "difesa": "Christensen e Eric García fuori; Koundé (caviglia) molto improbabile, assente dagli allenamenti di venerdì.",
     "attacco": "Olmo (adduttore, ~1 mese) e Bardghji (ginocchio) fuori."
    },
-   "da_verificare": "Koundé convocato? Formazione ufficiale",
+   "da_verificare": "Prossima partita; recupero di Koundé",
    "segnalata_dal": "2026-10-25",
    "fonti": [
     "https://www.sportsmole.co.uk/football/barcelona/el-clasico/team-news/barcelona-vs-real-madrid-injury-suspension-list-predicted-xis_607545.html",
@@ -487,71 +539,6 @@
   }
  ],
  "partite": [
-  {
-   "data": "2026-10-25T15:00:00+01:00",
-   "casa": "Manchester United",
-   "trasferta": "Bournemouth",
-   "competizione": "Premier League",
-   "squadra_segnalata": "manchester-united",
-   "favorita_stimata": "si",
-   "segnalata_in_casa": true,
-   "avversaria": {
-    "nome": "Bournemouth",
-    "nome_flashscore": "Bournemouth",
-    "id_flashscore": "OtpNdwrc"
-   },
-   "data_utc": "2026-10-25T14:00:00Z",
-   "id_partita": "2026-10-25_manchester-united_bournemouth"
-  },
-  {
-   "id_partita": "2026-10-25_crystal-palace_newcastle",
-   "data": "2026-10-25T15:00:00+01:00",
-   "data_utc": "2026-10-25T14:00:00Z",
-   "casa": "Crystal Palace",
-   "trasferta": "Newcastle",
-   "competizione": "Premier League",
-   "squadra_segnalata": "crystal-palace",
-   "segnalata_in_casa": true,
-   "avversaria": {
-    "nome": "Newcastle",
-    "nome_flashscore": "Newcastle Utd",
-    "id_flashscore": "p6ahwuwJ"
-   },
-   "favorita_stimata": "incerta"
-  },
-  {
-   "data": "2026-10-25T18:00:00+01:00",
-   "casa": "Lecce",
-   "trasferta": "Juventus",
-   "competizione": "Serie A",
-   "squadra_segnalata": "juventus",
-   "favorita_stimata": "si",
-   "segnalata_in_casa": false,
-   "avversaria": {
-    "nome": "Lecce",
-    "nome_flashscore": "Lecce",
-    "id_flashscore": "G8lYsMgU"
-   },
-   "data_utc": "2026-10-25T17:00:00Z",
-   "id_partita": "2026-10-25_lecce_juventus"
-  },
-  {
-   "id_partita": "2026-10-25_barcelona_real-madrid",
-   "data": "2026-10-25T21:00:00+01:00",
-   "data_utc": "2026-10-25T20:00:00Z",
-   "casa": "Barcelona",
-   "trasferta": "Real Madrid",
-   "competizione": "LaLiga",
-   "squadra_segnalata": "barcelona",
-   "segnalata_in_casa": true,
-   "avversaria": {
-    "nome": "Real Madrid",
-    "nome_flashscore": "Real Madrid",
-    "id_flashscore": "W8mj7MDD"
-   },
-   "favorita_stimata": "si",
-   "nota": "anche il Real Madrid ha difesa decimata"
-  },
   {
    "data": "2026-10-27T17:00:00+01:00",
    "casa": "Al-Seeb",
@@ -599,6 +586,22 @@
     "id_flashscore": "d0PJxeie"
    },
    "favorita_stimata": "incerta"
+  },
+  {
+   "id_partita": "2026-10-28_fulham_crystal-palace",
+   "data": "2026-10-28T20:45:00+01:00",
+   "data_utc": "2026-10-28T19:45:00Z",
+   "casa": "Fulham",
+   "trasferta": "Crystal Palace",
+   "competizione": "Carabao Cup",
+   "squadra_segnalata": "crystal-palace",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Fulham",
+    "nome_flashscore": "Fulham",
+    "id_flashscore": "69ZiU2Om"
+   },
+   "favorita_stimata": "no"
   },
   {
    "id_partita": "2026-10-31_corinthians_mirassol",
