@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-26T09:14:34+01:00",
+ "aggiornato": "2026-10-26T09:44:27+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -602,6 +602,23 @@
     "id_flashscore": "69ZiU2Om"
    },
    "favorita_stimata": "no"
+  },
+  {
+   "id_partita": "2026-10-28_monza_napoli",
+   "data": "2026-10-28T20:45:00+01:00",
+   "data_utc": "2026-10-28T19:45:00Z",
+   "casa": "Monza",
+   "trasferta": "Napoli",
+   "competizione": "Serie A",
+   "squadra_segnalata": "napoli",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Monza",
+    "nome_flashscore": "Monza",
+    "id_flashscore": "4YSMlwj7"
+   },
+   "favorita_stimata": "si",
+   "nota": "orario da confermare: alcune fonti indicano altre date"
   },
   {
    "id_partita": "2026-10-31_corinthians_mirassol",
