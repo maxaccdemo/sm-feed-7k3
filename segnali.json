@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-26T09:44:27+01:00",
+ "aggiornato": "2026-10-26T10:00:29+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -465,8 +465,8 @@
    "livello": "basso",
    "motivo": "Rottura tra De Bruyne e Allegri.",
    "andamento": "Roma rimontata due volte; 3-3 al Maradona. Champions: 0 punti nei primi due turni.",
-   "novita": "Napoli–Roma 3-3 (24/10): Allegri espulso dopo il pareggio dell'89' e uscito dall'intervista post-partita. Prossima: Juventus–Napoli il 1/11 alle 20:45 (anche la Juventus è segnalata); Porto–Napoli il 4/11.",
-   "da_verificare": "Rapporto De Bruyne–Allegri; assenze per la Juventus",
+   "novita": "Napoli–Roma 3-3 (24/10): Allegri espulso dopo il pareggio dell'89' e uscito dall'intervista post-partita. Prossime: Monza–Napoli mercoledì 28/10 alle 20:45 (orario da confermare), poi Juventus–Napoli l'1/11 e Porto–Napoli il 4/11.",
+   "da_verificare": "Rapporto De Bruyne–Allegri; assenze per la partita col Monza (Buongiorno, Favasuli, Rrahmani); orario Monza–Napoli",
    "segnalata_dal": "2026-10-14",
    "fonti": [
     "https://www.footballtransfers.com/en/transfer-news/it-serie-a/2026/10/tensions-rise-napoli-communication-breaks-down-kevin-de-bruyne-massimiliano-allegri"
