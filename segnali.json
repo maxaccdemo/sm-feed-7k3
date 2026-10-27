@@ -1,6 +1,6 @@
 {
- "versione": 2,
- "aggiornato": "2026-10-27T09:19:42+01:00",
+ "versione": 3,
+ "aggiornato": "2026-10-27T11:04:57+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -227,10 +227,10 @@
    ],
    "paese": "India",
    "tipo": "stipendi",
-   "livello": "alto",
+   "livello": "medio",
    "motivo": "Tre mesi di stipendi arretrati; boicottaggio degli allenamenti il 14/10; fondi del club bloccati.",
    "andamento": "4-0 al Churchill all'esordio; 2-3 con Al-Shorta in Asia; 5-1 a Inter Kashi il 23/10 (primo in classifica).",
-   "novita": "Nonostante i problemi, il 23/10 ha battuto 5-1 l'Inter Kashi. Nessuna notizia nuova sugli stipendi.",
+   "novita": "Oggi alle 17:00 italiane trasferta ad Al-Seeb (AFC Champions League Two). Nessuna notizia nuova sugli stipendi dopo il 17/10: livello abbassato per mancanza di conferme.",
    "da_verificare": "Stipendi pagati? Formazione ufficiale (turnover?)",
    "segnalata_dal": "2026-10-15",
    "fonti": [
@@ -243,33 +243,52 @@
    "assenze": {
     "difesa": null,
     "attacco": null
-   }
-  },
-  {
-   "id": "gateshead",
-   "squadra": "Gateshead",
-   "alias": [
-    "Gateshead FC"
-   ],
-   "paese": "Inghilterra",
-   "tipo": "stipendi",
-   "livello": "alto",
-   "motivo": "Stipendi di settembre non pagati; allenatore Cattermole esonerato; cessione in attesa del regolatore.",
-   "andamento": "Ultimo in National League; 6 sconfitte di fila; 0-5 a Stafford in FA Cup.",
-   "novita": "Gateshead–Tamworth del 23/10 rinviata per pioggia (maltempo), nuova data da fissare. Nessuna notizia nuova su stipendi o cessione.",
-   "da_verificare": "Cessione approvata? Stipendi di ottobre?",
-   "segnalata_dal": "2026-10-10",
-   "fonti": [
-    "https://www.rawchili.com/5120408/"
-   ],
-   "prima_notizia": "2026-10-10",
-   "ultima_notizia": "2026-10-10",
-   "nome_flashscore": "Gateshead",
-   "id_flashscore": "d2vIdDRk",
-   "assenze": {
-    "difesa": null,
-    "attacco": null
-   }
+   },
+   "stato": "in_calo",
+   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "problema_in_corso": false,
+   "ricerche_fatte": [
+    {
+     "tema": "soldi",
+     "query": "East Bengal salaries unpaid players wages October 2026",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.mykhel.com/football/east-bengal-players-boycott-training-over-unpaid-salaries-ahead-of-isl-opener-456435.html",
+     "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "East Bengal coach dressing room sack October 2026",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "East Bengal Al-Seeb team news injuries lineup",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "soldi",
+     "query": "ইস্টবেঙ্গল বেতন অনুশীলন বয়কট আল সিব",
+     "lingua": "bn",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "Al Seeb vs East Bengal kick-off time ACL Two",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": "https://khelnow.com/football/indain-football-east-bengal-next-match",
+     "data_articolo": null
+    }
+   ]
   },
   {
    "id": "juventus",
@@ -283,12 +302,12 @@
    "livello": "medio",
    "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
    "andamento": "Lecce–Juventus 0-2 il 25/10: prima vittoria in campionato dopo oltre un mese; 14 punti.",
-   "novita": "La Juve batte il Lecce 2-0 (McKennie, Douglas Luiz) e Spalletti respira; calo nella ripresa. Mercoledì 28/10 a Genoa, il 1/11 col Napoli. Tante assenze restano (Yildiz, Thuram, Locatelli, Grabara...). Spalletti in conferenza il 26/10 alle 16: infortuni e modulo (5-3-2 nelle ultime due) al centro.",
+   "novita": "Mercoledì 28/10 a Genoa (Serie A), il 1/11 col Napoli. Tuttosport 26/10: nel Genoa Sow in dubbio, Ehizibue in recupero; indisponibili Nuredini, Venturino, Havel. Nessuna notizia nuova su Spalletti dopo il 25/10.",
    "assenze": {
     "difesa": "Çelik (lesione muscolare); Locatelli e Grabara (portiere) indisponibili.",
     "attacco": "Yildiz, Thuram, Ekhator, Conceição, Milik e Nico González indisponibili; Sarr con un fastidio all'adduttore."
    },
-   "da_verificare": "Formazione col Genoa; assenze aggiornate; futuro di Spalletti",
+   "da_verificare": "Formazione col Genoa; assenze Juve aggiornate; futuro di Spalletti",
    "segnalata_dal": "2026-10-19",
    "fonti": [
     "https://www.agi.it/sport/news/2026-10-25/juventus-lecce-spalletti-39706696/",
@@ -299,7 +318,36 @@
    "prima_notizia": "2026-10-19",
    "ultima_notizia": "2026-10-25",
    "nome_flashscore": "Juventus",
-   "id_flashscore": "C06aJvIB"
+   "id_flashscore": "C06aJvIB",
+   "stato": "attiva",
+   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "problema_in_corso": false,
+   "ricerche_fatte": [
+    {
+     "tema": "soldi",
+     "query": "Juventus Spalletti futuro società stipendi",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "Juventus Spalletti spogliatoio allenatore",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Genoa Juventus probabili formazioni indisponibili",
+     "lingua": "it",
+     "esito": "nuova",
+     "url": "https://www.tuttosport.com/news/calcio/serie-a/genoa/2026/10/26-152174412/genoa_verso_la_juve_de_rossi_prova_un_recupero_chiave_e_c_un_dubbio",
+     "data_articolo": "2026-10-26"
+    }
+   ]
   },
   {
    "id": "crystal-palace",
@@ -312,8 +360,8 @@
    "livello": "medio",
    "motivo": "L'allenatore Pierre Sage è vicino all'esonero.",
    "andamento": "14° prima del Newcastle; quattro partite senza vittorie; 0-2 in casa col Newcastle il 25/10.",
-   "novita": "Football Insider (26/10): Sage atteso esonerato entro pochi giorni, colloqui interni sul suo futuro; in precedenza si parlava di tempo fino alla pausa di novembre. Nessun esonero ufficiale al 27/10. Mercoledì 28/10 a Fulham in Carabao Cup, il 31/10 a Tottenham.",
-   "da_verificare": "Sage ancora in panchina a Fulham? Formazione ufficiale",
+   "novita": "Nessun esonero ufficiale di Sage al 27/10. Mercoledì 28/10 a Fulham in Carabao Cup, il 31/10 a Tottenham.",
+   "da_verificare": "Sage ancora in panchina a Fulham? Un pezzo di The Athletic (via SportsMole, senza data leggibile) dice che il board non fa pressione. Formazione ufficiale",
    "segnalata_dal": "2026-10-20",
    "fonti": [
     "https://frenchfootballweekly.com/2026/10/26/crystal-palace-its-very-hot-for-pierre-sage/",
@@ -327,7 +375,36 @@
    "assenze": {
     "difesa": "Riad e Tomiyasu fuori (Timber, centrocampo, fuori); Burn recuperato.",
     "attacco": "Osula recuperato."
-   }
+   },
+   "stato": "attiva",
+   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "problema_in_corso": false,
+   "ricerche_fatte": [
+    {
+     "tema": "panchina",
+     "query": "Crystal Palace Pierre Sage sack new manager",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.sportsmole.co.uk/football/crystal-palace/transfer-talk/news/sage-emerges-as-new-favorite-in-pl-sack-race_607248.html",
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "Crystal Palace dressing room Parish board Sage",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://thehardtackle.com/?p=766941",
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Crystal Palace injuries team news Fulham Carabao Cup",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    }
+   ]
   },
   {
    "id": "manchester-united",
@@ -342,12 +419,12 @@
    "livello": "medio",
    "motivo": "Martínez contro la dirigenza, lite con Diallo, Carrick sotto pressione.",
    "andamento": "Otto partite senza vittorie; 0-3 in casa col Bournemouth il 25/10; 16° in Premier League, a un punto dalla zona retrocessione.",
-   "novita": "Dopo lo 0-3 col Bournemouth Carrick dice di non sapere se resterà (Al Jazeera 25/10); secondo Sky/Brit Brief la dirigenza accelera la ricerca (Nagelsmann ed Eddie Howe in testa), non c'è conferma ufficiale. Fernandes lasciato in panchina dopo le critiche al pressing. Il 31/10 a Chelsea. ESPN: Berrada e Wilcox hanno parlato del suo futuro; nessun annuncio ufficiale al 27/10.",
+   "novita": "Nessun esonero né conferma ufficiale di Carrick al 27/10. Prossima: Chelsea–Manchester United il 31/10 alle 13:30. Voci (non confermate): Howe e Nagelsmann tra i candidati.",
    "assenze": {
     "difesa": "Shaw e Dorgu fuori fino a novembre; Mazraoui fuori; Lisandro Martínez (polpaccio) in corsa per esserci; Yoro rientra dalla squalifica.",
     "attacco": "Šeško fuori (stinco); Rashford (anca) da valutare; Mainoo fuori; Ugarte lungodegente."
    },
-   "da_verificare": "Carrick esonerato prima di Chelsea? Nuovo allenatore?",
+   "da_verificare": "Carrick esonerato prima di Chelsea? Assenze (Martínez, Rashford) da riconfermare",
    "segnalata_dal": "2026-10-14",
    "fonti": [
     "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know",
@@ -357,7 +434,36 @@
    "prima_notizia": "2026-10-14",
    "ultima_notizia": "2026-10-26",
    "nome_flashscore": "Manchester Utd",
-   "id_flashscore": "ppjDR086"
+   "id_flashscore": "ppjDR086",
+   "stato": "attiva",
+   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "problema_in_corso": false,
+   "ricerche_fatte": [
+    {
+     "tema": "panchina",
+     "query": "Manchester United Carrick sacked new manager Ratcliffe Berrada",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "Manchester United dressing room Martínez Fernandes Carrick",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Manchester United injuries suspensions team news Chelsea",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    }
+   ]
   },
   {
    "id": "atletico-go",
@@ -371,8 +477,8 @@
    "livello": "basso",
    "motivo": "Due mesi di stipendi, diritti d'immagine e contributi arretrati; sciopero delle interviste.",
    "andamento": "Quattro partite senza vittorie; 7° in Série B con 54 punti; pressione sull'allenatore Roger Silva.",
-   "novita": "0-1 in casa col Novorizontino il 24/10 (quarta partita senza vittorie, fuori dalla zona promozione). I giocatori mantengono lo sciopero delle interviste fino alla prossima partita; due mesi di stipendi, diritti d'immagine e FGTS ancora senza conferma di pagamento. Prossima: Fortaleza il 2/11.",
-   "da_verificare": "Il club ha pagato?",
+   "novita": "Sciopero delle interviste fino alla prossima partita (20/10). Un pezzo di maisgoias senza data leggibile riporta che il presidente ha versato circa 6 milioni di reais e saldato il 90% degli arretrati: da verificare. Prossima: Fortaleza il 2/11 (data e orario non verificati).",
+   "da_verificare": "Arretrati davvero saldati al 90%? Data e orario della partita con il Fortaleza",
    "segnalata_dal": "2026-10-19",
    "fonti": [
     "https://brasilemfolhas.com.br/2026/10/atletico-go-anuncia-greve-de-entrevistas-por-atraso-salarial/"
@@ -380,7 +486,56 @@
    "prima_notizia": "2026-10-19",
    "ultima_notizia": "2026-10-21",
    "nome_flashscore": "Atletico GO",
-   "id_flashscore": "8M0mP8nt"
+   "id_flashscore": "8M0mP8nt",
+   "stato": "attiva",
+   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "problema_in_corso": false,
+   "ricerche_fatte": [
+    {
+     "tema": "soldi",
+     "query": "Atlético-GO salários atrasados greve direitos de imagem FGTS",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": "https://ohoje.com/2026/10/20/atletico-go-anuncia-greve-de-entrevistas-por-salarios-atrasados/",
+     "data_articolo": "2026-10-20"
+    },
+    {
+     "tema": "soldi",
+     "query": "Atlético-GO salários atrasados maisgoias ohoje tribunadoplanalto",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": "https://www.maisgoias.com.br/esportes/futebol/futebol-goiano/atletico-go/adson-confirma-pagamento-dividas-elenco-maior-responsabilidade-acesso/",
+     "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "Atlético-GO técnico Roger Silva demissão elenco",
+     "lingua": "pt",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Atlético-GO lesões suspensos provável escalação Fortaleza",
+     "lingua": "pt",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "Atlético-GO Fortaleza Série B data horário",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    }
+   ],
+   "assenze": {
+    "difesa": null,
+    "attacco": null
+   }
   },
   {
    "id": "san-lorenzo",
@@ -391,11 +546,11 @@
    ],
    "paese": "Argentina",
    "tipo": "stipendi",
-   "livello": "medio",
+   "livello": "basso",
    "motivo": "Stipendio di agosto non pagato; promessi pagamenti scaglionati.",
    "andamento": "0-3 con il Defensa y Justicia; 7° in campionato.",
-   "novita": "0-0 in casa con il Newell's (24/10): resta fuori dai playoff del Clausura, 9° con 18 punti. Prossima: Vélez in trasferta il 31/10. Nessuna notizia nuova sul pagamento degli stipendi.",
-   "da_verificare": "Pagamento effettuato?",
+   "novita": "Prossima: Vélez–San Lorenzo sabato 31/10 alle 19:15 argentine (23:15 italiane), dato da fonti non aperte. Nessuna notizia nuova sugli stipendi dopo il 17/10: livello abbassato. Alan Salas e Farías dubbi (non verificato).",
+   "da_verificare": "Pagamento effettuato? Salas e Farías per il Vélez",
    "segnalata_dal": "2026-10-16",
    "fonti": [
     "https://vamosciclon.com/san-lorenzo-reunion-jugadores-sueldos-cuando-cobraran/"
@@ -403,7 +558,48 @@
    "prima_notizia": "2026-10-16",
    "ultima_notizia": "2026-10-17",
    "nome_flashscore": "San Lorenzo",
-   "id_flashscore": "ju1xJoJd"
+   "id_flashscore": "ju1xJoJd",
+   "stato": "in_calo",
+   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "problema_in_corso": false,
+   "ricerche_fatte": [
+    {
+     "tema": "soldi",
+     "query": "San Lorenzo sueldos deuda cobrar Agremiados",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": "https://442.perfil.com/noticias/futbol/el-plantel-de-san-lorenzo-lanzo-un-ultimatum-por-la-deuda-salarial.phtml",
+     "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "San Lorenzo técnico DT vestuario Insua",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "San Lorenzo lesionados suspendidos formación Vélez",
+     "lingua": "es",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "vamosciclon San Lorenzo Vélez 31 octubre",
+     "lingua": "es",
+     "esito": "bloccata",
+     "url": "https://anecdotarios.com/2026/10/24/san-lorenzo-vs-newells-previa-horario-y-como-llegan-para-la-fecha-14-del-clausura/",
+     "data_articolo": null
+    }
+   ],
+   "assenze": {
+    "difesa": null,
+    "attacco": null
+   }
   },
   {
    "id": "corinthians",
@@ -417,7 +613,7 @@
    "livello": "medio",
    "motivo": "Lascia il direttore sportivo Paz tra debiti e scontri con la dirigenza; allenatore Diniz esonerato il 7/10.",
    "andamento": "Dieci turni senza vittorie; 3-2 a Vasco; zona retrocessione.",
-   "novita": "Vasco–Corinthians 3-2 (24/10): decimo turno senza vittorie nel Brasileirão, ora in zona retrocessione con 33 punti. Seedorf allenatore; Lingard squalificato per il Mirassol (30/10), prossima anche São Paulo il 4/11. Diritti d'immagine in ritardo.",
+   "novita": "Prossima: Corinthians–Mirassol il 30/10 sera (31/10 00:00 italiane). Nessuna notizia nuova datata nelle ultime 72 ore; Lingard squalificato per il Mirassol.",
    "da_verificare": "Diritti d'immagine pagati? Formazione senza Lingard",
    "segnalata_dal": "2026-10-20",
    "fonti": [
@@ -430,30 +626,36 @@
    "assenze": {
     "difesa": "Gabriel Paulista (lesione muscolare); otto assenti in totale.",
     "attacco": null
-   }
-  },
-  {
-   "id": "fas",
-   "squadra": "FAS",
-   "alias": [
-    "CD FAS",
-    "Club Deportivo FAS"
-   ],
-   "paese": "El Salvador",
-   "tipo": "stipendi",
-   "livello": "medio",
-   "motivo": "Due mesi di stipendi denunciati il 1/10; agosto pagato, settembre in scadenza l'11/10.",
-   "andamento": "Primo in classifica; perso 2-3 con il Platense il 18/10.",
-   "novita": null,
-   "da_verificare": "Settembre pagato?",
-   "segnalata_dal": "2026-10-01",
-   "fonti": [
-    "https://www.eldiariodehoy.com/deportes/fas-pagos-fesfut-deudas/95899/2026/"
-   ],
-   "prima_notizia": "2026-10-01",
-   "ultima_notizia": "2026-10-06",
-   "nome_flashscore": "FAS",
-   "id_flashscore": "4AfSOtSi"
+   },
+   "stato": "attiva",
+   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "problema_in_corso": false,
+   "ricerche_fatte": [
+    {
+     "tema": "soldi",
+     "query": "Corinthians dívida salários direitos de imagem diretoria",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "Corinthians Seedorf vestiário demissão",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Corinthians x Mirassol lesões suspensos escalação",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    }
+   ]
   },
   {
    "id": "napoli",
@@ -466,8 +668,8 @@
    "livello": "basso",
    "motivo": "Rottura tra De Bruyne e Allegri.",
    "andamento": "Roma rimontata due volte; 3-3 al Maradona. Champions: 0 punti nei primi due turni.",
-   "novita": "Napoli–Roma 3-3 (24/10): Allegri espulso dopo il pareggio dell'89' e uscito dall'intervista post-partita. Prossime: Monza–Napoli mercoledì 28/10 alle 20:45 (orario da confermare), poi Juventus–Napoli l'1/11 e Porto–Napoli il 4/11.",
-   "da_verificare": "Rapporto De Bruyne–Allegri; assenze per la partita col Monza (Buongiorno, Favasuli, Rrahmani); orario Monza–Napoli",
+   "novita": "Monza–Napoli mercoledì 28/10 alle 20:45 (competizione e orario non riconfermati), poi Juventus–Napoli l'1/11. Nessuna notizia nuova sullo spogliatoio dal 18/10.",
+   "da_verificare": "Rapporto De Bruyne–Allegri; assenze per il Monza (non riconfermate); competizione e orario",
    "segnalata_dal": "2026-10-14",
    "fonti": [
     "https://www.footballtransfers.com/en/transfer-news/it-serie-a/2026/10/tensions-rise-napoli-communication-breaks-down-kevin-de-bruyne-massimiliano-allegri"
@@ -479,7 +681,36 @@
    "assenze": {
     "difesa": "Buongiorno e Favasuli indisponibili, Rrahmani in dubbio (febbre).",
     "attacco": "Neres e Alisson Santos indisponibili."
-   }
+   },
+   "stato": "in_calo",
+   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "problema_in_corso": false,
+   "ricerche_fatte": [
+    {
+     "tema": "soldi",
+     "query": "Napoli De Laurentiis mercato stipendi società",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "Napoli Allegri De Bruyne spogliatoio",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://www.liberoquotidiano.it/news/sport/49213358/allegri-perde-calma-cosa-successo-spogliatoio-napoli/",
+     "data_articolo": "2026-09-23"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Monza-Napoli formazioni infortunati squalificati 28 ottobre",
+     "lingua": "it",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    }
+   ]
   },
   {
    "id": "nottingham-forest",
@@ -492,7 +723,7 @@
    "livello": "medio",
    "motivo": "Glasner a rischio esonero; attacco sterile: 5 gol in 7 giornate di Premier, 19° con 5 punti.",
    "andamento": "1-1 a Ipswich il 23/10: una sola vittoria in otto partite.",
-   "novita": "Ipswich 1-1 Forest: Glasner furioso per il rosso non dato a Diop, ma «mi è piaciuta la reazione». Forest fuori dalla zona retrocessione. Prossima: Brentford in trasferta il 31/10. Fuori Igor Jesus e Savona; Delap con un solo gol.",
+   "novita": "Prossima: Brentford–Nottingham Forest il 31/10 alle 16:00. Nessuna notizia nuova dopo il 23/10; Glasner ancora in panchina.",
    "da_verificare": "Formazione ufficiale; Glasner resta?",
    "segnalata_dal": "2026-10-20",
    "fonti": [
@@ -506,37 +737,52 @@
    "assenze": {
     "difesa": "Savona (ginocchio).",
     "attacco": "Igor Jesus (polpaccio); Delap con un solo gol stagionale."
-   }
-  },
-  {
-   "id": "barcelona",
-   "squadra": "Barcelona",
-   "alias": [
-    "Barcelona",
-    "FC Barcelona",
-    "Barça"
-   ],
-   "paese": "Spagna",
-   "tipo": "assenze",
-   "livello": "medio",
-   "motivo": "Difesa decimata per il Clásico: Christensen (coscia) e Eric García (coscia, 3-4 settimane) fuori, Koundé (caviglia) dato per assente da alcune fonti.",
-   "andamento": "Perso 1-2 il Clásico del 25/10 (Mbappé doppietta); resta capolista con 3 punti sul Real Madrid.",
-   "novita": "Barcellona 1-2 Real Madrid: fine della serie di nove vittorie. Difesa decimata (Christensen, Eric García, Koundé dubbio). Prossima partita non verificata.",
-   "assenze": {
-    "difesa": "Christensen e Eric García fuori; Koundé (caviglia) molto improbabile, assente dagli allenamenti di venerdì.",
-    "attacco": "Olmo (adduttore, ~1 mese) e Bardghji (ginocchio) fuori."
    },
-   "da_verificare": "Prossima partita; recupero di Koundé",
-   "segnalata_dal": "2026-10-25",
-   "fonti": [
-    "https://www.sportsmole.co.uk/football/barcelona/el-clasico/team-news/barcelona-vs-real-madrid-injury-suspension-list-predicted-xis_607545.html",
-    "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams",
-    "https://www.365scores.com/es/news/barcelona-real-madrid-lesionados-bajas/"
-   ],
-   "prima_notizia": "2026-10-24",
-   "ultima_notizia": "2026-10-25",
-   "nome_flashscore": "Barcelona",
-   "id_flashscore": "SKbpVP5K"
+   "stato": "attiva",
+   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "problema_in_corso": false,
+   "ricerche_fatte": [
+    {
+     "tema": "panchina",
+     "query": "Nottingham Forest Glasner sack Marinakis owner",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://footballwhispers.com/blog/oliver-glasner-sack-odds-why-nottingham-forest-manager-could-be-next/",
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "Nottingham Forest dressing room players Glasner",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Brentford vs Nottingham Forest team news injuries",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "Nottingham Forest news Glasner skysports sportsmole",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "nottinghampost.com Forest",
+     "lingua": "en",
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null
+    }
+   ]
   }
  ],
  "partite": [
@@ -555,22 +801,6 @@
    },
    "data_utc": "2026-10-27T16:00:00Z",
    "id_partita": "2026-10-27_al-seeb_east-bengal"
-  },
-  {
-   "data": "2026-10-27T20:45:00+01:00",
-   "casa": "Boston United",
-   "trasferta": "Gateshead",
-   "competizione": "National League",
-   "squadra_segnalata": "gateshead",
-   "favorita_stimata": "no",
-   "segnalata_in_casa": false,
-   "avversaria": {
-    "nome": "Boston United",
-    "nome_flashscore": "Boston Utd",
-    "id_flashscore": "EDRBCKEI"
-   },
-   "data_utc": "2026-10-27T19:45:00Z",
-   "id_partita": "2026-10-27_boston-united_gateshead"
   },
   {
    "id_partita": "2026-10-28_genoa_juventus",
@@ -721,5 +951,129 @@
   }
  ],
  "criterio": "Si segnalano le squadre con problemi (soldi, spogliatoio, società, difesa decimata, attacco sterile), soprattutto quelle di peso, anche se le quote le danno sfavorite. Obiettivo principale: l'avversaria non perde (vince o pareggia). Obiettivo secondario, se la quota è interessante: l'avversaria segna almeno un gol. La quota serve solo come informazione.",
- "regole_freschezza": "Entra una squadra con notizia originale fino a 21 giorni prima, purché ci sia una notizia di conferma negli ultimi 7 giorni. Colore dell'ultima notizia: verde fino a 7 giorni, arancione da 8 a 14, rosso oltre 14. Esce dopo 21 giorni senza notizie."
+ "regole_freschezza": "Entra una squadra con notizia originale fino a 21 giorni prima, purché ci sia una notizia di conferma negli ultimi 7 giorni. Colore dell'ultima notizia: verde fino a 7 giorni, arancione da 8 a 14, rosso oltre 14. Esce dopo 21 giorni senza notizie.",
+ "squadre_rimosse": [
+  {
+   "id": "gateshead",
+   "squadra": "Gateshead",
+   "data_rimozione": "2026-10-27",
+   "motivo": "scaduta 14 giorni",
+   "ultima_notizia": "2026-10-10",
+   "ricerche_fatte": [
+    {
+     "tema": "soldi",
+     "query": "Gateshead FC unpaid wages takeover regulator administration",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "Gateshead new manager Cattermole dressing room",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://gateshead-fc.com/lee-cattermole-appointed-as-gateshead-fc-first-team-manager/",
+     "data_articolo": "2026-06-16"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Boston United v Gateshead team news injuries",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    }
+   ]
+  },
+  {
+   "id": "fas",
+   "squadra": "FAS",
+   "data_rimozione": "2026-10-27",
+   "motivo": "scaduta 14 giorni",
+   "ultima_notizia": "2026-10-06",
+   "ricerche_fatte": [
+    {
+     "tema": "soldi",
+     "query": "FAS salarios pagos deuda FESFUT",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": "https://www.eldiariodehoy.com/deportes/fas-pagos-fesfut-deudas/95899/2026/",
+     "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "FAS técnico vestuario directiva tras derrota ante Águila",
+     "lingua": "es",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "FAS próximo partido lesionados suspendidos",
+     "lingua": "es",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "FAS jornada 18 Apertura 2026 rival fecha hora",
+     "lingua": "es",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    }
+   ]
+  },
+  {
+   "id": "barcelona",
+   "squadra": "Barcelona",
+   "data_rimozione": "2026-10-27",
+   "motivo": "assenze riferite a partita già giocata; prossima partita e assenze non confermate",
+   "ultima_notizia": "2026-10-25",
+   "ricerche_fatte": [
+    {
+     "tema": "altro",
+     "query": "Barcelona próximo partido Champions calendario tras el Clásico",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "Barcelona Flick vestuario Laporta tras derrota Clásico",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Barcelona lesionados bajas Koundé Christensen Eric García",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": "https://elgoldigital.com/bajas-barcelona-clasico-real-madrid-olmo-kounde-2026",
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "sport.es mundodeportivo marca as.com Barcelona",
+     "lingua": "es",
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null
+    }
+   ]
+  }
+ ],
+ "giro": {
+  "tipo": "mattino",
+  "iniziato": "2026-10-27T11:04:57+01:00",
+  "squadre_controllate": 12,
+  "ricerche_totali": 45,
+  "ricerche_bloccate": 3
+ }
 }
