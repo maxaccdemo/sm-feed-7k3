@@ -1,6 +1,6 @@
 {
  "versione": 3,
- "aggiornato": "2026-10-27T11:04:57+01:00",
+ "aggiornato": "2026-10-27T11:40:21+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -245,12 +245,12 @@
     "attacco": null
    },
    "stato": "in_calo",
-   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "controllato_il": "2026-10-27T11:40:21+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "East Bengal salaries unpaid players wages October 2026",
+     "query": "East Bengal unpaid salaries players wages October 2026",
      "lingua": "en",
      "esito": "vecchia",
      "url": "https://www.mykhel.com/football/east-bengal-players-boycott-training-over-unpaid-salaries-ahead-of-isl-opener-456435.html",
@@ -258,35 +258,19 @@
     },
     {
      "tema": "panchina",
-     "query": "East Bengal coach dressing room sack October 2026",
+     "query": "East Bengal coach dressing room Al-Seeb AFC Champions League Two",
      "lingua": "en",
      "esito": "vecchia",
-     "url": null,
+     "url": "https://www.mykhel.com/football/east-bengal-head-coach-antonio-lopez-habas-thinking-about-acl-two-after-kashi-victory-criticizes-pu-457121.html",
      "data_articolo": null
     },
     {
      "tema": "infortuni",
-     "query": "East Bengal Al-Seeb team news injuries lineup",
+     "query": "East Bengal team news injury suspended lineup Al-Seeb",
      "lingua": "en",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null
-    },
-    {
-     "tema": "soldi",
-     "query": "ইস্টবেঙ্গল বেতন অনুশীলন বয়কট আল সিব",
-     "lingua": "bn",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null
-    },
-    {
-     "tema": "altro",
-     "query": "Al Seeb vs East Bengal kick-off time ACL Two",
-     "lingua": "en",
-     "esito": "nulla",
-     "url": "https://khelnow.com/football/indain-football-east-bengal-next-match",
-     "data_articolo": null
+     "esito": "vecchia",
+     "url": "https://www.omanobserver.om/article/1197847/sports/football/al-haj-hat-trick-leaves-seeb-searching-for-first-points-in-asia",
+     "data_articolo": "2026-10-15"
     }
    ]
   },
@@ -320,32 +304,40 @@
    "nome_flashscore": "Juventus",
    "id_flashscore": "C06aJvIB",
    "stato": "attiva",
-   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "controllato_il": "2026-10-27T11:40:21+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Juventus Spalletti futuro società stipendi",
+     "query": "Juventus stipendi società Comolli Elkann",
      "lingua": "it",
      "esito": "vecchia",
+     "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/06/12-149152654/comolli_4_milioni_800_mila_ragioni_per_dire_grazie_juve",
+     "data_articolo": "2026-06-12"
+    },
+    {
+     "tema": "panchina",
+     "query": "Spalletti spogliatoio Juventus conferenza stampa Genoa esonero",
+     "lingua": "it",
+     "esito": "bloccata",
      "url": null,
      "data_articolo": null
     },
     {
      "tema": "panchina",
-     "query": "Juventus Spalletti spogliatoio allenatore",
+     "query": "Spalletti Juventus spogliatoio Genoa (tuttosport, sky.it, juveoggi)",
      "lingua": "it",
      "esito": "vecchia",
-     "url": null,
-     "data_articolo": null
+     "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152068519/spalletti_show_fatta_pulizia_nello_spogliatoio_quanti_contro_di_me_ma_state_attenti_altrimenti_",
+     "data_articolo": "2026-10-22"
     },
     {
      "tema": "infortuni",
-     "query": "Genoa Juventus probabili formazioni indisponibili",
-     "lingua": "it",
-     "esito": "nuova",
-     "url": "https://www.tuttosport.com/news/calcio/serie-a/genoa/2026/10/26-152174412/genoa_verso_la_juve_de_rossi_prova_un_recupero_chiave_e_c_un_dubbio",
-     "data_articolo": "2026-10-26"
+     "query": "Juventus injuries suspended lineup Genoa vs Juventus October 28",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
     }
    ]
   },
@@ -377,30 +369,30 @@
     "attacco": "Osula recuperato."
    },
    "stato": "attiva",
-   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "controllato_il": "2026-10-27T11:40:21+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
-     "tema": "panchina",
-     "query": "Crystal Palace Pierre Sage sack new manager",
+     "tema": "soldi",
+     "query": "Crystal Palace owners wages finances October 2026",
      "lingua": "en",
      "esito": "vecchia",
-     "url": "https://www.sportsmole.co.uk/football/crystal-palace/transfer-talk/news/sage-emerges-as-new-favorite-in-pl-sack-race_607248.html",
+     "url": null,
      "data_articolo": null
     },
     {
-     "tema": "altro",
-     "query": "Crystal Palace dressing room Parish board Sage",
+     "tema": "panchina",
+     "query": "Pierre Sage sack Crystal Palace dressing room board",
      "lingua": "en",
-     "esito": "vecchia",
-     "url": "https://thehardtackle.com/?p=766941",
+     "esito": "nulla",
+     "url": null,
      "data_articolo": null
     },
     {
      "tema": "infortuni",
      "query": "Crystal Palace injuries team news Fulham Carabao Cup",
      "lingua": "en",
-     "esito": "nulla",
+     "esito": "vecchia",
      "url": null,
      "data_articolo": null
     }
@@ -436,30 +428,30 @@
    "nome_flashscore": "Manchester Utd",
    "id_flashscore": "ppjDR086",
    "stato": "attiva",
-   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "controllato_il": "2026-10-27T11:40:21+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
-     "tema": "panchina",
-     "query": "Manchester United Carrick sacked new manager Ratcliffe Berrada",
+     "tema": "soldi",
+     "query": "Manchester United wages Ratcliffe finances",
      "lingua": "en",
      "esito": "vecchia",
-     "url": null,
-     "data_articolo": null
+     "url": "https://www.pressreader.com/uk/daily-star-sunday/20240225/282651807423947",
+     "data_articolo": "2024-02-25"
     },
     {
-     "tema": "altro",
-     "query": "Manchester United dressing room Martínez Fernandes Carrick",
+     "tema": "panchina",
+     "query": "Carrick sacked Manchester United dressing room Martinez",
      "lingua": "en",
      "esito": "vecchia",
-     "url": null,
-     "data_articolo": null
+     "url": "https://www.caughtoffside.com/2026/10/14/dressing-room-fears-emerge-man-united-lisandro-martinez/amp/",
+     "data_articolo": "2026-10-14"
     },
     {
      "tema": "infortuni",
      "query": "Manchester United injuries suspensions team news Chelsea",
      "lingua": "en",
-     "esito": "vecchia",
+     "esito": "nulla",
      "url": null,
      "data_articolo": null
     }
@@ -488,28 +480,20 @@
    "nome_flashscore": "Atletico GO",
    "id_flashscore": "8M0mP8nt",
    "stato": "attiva",
-   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "controllato_il": "2026-10-27T11:40:21+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Atlético-GO salários atrasados greve direitos de imagem FGTS",
+     "query": "Atlético-GO salários atrasados pagamento greve elenco",
      "lingua": "pt",
      "esito": "vecchia",
      "url": "https://ohoje.com/2026/10/20/atletico-go-anuncia-greve-de-entrevistas-por-salarios-atrasados/",
      "data_articolo": "2026-10-20"
     },
     {
-     "tema": "soldi",
-     "query": "Atlético-GO salários atrasados maisgoias ohoje tribunadoplanalto",
-     "lingua": "pt",
-     "esito": "vecchia",
-     "url": "https://www.maisgoias.com.br/esportes/futebol/futebol-goiano/atletico-go/adson-confirma-pagamento-dividas-elenco-maior-responsabilidade-acesso/",
-     "data_articolo": null
-    },
-    {
      "tema": "panchina",
-     "query": "Atlético-GO técnico Roger Silva demissão elenco",
+     "query": "Atlético-GO técnico vestiário elenco Série B",
      "lingua": "pt",
      "esito": "nulla",
      "url": null,
@@ -517,17 +501,9 @@
     },
     {
      "tema": "infortuni",
-     "query": "Atlético-GO lesões suspensos provável escalação Fortaleza",
+     "query": "Atlético-GO x Fortaleza data horário escalação lesionados suspensos",
      "lingua": "pt",
      "esito": "nulla",
-     "url": null,
-     "data_articolo": null
-    },
-    {
-     "tema": "altro",
-     "query": "Atlético-GO Fortaleza Série B data horário",
-     "lingua": "pt",
-     "esito": "vecchia",
      "url": null,
      "data_articolo": null
     }
@@ -560,39 +536,31 @@
    "nome_flashscore": "San Lorenzo",
    "id_flashscore": "ju1xJoJd",
    "stato": "in_calo",
-   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "controllato_il": "2026-10-27T11:40:21+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "San Lorenzo sueldos deuda cobrar Agremiados",
+     "query": "San Lorenzo sueldos deuda jugadores Agremiados cobrar octubre 2026",
      "lingua": "es",
      "esito": "vecchia",
      "url": "https://442.perfil.com/noticias/futbol/el-plantel-de-san-lorenzo-lanzo-un-ultimatum-por-la-deuda-salarial.phtml",
-     "data_articolo": null
+     "data_articolo": "2026-10-05"
     },
     {
      "tema": "panchina",
-     "query": "San Lorenzo técnico DT vestuario Insua",
-     "lingua": "es",
-     "esito": "vecchia",
-     "url": null,
-     "data_articolo": null
-    },
-    {
-     "tema": "infortuni",
-     "query": "San Lorenzo lesionados suspendidos formación Vélez",
+     "query": "San Lorenzo entrenador vestuario Insua dirigencia Vélez",
      "lingua": "es",
      "esito": "nulla",
      "url": null,
      "data_articolo": null
     },
     {
-     "tema": "altro",
-     "query": "vamosciclon San Lorenzo Vélez 31 octubre",
+     "tema": "infortuni",
+     "query": "San Lorenzo lesionados suspendidos formación Vélez sábado",
      "lingua": "es",
-     "esito": "bloccata",
-     "url": "https://anecdotarios.com/2026/10/24/san-lorenzo-vs-newells-previa-horario-y-como-llegan-para-la-fecha-14-del-clausura/",
+     "esito": "nulla",
+     "url": null,
      "data_articolo": null
     }
    ],
@@ -628,32 +596,32 @@
     "attacco": null
    },
    "stato": "attiva",
-   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "controllato_il": "2026-10-27T11:40:21+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Corinthians dívida salários direitos de imagem diretoria",
+     "query": "Corinthians diretoria dívida direitos de imagem salários Marcelo Paz",
      "lingua": "pt",
-     "esito": "vecchia",
+     "esito": "nulla",
      "url": null,
      "data_articolo": null
     },
     {
      "tema": "panchina",
-     "query": "Corinthians Seedorf vestiário demissão",
+     "query": "Corinthians técnico novo vestiário elenco após demissão Diniz",
      "lingua": "pt",
      "esito": "vecchia",
-     "url": null,
+     "url": "https://www.nsctotal.com.br/esportes/tres-treinadores-recusaram-assumir-o-corinthians-apos-demissao-de-diniz",
      "data_articolo": null
     },
     {
      "tema": "infortuni",
-     "query": "Corinthians x Mirassol lesões suspensos escalação",
+     "query": "Corinthians x Mirassol escalação desfalques Lingard horário",
      "lingua": "pt",
      "esito": "vecchia",
-     "url": null,
-     "data_articolo": null
+     "url": "https://www.gazetaesportiva.com/times/corinthians/sem-quatro-titulares-e-com-baixa-no-ataque-corinthians-encerra-preparacao-para-encarar-o-mirassol/",
+     "data_articolo": "2026-05-03"
     }
    ]
   },
@@ -683,28 +651,28 @@
     "attacco": "Neres e Alisson Santos indisponibili."
    },
    "stato": "in_calo",
-   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "controllato_il": "2026-10-27T11:40:21+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
-     "tema": "soldi",
-     "query": "Napoli De Laurentiis mercato stipendi società",
+     "tema": "panchina",
+     "query": "Napoli De Bruyne Allegri spogliatoio De Laurentiis",
      "lingua": "it",
-     "esito": "vecchia",
+     "esito": "nulla",
      "url": null,
      "data_articolo": null
     },
     {
-     "tema": "panchina",
-     "query": "Napoli Allegri De Bruyne spogliatoio",
+     "tema": "soldi",
+     "query": "Napoli società stipendi ottobre 2026",
      "lingua": "it",
      "esito": "vecchia",
-     "url": "https://www.liberoquotidiano.it/news/sport/49213358/allegri-perde-calma-cosa-successo-spogliatoio-napoli/",
-     "data_articolo": "2026-09-23"
+     "url": "https://www.calcioefinanza.it/2026/09/07/stipendi-serie-a-2026-2027-inter-juve-milan-monte-ingaggi/",
+     "data_articolo": "2026-09-07"
     },
     {
      "tema": "infortuni",
-     "query": "Monza-Napoli formazioni infortunati squalificati 28 ottobre",
+     "query": "Monza Napoli formazioni infortunati squalificati 28 ottobre",
      "lingua": "it",
      "esito": "nulla",
      "url": null,
@@ -739,46 +707,30 @@
     "attacco": "Igor Jesus (polpaccio); Delap con un solo gol stagionale."
    },
    "stato": "attiva",
-   "controllato_il": "2026-10-27T11:04:57+01:00",
+   "controllato_il": "2026-10-27T11:40:21+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
+     "tema": "soldi",
+     "query": "Nottingham Forest Marinakis owner Glasner wages October 2026",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
      "tema": "panchina",
-     "query": "Nottingham Forest Glasner sack Marinakis owner",
+     "query": "Nottingham Forest Glasner sack dressing room",
      "lingua": "en",
      "esito": "vecchia",
      "url": "https://footballwhispers.com/blog/oliver-glasner-sack-odds-why-nottingham-forest-manager-could-be-next/",
      "data_articolo": null
     },
     {
-     "tema": "altro",
-     "query": "Nottingham Forest dressing room players Glasner",
+     "tema": "infortuni",
+     "query": "Brentford vs Nottingham Forest team news injuries suspensions",
      "lingua": "en",
      "esito": "nulla",
-     "url": null,
-     "data_articolo": null
-    },
-    {
-     "tema": "infortuni",
-     "query": "Brentford vs Nottingham Forest team news injuries",
-     "lingua": "en",
-     "esito": "vecchia",
-     "url": null,
-     "data_articolo": null
-    },
-    {
-     "tema": "altro",
-     "query": "Nottingham Forest news Glasner skysports sportsmole",
-     "lingua": "en",
-     "esito": "vecchia",
-     "url": null,
-     "data_articolo": null
-    },
-    {
-     "tema": "altro",
-     "query": "nottinghampost.com Forest",
-     "lingua": "en",
-     "esito": "bloccata",
      "url": null,
      "data_articolo": null
     }
@@ -1071,9 +1023,9 @@
  ],
  "giro": {
   "tipo": "mattino",
-  "iniziato": "2026-10-27T11:04:57+01:00",
-  "squadre_controllate": 12,
-  "ricerche_totali": 45,
-  "ricerche_bloccate": 3
+  "iniziato": "2026-10-27T11:40:21+01:00",
+  "squadre_controllate": 9,
+  "ricerche_totali": 28,
+  "ricerche_bloccate": 1
  }
 }
