@@ -1,6 +1,6 @@
 {
  "versione": 2,
- "aggiornato": "2026-10-26T10:00:29+01:00",
+ "aggiornato": "2026-10-27T09:19:42+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -283,7 +283,7 @@
    "livello": "medio",
    "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
    "andamento": "Lecce–Juventus 0-2 il 25/10: prima vittoria in campionato dopo oltre un mese; 14 punti.",
-   "novita": "La Juve batte il Lecce 2-0 (McKennie, Douglas Luiz) e Spalletti respira; calo nella ripresa. Mercoledì 28/10 a Genoa, il 1/11 col Napoli. Tante assenze restano (Yildiz, Thuram, Locatelli, Grabara...).",
+   "novita": "La Juve batte il Lecce 2-0 (McKennie, Douglas Luiz) e Spalletti respira; calo nella ripresa. Mercoledì 28/10 a Genoa, il 1/11 col Napoli. Tante assenze restano (Yildiz, Thuram, Locatelli, Grabara...). Spalletti in conferenza il 26/10 alle 16: infortuni e modulo (5-3-2 nelle ultime due) al centro.",
    "assenze": {
     "difesa": "Çelik (lesione muscolare); Locatelli e Grabara (portiere) indisponibili.",
     "attacco": "Yildiz, Thuram, Ekhator, Conceição, Milik e Nico González indisponibili; Sarr con un fastidio all'adduttore."
@@ -312,15 +312,16 @@
    "livello": "medio",
    "motivo": "L'allenatore Pierre Sage è vicino all'esonero.",
    "andamento": "14° prima del Newcastle; quattro partite senza vittorie; 0-2 in casa col Newcastle il 25/10.",
-   "novita": "Palace 0-2 col Newcastle: Sky parla di pressione crescente su Sage e di una possibile decisione della dirigenza; tifosi contro l'allenatore (Yahoo). Mercoledì 28/10 a Fulham in Carabao Cup, il 31/10 a Tottenham.",
+   "novita": "Football Insider (26/10): Sage atteso esonerato entro pochi giorni, colloqui interni sul suo futuro; in precedenza si parlava di tempo fino alla pausa di novembre. Nessun esonero ufficiale al 27/10. Mercoledì 28/10 a Fulham in Carabao Cup, il 31/10 a Tottenham.",
    "da_verificare": "Sage ancora in panchina a Fulham? Formazione ufficiale",
    "segnalata_dal": "2026-10-20",
    "fonti": [
+    "https://frenchfootballweekly.com/2026/10/26/crystal-palace-its-very-hot-for-pierre-sage/",
     "https://www.skysports.com/football/crystal-palace-vs-newcastle-united/report/559518",
     "https://www.kickoff.co.uk/uefa-europa-league-predictions-stats-odds/besiktas-vs-crystal-palace/"
    ],
    "prima_notizia": "2026-10-20",
-   "ultima_notizia": "2026-10-25",
+   "ultima_notizia": "2026-10-26",
    "nome_flashscore": "Crystal Palace",
    "id_flashscore": "AovF1Mia",
    "assenze": {
@@ -341,7 +342,7 @@
    "livello": "medio",
    "motivo": "Martínez contro la dirigenza, lite con Diallo, Carrick sotto pressione.",
    "andamento": "Otto partite senza vittorie; 0-3 in casa col Bournemouth il 25/10; 16° in Premier League, a un punto dalla zona retrocessione.",
-   "novita": "Dopo lo 0-3 col Bournemouth Carrick dice di non sapere se resterà (Al Jazeera 25/10); secondo Sky/Brit Brief la dirigenza accelera la ricerca (Nagelsmann ed Eddie Howe in testa), non c'è conferma ufficiale. Fernandes lasciato in panchina dopo le critiche al pressing. Il 31/10 a Chelsea.",
+   "novita": "Dopo lo 0-3 col Bournemouth Carrick dice di non sapere se resterà (Al Jazeera 25/10); secondo Sky/Brit Brief la dirigenza accelera la ricerca (Nagelsmann ed Eddie Howe in testa), non c'è conferma ufficiale. Fernandes lasciato in panchina dopo le critiche al pressing. Il 31/10 a Chelsea. ESPN: Berrada e Wilcox hanno parlato del suo futuro; nessun annuncio ufficiale al 27/10.",
    "assenze": {
     "difesa": "Shaw e Dorgu fuori fino a novembre; Mazraoui fuori; Lisandro Martínez (polpaccio) in corsa per esserci; Yoro rientra dalla squalifica.",
     "attacco": "Šeško fuori (stinco); Rashford (anca) da valutare; Mainoo fuori; Ugarte lungodegente."
