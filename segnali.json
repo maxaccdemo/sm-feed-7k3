@@ -1,6 +1,6 @@
 {
  "versione": 3,
- "aggiornato": "2026-10-28T09:17:39+01:00",
+ "aggiornato": "2026-10-28T16:06:06+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -355,12 +355,12 @@
    "livello": "medio",
    "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
    "andamento": "Le frasi di Spalletti sul 'non so se mi segue' sono del 18-19/10; l'ultima conferma del problema è del 25/10. Il tecnico oggi smorza i toni.",
-   "novita": "Oggi 20:45 Genoa–Juventus. Vigilia 27/10 (Sky): Spalletti dice che la squadra è sul pezzo e la società allineata; nessuna ammissione di crisi. Indisponibili (Sky 27/10): Celik, Ekhator, Grabara, Locatelli, Conceição, Nico González, Yildiz, Thuram. Poi 1/11 Juventus–Napoli.",
+   "novita": "Oggi 28/10 Genoa–Juventus (Serie A, anticipo serale al Ferraris, 20:45 da fonti non datate). Convocati di oggi (juventusnews24, 28/10): 23 nomi, 3 dalla Next Gen, 8-9 indisponibili. Spalletti (Sky 27/10) dice squadra sul pezzo; nessuna conferma di esonero. Poi 1/11 Juventus–Napoli.",
    "assenze": {
-    "difesa": "Celik (lesione bicipite femorale), Ekhator, Locatelli (mediano) e Grabara (portiere, crociato) indisponibili (Sky Sport, 27/10).",
-    "attacco": "Yildiz, Thuram, Conceição, Nico González indisponibili; Milik fuori lista (non verificato). (Sky Sport, 27/10)"
+    "difesa": "Celik (fastidio muscolare alla coscia) fuori dai convocati (juventusnews24, 28/10); Ekhator, Locatelli e Grabara indisponibili (Sky Sport 27/10).",
+    "attacco": "Yildiz, Thuram, Conceição, Nico González indisponibili (juventusnews24 28/10 e Sky 27/10)."
    },
-   "da_verificare": "Formazione col Genoa; Spalletti resta dopo il Genoa?",
+   "da_verificare": "Orario ufficiale 20:45 non letto su fonte ufficiale; formazione; Spalletti resta dopo il Genoa?",
    "segnalata_dal": "2026-10-19",
    "fonti": [
     "https://sport.sky.it/calcio/serie-a/2026/10/27/genoa-juventus-spalletti-conferenza-video",
@@ -374,41 +374,9 @@
    "nome_flashscore": "Juventus",
    "id_flashscore": "C06aJvIB",
    "stato": "attiva",
-   "controllato_il": "2026-10-28T09:17:39+01:00",
+   "controllato_il": "2026-10-28T16:06:06+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
-    {
-     "tema": "panchina",
-     "query": "Genoa-Juventus Spalletti conferenza vigilia formazione infortunati",
-     "lingua": "it",
-     "esito": "nuova",
-     "url": "https://sport.sky.it/calcio/serie-a/2026/10/27/genoa-juventus-spalletti-conferenza-video",
-     "data_articolo": "2026-10-27"
-    },
-    {
-     "tema": "panchina",
-     "query": "Juventus Lazio 0-3 Spalletti non so se la squadra mi segue",
-     "lingua": "it",
-     "esito": "vecchia",
-     "url": "https://www.ilpost.it/2026/10/19/juventus-lazio-0-3-serie-a-spalletti-gattuso/",
-     "data_articolo": "2026-10-19"
-    },
-    {
-     "tema": "soldi",
-     "query": "Juventus Exor bilancio stipendi società ottobre 2026",
-     "lingua": "it",
-     "esito": "vecchia",
-     "url": "https://www.calcioefinanza.it/2026/09/29/juventus-bilancio-2026-risultato-netto/",
-     "data_articolo": "2026-09-29"
-    },
-    {
-     "tema": "soldi",
-     "query": "Juventus Exor bilancio stipendi società 28 ottobre 2026",
-     "lingua": "it",
-     "esito": "bloccata",
-     "url": null,
-     "data_articolo": null
-    },
     {
      "tema": "infortuni",
      "query": "Genoa Juventus probabili formazioni indisponibili squalificati 28 ottobre 2026",
@@ -416,6 +384,51 @@
      "esito": "nulla",
      "url": null,
      "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "Genoa Juventus 28 ottobre 2026 orario conferenza stampa Spalletti",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://www.juventus.com/it/news/articoli/la-conferenza-stampa-di-luciano-spalletti-alla-vigilia-di-juventus-genoa",
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Genoa Juventus probabili formazioni infortunati squalificati",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://www.90min.com/it/le-probabili-formazioni-di-juventus-genoa-serie-a-06-04-2026",
+     "data_articolo": "2026-04-06",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "panchina",
+     "query": "Spalletti spogliatoio Juventus esonero dopo Lazio 0-3",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://www.ilpost.it/2026/10/19/juventus-lazio-0-3-serie-a-spalletti-gattuso/",
+     "data_articolo": "2026-10-19",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Juventus Genoa Spalletti oggi ultime notizie 28 ottobre",
+     "lingua": "it",
+     "esito": "nuova",
+     "url": "https://www.juventusnews24.com/convocati-juve-genoa-emergenza-lista-calciatori-spalletti-serie-a/",
+     "data_articolo": "2026-10-28",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "altro",
+     "query": "Juventus Genoa Spalletti oggi ultime notizie 28 ottobre (livescore daily)",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -430,10 +443,11 @@
    "livello": "medio",
    "motivo": "L'allenatore Pierre Sage è vicino all'esonero.",
    "andamento": "Pressione crescente dopo lo 0-5 con il Brighton e la peggior difesa della Premier (17 gol subiti in 7); il club sostiene Sage pubblicamente.",
-   "novita": "Oggi 20:45 Fulham–Crystal Palace (Carabao Cup), sabato Tottenham. 27/10 (Football French Weekly, solo titolo): il Palace avrebbe già individuato due nomi per sostituire Sage. Football Insider (23/10): Dyche in testa. Sage ancora in carica, nessun esonero ufficiale.",
-   "da_verificare": "Sage in panchina a Fulham? Formazione ufficiale e assenti (nessun elenco datato trovato nelle ultime 72 ore)",
+   "novita": "Oggi 28/10 20:45 Fulham–Crystal Palace (EFL Cup, 4º turno, Craven Cottage). 27/10 (Sports Mole): Sage dice che la partnership col club «è buona ma non funziona»; il board è diviso e Parish decide di non agire per ora; una sconfitta a Tottenham sabato 31/10 porterebbe probabilmente all'esonero; Dyche favorito come successore. Palace 17º con 19 gol subiti (peggior difesa della Premier). Sage non esonerato.",
+   "da_verificare": "Sage in panchina a Fulham? Formazione ufficiale; decisione del board dopo Tottenham.",
    "segnalata_dal": "2026-10-20",
    "fonti": [
+    "https://www.sportsmole.co.uk/football/crystal-palace/sack-race/news/crystal-palace-make-crucial-decision-over-sage-future-as-sack-rumours-grow_607824.html",
     "https://frenchfootballweekly.com/2026/10/26/crystal-palace-its-very-hot-for-pierre-sage/",
     "https://thehardtackle.com/?p=771953",
     "https://www.skysports.com/football/crystal-palace-vs-newcastle-united/report/559518",
@@ -444,37 +458,13 @@
    "nome_flashscore": "Crystal Palace",
    "id_flashscore": "AovF1Mia",
    "assenze": {
-    "difesa": null,
-    "attacco": null
+    "difesa": "Riad (ginocchio) e Tomiyasu (polpaccio) fuori; Henderson (portiere) atteso titolare (Sports Mole 27/10).",
+    "attacco": "Sarr (inguine) probabilmente fuori, Strand Larsen (caviglia) da valutare (Sports Mole 27/10)."
    },
    "stato": "attiva",
-   "controllato_il": "2026-10-28T09:17:39+01:00",
+   "controllato_il": "2026-10-28T16:06:06+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
-    {
-     "tema": "panchina",
-     "query": "Crystal Palace have already identified two names to replace Pierre Sage",
-     "lingua": "en",
-     "esito": "nuova",
-     "url": "https://www.frenchfootballweekly.com",
-     "data_articolo": "2026-10-27"
-    },
-    {
-     "tema": "panchina",
-     "query": "Crystal Palace Pierre Sage sack dressing room October 2026",
-     "lingua": "en",
-     "esito": "vecchia",
-     "url": "https://thehardtackle.com/?p=771953",
-     "data_articolo": "2026-10-23"
-    },
-    {
-     "tema": "soldi",
-     "query": "Crystal Palace Parish Textor Eagle Football wages finances October 2026",
-     "lingua": "en",
-     "esito": "vecchia",
-     "url": null,
-     "data_articolo": null
-    },
     {
      "tema": "infortuni",
      "query": "Fulham v Crystal Palace Carabao Cup team news injuries 28 October 2026",
@@ -490,6 +480,42 @@
      "esito": "bloccata",
      "url": null,
      "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "Fulham vs Crystal Palace kick-off time Pierre Sage press conference",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.cpfc.co.uk/news/first-team/team-news-sage-updates-ahead-of-fulham/",
+     "data_articolo": "2026-09-03",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "altro",
+     "query": "Crystal Palace Sage very hot Fulham Carabao Cup October 2026",
+     "lingua": "en",
+     "esito": "nuova",
+     "url": "https://www.sportsmole.co.uk/football/fulham/league-cup/preview/fulham-vs-crystal-palace-prediction-team-news-lineups_607720.html",
+     "data_articolo": "2026-10-26",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Crystal Palace team news Fulham injuries Sage press conference 27 October",
+     "lingua": "en",
+     "esito": "nuova",
+     "url": "https://www.sportsmole.co.uk/football/crystal-palace/league-cup/news/crystal-palace-star-struggling-with-injury-before-fulham-efl-cup-tie_607825.html",
+     "data_articolo": "2026-10-27",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "panchina",
+     "query": "Pierre Sage sack Crystal Palace dressing room board",
+     "lingua": "en",
+     "esito": "nuova",
+     "url": "https://www.sportsmole.co.uk/football/crystal-palace/sack-race/news/crystal-palace-make-crucial-decision-over-sage-future-as-sack-rumours-grow_607824.html",
+     "data_articolo": "2026-10-27",
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -511,7 +537,7 @@
     "difesa": "Shaw e Dorgu fuori; Lisandro Martínez dubbio (The False 9, 27/10).",
     "attacco": "Šeško fuori (tibia); Mainoo fuori/dubbio; Rashford (anca) 75% (The False 9, 27/10)."
    },
-   "da_verificare": "Conferenza di Carrick prima del Chelsea; formazione; nuove voci su Ratcliffe",
+   "da_verificare": "Carrick resta? Nessuna novità datata oggi; formazione e assenti per il Chelsea (31/10) non ancora pubblicate.",
    "segnalata_dal": "2026-10-14",
    "fonti": [
     "https://sports.yahoo.com/articles/michael-carrick-remain-man-utd-121056540.html",
@@ -525,25 +551,9 @@
    "nome_flashscore": "Manchester Utd",
    "id_flashscore": "ppjDR086",
    "stato": "attiva",
-   "controllato_il": "2026-10-28T09:17:39+01:00",
+   "controllato_il": "2026-10-28T16:06:06+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
-    {
-     "tema": "panchina",
-     "query": "Carrick to remain in charge Chelsea Man Utd decision Ratcliffe",
-     "lingua": "en",
-     "esito": "nuova",
-     "url": "https://sports.yahoo.com/articles/michael-carrick-remain-man-utd-121056540.html",
-     "data_articolo": "2026-10-27"
-    },
-    {
-     "tema": "panchina",
-     "query": "Carrick Man Utd sacked OR future Ratcliffe Berrada Wilcox",
-     "lingua": "en",
-     "esito": "nuova",
-     "url": "https://www.skysports.com/football/news/13603690/michael-carrick-man-utd-future-eddie-howe-and-julian-nagelsmann-expected-frontrunners-if-head-coach-departs",
-     "data_articolo": "2026-10-26"
-    },
     {
      "tema": "soldi",
      "query": "Sources: non-football reason Man Utd kept Carrick",
@@ -567,6 +577,33 @@
      "esito": "nuova",
      "url": "https://thefalse9.com/2026/10/man-utd-injury-news-chelsea.html",
      "data_articolo": "2026-10-27"
+    },
+    {
+     "tema": "panchina",
+     "query": "Carrick Manchester United Bournemouth sack Ratcliffe Chelsea kick-off time",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.flashscore.com.mx/noticias/futbol-premier-league-el-bournemouth-golea-al-united-en-old-trafford-y-deja-a-carrick-en-el-alambre-0-3/zwgJWi9C/",
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Chelsea vs Manchester United injury news team news suspended",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.manutd.com/en/news/detail/chelsea-team-news-update-after-liam-rosenior-press-conference",
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "altro",
+     "query": "Manchester United dressing room Carrick future Ratcliffe October 2026",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.nst.com.my/amp/sports/football/2026/05/1440532/carrick-says-man-utd-future-be-decided-pretty-soon",
+     "data_articolo": null,
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -789,8 +826,8 @@
    "livello": "basso",
    "motivo": "Rottura tra De Bruyne e Allegri.",
    "andamento": "Roma rimontata due volte; 3-3 al Maradona. Champions: 0 punti nei primi due turni.",
-   "novita": "Oggi 20:45 Monza–Napoli (Serie A, 9ª giornata, da aggregatori, non da fonte ufficiale), domenica 1/11 Juventus–Napoli. Nessuna notizia datata sullo spogliatoio dopo il 18/10 (Sporza 19/10 parla di crisi che si approfondisce).",
-   "da_verificare": "Rapporto De Bruyne–Allegri; un riepilogo non verificato parla di Allegri squalificato 2 turni (26-27/10): da controllare; assenti per il Monza non confermati",
+   "novita": "Oggi 28/10 20:45 Monza–Napoli (Serie A, 9ª giornata; orario non letto su fonte ufficiale). 27/10 (fantacalcio.it): Allegri è squalificato 2 giornate e salta Monza e Juventus–Napoli (1/11); su De Bruyne dice «non può giocare tutte le partite» (ballottaggio in mediana, nessuna rottura dichiarata). Fuori Badiashile e Neres; Rrahmani e Vergara disponibili.",
+   "da_verificare": "Nessuna notizia sullo spogliatoio dopo il 18/10: se non arriva conferma entro 10 giorni la squadra esce. Formazione.",
    "segnalata_dal": "2026-10-14",
    "fonti": [
     "https://www.footballtransfers.com/en/transfer-news/it-serie-a/2026/10/tensions-rise-napoli-communication-breaks-down-kevin-de-bruyne-massimiliano-allegri"
@@ -800,37 +837,13 @@
    "nome_flashscore": "Napoli",
    "id_flashscore": "69Dxbc61",
    "assenze": {
-    "difesa": null,
-    "attacco": null
+    "difesa": "Badiashile fuori; Rrahmani rientrato dopo la febbre (fantacalcio.it 27/10).",
+    "attacco": "Neres fermo (fantacalcio.it 27/10)."
    },
    "stato": "in_calo",
-   "controllato_il": "2026-10-28T09:17:39+01:00",
+   "controllato_il": "2026-10-28T16:06:06+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
-    {
-     "tema": "panchina",
-     "query": "Napoli De Bruyne Allegri spogliatoio 28 ottobre 2026",
-     "lingua": "it",
-     "esito": "vecchia",
-     "url": "https://www.tuttomercatoweb.com/serie-a/conte-allegri-de-bruyne-agio-napoli-esame-coscienza-2283246",
-     "data_articolo": "2026-10-14"
-    },
-    {
-     "tema": "panchina",
-     "query": "Napoli Allegri De Bruyne news 26 ottobre 2026",
-     "lingua": "it",
-     "esito": "vecchia",
-     "url": "https://sporza.be/nl/2026/10/19/-heel-voorspelbaar-dat-het-zo-zou-lopen-de-dieper-wordende-crisis-bij-napoli-die-ook-kevin-de-bruyne-in-het-hart-treft~1792424513100/",
-     "data_articolo": "2026-10-19"
-    },
-    {
-     "tema": "soldi",
-     "query": "Napoli De Laurentiis stipendi società 28 ottobre 2026",
-     "lingua": "it",
-     "esito": "vecchia",
-     "url": "https://www.calcioefinanza.it/2025/12/02/quanto-guadagna-de-laurentiis-napoli-stipendio-compensi-cda/",
-     "data_articolo": "2025-12-02"
-    },
     {
      "tema": "infortuni",
      "query": "Monza-Napoli formazioni indisponibili conferenza Allegri",
@@ -846,6 +859,42 @@
      "esito": "nulla",
      "url": null,
      "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "Monza Napoli orario Allegri conferenza stampa squalificato",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://www.corrieredellosport.it/video/calcio/serie-a/bologna/2026/09/12-151187485/tedesco_allegri_persona_straordinaria",
+     "data_articolo": "2026-09-12",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Monza Napoli formazioni probabili infortunati squalificati 28 ottobre",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://www.90min.com/it/le-probabili-formazioni-di-monza-napoli-serie-a-19-04-2025",
+     "data_articolo": "2025-04-19",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "altro",
+     "query": "De Bruyne Allegri spogliatoio Napoli esonero",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://www.liberoquotidiano.it/news/sport/49213358/allegri-perde-calma-cosa-successo-spogliatoio-napoli/",
+     "data_articolo": "2026-09-28",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "panchina",
+     "query": "Napoli Monza Allegri conferenza vigilia De Bruyne",
+     "lingua": "it",
+     "esito": "nuova",
+     "url": "https://www.fantacalcio.it/news/calcio-italia/27_10_2026/monza-napoli-conferenza-stampa-prepartita-allegri-499824",
+     "data_articolo": "2026-10-27",
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -944,7 +993,7 @@
    "da_verificare": "Chi siede in panchina col Vitória; orario del 31/10 (due fonti, nessun avviso ufficiale CBF visto); assenti",
    "segnalata_dal": "2026-10-28",
    "prima_notizia": "2026-10-27",
-   "ultima_notizia": "2026-10-27",
+   "ultima_notizia": "2026-10-28",
    "controllato_il": "2026-10-28T09:17:39+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
@@ -971,9 +1020,20 @@
      "esito": "vecchia",
      "url": "https://maquinadoesporte.com.br/?p=245530",
      "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "Brasileirão técnico demitido outubro 2026 rodada 28 de outubro",
+     "lingua": "pt",
+     "esito": "nuova",
+     "url": "https://www.tribunadosertao.com.br/esportes/2026/10/28/1008015-brasileirao-2026-registra-20-tecnicos-demitidos-apenas-6-clubes-mantem-seus-treinadores",
+     "data_articolo": "2026-10-28",
+     "giro": "pomeriggio"
     }
    ],
    "fonti": [
+    "https://www.tribunadosertao.com.br/esportes/2026/10/28/1008015-brasileirao-2026-registra-20-tecnicos-demitidos-apenas-6-clubes-mantem-seus-treinadores",
+    "https://www.cartacapital.com.br/esporte/coritiba-demite-fernando-seabra-brasileirao-chega-a-20-tecnicos-desligados-em-2026/",
     "https://www.lance.com.br/futebol-nacional/coritiba-demite-o-tecnico-fernando-seabra.html",
     "https://www.mixvale.com.br/2026/10/27/coritiba-anuncia-demissao-de-fernando-seabra-apos-sete-jogos-sem-vitoria-no-brasileirao/"
    ]
@@ -988,38 +1048,22 @@
    ],
    "paese": "Italia",
    "tipo": "assenze",
-   "livello": "medio",
+   "livello": "basso",
    "stato": "attiva",
-   "motivo": "Difesa e attacco decimati per la gara con la Fiorentina: Kossounou, Scalvini, Kolasinac e Bellanova fuori in difesa; Scamacca e Raspadori fuori in attacco.",
-   "andamento": "Due sconfitte di fila prima del 25/10 (Milan e Ajax). L'elenco viene da un solo sito di infortuni (fantamaster, 25-27/10): solo Bellanova e Scamacca hanno un articolo dedicato del 27/10.",
-   "novita": "Fiorentina–Atalanta alle 20:45 (28/10 per due pagine Fantacalcio e Tuttosport, 29/10 per una).",
+   "motivo": "Assenze per la gara con la Fiorentina: Bellanova a forte rischio forfait (problema muscolare all'inguine, 26/10); Scalvini in recupero; elenco completo non confermato da una seconda fonte.",
+   "andamento": "Solo Bellanova e Scalvini hanno una notizia datata degli ultimi 3 giorni (25-26/10); gli altri nomi (Kossounou, Kolasinac, Scamacca, Raspadori) vengono da un solo sito di infortuni o da pagine non leggibili. Livello abbassato per mancanza di conferma doppia.",
+   "novita": "Fiorentina–Atalanta: calendario fantacalcio/tuttosport indica 28/10 20:45, ma fiorentinanews e violanews (25-26/10) parlano di giovedì al Franchi (29/10). Data e ora da confermare. Allenatore Atalanta: Sarri.",
    "assenze": {
-    "difesa": "Kossounou (bicipite femorale), Scalvini (flessori), Kolasinac (retto femorale), Bellanova (adduttore; ruolo da confermare); Hien dubbio.",
-    "attacco": "Scamacca (flessori) e Raspadori (bicipite femorale) fuori."
+    "difesa": "Bellanova (esterno) a forte rischio forfait per problema muscolare (fiorentinanews, 26/10); Scalvini ha ripreso a lavorare sul campo, possibile in panchina (violanews, 25/10). Kossounou e Kolasinac: solo fantamaster, da confermare.",
+    "attacco": "Scamacca e Raspadori fuori secondo sintesi non verificata; Sulemana in recupero, possibile a spezzoni (violanews 25/10)."
    },
-   "da_verificare": "Data della partita (28 o 29/10) e probabili formazioni; elenco da incrociare con una seconda fonte",
+   "da_verificare": "Data (28 o 29/10) e orario ufficiale; formazione; Kossounou e Kolasinac da confermare con una seconda fonte.",
    "segnalata_dal": "2026-10-28",
    "prima_notizia": "2026-10-25",
    "ultima_notizia": "2026-10-27",
-   "controllato_il": "2026-10-28T09:17:39+01:00",
+   "controllato_il": "2026-10-28T16:06:06+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
-    {
-     "tema": "infortuni",
-     "query": "fantamaster atalanta esito esami Bellanova Scamacca",
-     "lingua": "it",
-     "esito": "nuova",
-     "url": "https://www.fantamaster.it/atalanta-esito-esami-bellanova-infortunio-scamacca/",
-     "data_articolo": "2026-10-27"
-    },
-    {
-     "tema": "infortuni",
-     "query": "fantamaster infortunati 9 giornata 2026-2027",
-     "lingua": "it",
-     "esito": "nuova",
-     "url": "https://www.fantamaster.it/infortunati-9-giornata-seriea-20262-2027-dybala-loftus-cheek-tiago-gabriel-pinamonti-lautaro-solet-orsolini/",
-     "data_articolo": "2026-10-27"
-    },
     {
      "tema": "altro",
      "query": "Fiorentina-Atalanta 9a giornata data orario",
@@ -1027,6 +1071,51 @@
      "esito": "nuova",
      "url": "https://www.fantacalcio.it/serie-a/calendario/9/2026-27/fiorentina-atalanta/18035",
      "data_articolo": "2026-10-28"
+    },
+    {
+     "tema": "altro",
+     "query": "Fiorentina Atalanta orario ufficiale Serie A conferenza stampa",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://www.lapresse.it/calcio/2026/05/22/fiorentina-atalanta-oggi-in-serie-a-orario-probabili-formazioni-e-dove-vederla/",
+     "data_articolo": "2026-05-22",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Atalanta infortunati squalificati probabile formazione Fiorentina Bellanova",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://www.pazzidifanta.com/news/fiorentina-atalanta-le-probabili-formazioni-diverse-novita-456979",
+     "data_articolo": "2026-05-22",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Fiorentina-Atalanta Sarri conferenza vigilia infortunati Serie A 2026/27",
+     "lingua": "it",
+     "esito": "nuova",
+     "url": "https://www.fiorentinanews.com/news/160788549126/due-rientri-e-un-assenza-quasi-certa-sarri-fa-la-conta-degli-infortunati-in-vista-della-fiorentina",
+     "data_articolo": "2026-10-26",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Atalanta Sarri sugli infortunati Scalvini Sulemana per Firenze",
+     "lingua": "it",
+     "esito": "nuova",
+     "url": "https://www.violanews.com/altre-news/altre-di-serie-a/atalanta-sarri-sugli-infortunati-come-stanno-scalvini-e-sulemana-per-firenze/",
+     "data_articolo": "2026-10-25",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "altro",
+     "query": "Atalanta difesa emergenza Bellanova ultime notizie 27 ottobre 2026",
+     "lingua": "it",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
     }
    ],
    "fonti": [
@@ -1058,7 +1147,7 @@
    "data_utc": "2026-10-28T19:45:00Z",
    "casa": "Fulham",
    "trasferta": "Crystal Palace",
-   "competizione": "Carabao Cup",
+   "competizione": "EFL Cup (Carabao Cup)",
    "squadra_segnalata": "crystal-palace",
    "segnalata_in_casa": false,
    "avversaria": {
@@ -1083,7 +1172,7 @@
     "id_flashscore": "4YSMlwj7"
    },
    "favorita_stimata": "si",
-   "nota": "orario e competizione da aggregatori, non da fonte ufficiale"
+   "nota": "orario 20:45 da riassunto di ricerca, non da fonte ufficiale; Allegri squalificato"
   },
   {
    "id_partita": "2026-10-28_fiorentina_atalanta",
@@ -1100,7 +1189,7 @@
     "id_flashscore": "Q3A3IbXH"
    },
    "favorita_stimata": "incerta",
-   "nota": "una fonte indica il 29/10: data da confermare"
+   "nota": "data da confermare: fiorentinanews e violanews (25-26/10) indicano giovedì 29/10, fantacalcio.it il 28/10 alle 20:45"
   },
   {
    "id_partita": "2026-10-31_corinthians_mirassol",
@@ -1372,10 +1461,10 @@
   }
  ],
  "giro": {
-  "tipo": "mattino",
-  "iniziato": "2026-10-28T09:17:39+01:00",
-  "squadre_controllate": 11,
-  "ricerche_totali": 50,
-  "ricerche_bloccate": 4
+  "tipo": "pomeriggio",
+  "iniziato": "2026-10-28T16:06:06+01:00",
+  "squadre_controllate": 5,
+  "ricerche_totali": 44,
+  "ricerche_bloccate": 0
  }
 }
