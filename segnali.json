@@ -1,6 +1,6 @@
 {
  "versione": 3,
- "aggiornato": "2026-11-02T09:15:24+01:00",
+ "aggiornato": "2026-11-02T16:39:01+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -260,19 +260,6 @@
    "commento": "Il Napoli favorito vince 4-1 a Monza con Allegri in tribuna; De Bruyne segna (Corriere dello Sport, 28/10). Perso Lobotka per infortunio."
   },
   {
-   "id_partita": "2026-10-29_fiorentina_atalanta",
-   "data": "2026-10-29T20:45:00+01:00",
-   "partita": "Fiorentina – Atalanta",
-   "squadra_segnalata": "Atalanta",
-   "tipo": "assenze",
-   "avversaria": "Fiorentina",
-   "era_favorita": null,
-   "risultato": null,
-   "gol_avversaria": null,
-   "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato nelle ricerche del 30/10: da ricontrollare al prossimo giro."
-  },
-  {
    "id_partita": "2026-10-31_corinthians_mirassol",
    "data": "2026-10-31T00:00:00+01:00",
    "partita": "Corinthians – Mirassol",
@@ -336,19 +323,6 @@
    "gol_avversaria": true,
    "esito_segnale": "confermato",
    "commento": "Forest battuto 2-0 senza tirare in porta: segnale confermato."
-  },
-  {
-   "id_partita": "2026-10-31_burnley_portsmouth",
-   "data": "2026-10-31T16:00:00+01:00",
-   "partita": "Burnley – Portsmouth",
-   "squadra_segnalata": "Burnley",
-   "tipo": "spogliatoio",
-   "avversaria": "Portsmouth",
-   "era_favorita": null,
-   "risultato": null,
-   "gol_avversaria": null,
-   "esito_segnale": "da_verificare",
-   "commento": "Esordio di Celestini: risultato non confermato da fonti datate, da ricontrollare."
   },
   {
    "id_partita": "2026-10-31_fenerbahce_goztepe",
@@ -416,71 +390,6 @@
    "commento": "2-2 a Liniers: la segnalata non vince e l'avversaria segna due volte (risultato da una sola fonte, futboltotal)."
   },
   {
-   "id_partita": "2026-11-01_aston-villa_fulham",
-   "data": "2026-11-01T15:00:00+01:00",
-   "partita": "Aston Villa – Fulham",
-   "squadra_segnalata": "Aston Villa",
-   "tipo": "assenze",
-   "avversaria": "Fulham",
-   "era_favorita": null,
-   "risultato": null,
-   "gol_avversaria": null,
-   "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato in nessuna fonte datata 1-2/11: da ricontrollare al prossimo giro."
-  },
-  {
-   "id_partita": "2026-11-01_lione_angers",
-   "data": "2026-11-01T17:15:00+01:00",
-   "partita": "Lione – Angers",
-   "squadra_segnalata": "Lione",
-   "tipo": "attacco_sterile",
-   "avversaria": "Angers",
-   "era_favorita": true,
-   "risultato": null,
-   "gol_avversaria": null,
-   "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato in nessuna fonte datata 1-2/11: da ricontrollare al prossimo giro."
-  },
-  {
-   "id_partita": "2026-11-01_liverpool_arsenal",
-   "data": "2026-11-01T17:30:00+01:00",
-   "partita": "Liverpool – Arsenal",
-   "squadra_segnalata": "Liverpool",
-   "tipo": "assenze",
-   "avversaria": "Arsenal",
-   "era_favorita": null,
-   "risultato": null,
-   "gol_avversaria": null,
-   "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato in nessuna fonte datata 1-2/11: da ricontrollare al prossimo giro."
-  },
-  {
-   "id_partita": "2026-11-01_the-strongest_gualberto-villarroel-sj",
-   "data": "2026-11-01T20:00:00+01:00",
-   "partita": "The Strongest – Gualberto Villarroel SJ",
-   "squadra_segnalata": "The Strongest",
-   "tipo": "stipendi",
-   "avversaria": "Gualberto Villarroel SJ",
-   "era_favorita": true,
-   "risultato": null,
-   "gol_avversaria": null,
-   "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato in nessuna fonte datata 1-2/11: da ricontrollare al prossimo giro."
-  },
-  {
-   "id_partita": "2026-11-01_juventus_napoli",
-   "data": "2026-11-01T20:45:00+01:00",
-   "partita": "Juventus – Napoli",
-   "squadra_segnalata": "Juventus",
-   "tipo": "spogliatoio",
-   "avversaria": "Napoli",
-   "era_favorita": null,
-   "risultato": null,
-   "gol_avversaria": null,
-   "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato in nessuna fonte datata 1-2/11: da ricontrollare al prossimo giro."
-  },
-  {
    "id_partita": "2026-11-01_gimnasia-y-tiro_quilmes",
    "data": "2026-11-01T23:00:00+01:00",
    "partita": "Gimnasia y Tiro – Quilmes",
@@ -492,15 +401,106 @@
    "gol_avversaria": false,
    "esito_segnale": "smentito",
    "commento": "Quilmes ha vinto 1-0 a Salta con una squadra in maggioranza giovanile (gol di un sedicenne): la segnalata per stipendi ha vinto, l'avversaria è rimasta a secco (El Sol Noticias e Futbol Total, 1/11)."
+  },
+  {
+   "id_partita": "2026-10-29_fiorentina_atalanta",
+   "data": "2026-10-29T20:45:00+01:00",
+   "partita": "Fiorentina – Atalanta",
+   "squadra_segnalata": "Atalanta",
+   "tipo": "assenze",
+   "avversaria": "Fiorentina",
+   "era_favorita": null,
+   "risultato": "2-2",
+   "gol_avversaria": true,
+   "esito_segnale": "confermato",
+   "commento": "Pareggio 2-2 (Sky TG24 29/10): Atalanta non ha vinto, la Fiorentina ha segnato due gol."
+  },
+  {
+   "id_partita": "2026-10-31_burnley_portsmouth",
+   "data": "2026-10-31T16:00:00+01:00",
+   "partita": "Burnley – Portsmouth",
+   "squadra_segnalata": "Burnley",
+   "tipo": "spogliatoio",
+   "avversaria": "Portsmouth",
+   "era_favorita": null,
+   "risultato": "0-0",
+   "gol_avversaria": false,
+   "esito_segnale": "confermato",
+   "commento": "0-0 all'esordio di Celestini (Sky Sports): Burnley senza vittoria, Portsmouth a secco."
+  },
+  {
+   "id_partita": "2026-11-01_aston-villa_fulham",
+   "data": "2026-11-01T15:00:00+01:00",
+   "partita": "Aston Villa – Fulham",
+   "squadra_segnalata": "Aston Villa",
+   "tipo": "assenze",
+   "avversaria": "Fulham",
+   "era_favorita": null,
+   "risultato": "1-1",
+   "gol_avversaria": null,
+   "esito_segnale": "confermato",
+   "commento": "1-1 secondo Sky Sports/ESPN (che datano la gara al 31/10); i marcatori riportati sono incoerenti, quindi il gol del Fulham non è verificato."
+  },
+  {
+   "id_partita": "2026-11-01_lione_angers",
+   "data": "2026-11-01T17:15:00+01:00",
+   "partita": "Lione – Angers",
+   "squadra_segnalata": "Lione",
+   "tipo": "attacco_sterile",
+   "avversaria": "Angers",
+   "era_favorita": true,
+   "risultato": "2-0",
+   "gol_avversaria": false,
+   "esito_segnale": "smentito",
+   "commento": "Lione ha vinto 2-0 (Nuamah, Tolisso; Orange 01/11): l'attacco ha segnato e l'avversaria è rimasta a secco."
+  },
+  {
+   "id_partita": "2026-11-01_liverpool_arsenal",
+   "data": "2026-11-01T17:30:00+01:00",
+   "partita": "Liverpool – Arsenal",
+   "squadra_segnalata": "Liverpool",
+   "tipo": "assenze",
+   "avversaria": "Arsenal",
+   "era_favorita": null,
+   "risultato": "0-1",
+   "gol_avversaria": true,
+   "esito_segnale": "confermato",
+   "commento": "Liverpool battuto 1-0 in casa da gol di Havertz (Vavel, Sports Mole): l'avversaria ha vinto."
+  },
+  {
+   "id_partita": "2026-11-01_the-strongest_gualberto-villarroel-sj",
+   "data": "2026-11-01T20:00:00+01:00",
+   "partita": "The Strongest – Gualberto Villarroel SJ",
+   "squadra_segnalata": "The Strongest",
+   "tipo": "stipendi",
+   "avversaria": "Gualberto Villarroel SJ",
+   "era_favorita": true,
+   "risultato": "4-2",
+   "gol_avversaria": true,
+   "esito_segnale": "smentito",
+   "commento": "The Strongest ha vinto 4-2 nonostante gli stipendi arretrati (fonte unica starting11, fiducia media)."
+  },
+  {
+   "id_partita": "2026-11-01_juventus_napoli",
+   "data": "2026-11-01T20:45:00+01:00",
+   "partita": "Juventus – Napoli",
+   "squadra_segnalata": "Juventus",
+   "tipo": "spogliatoio",
+   "avversaria": "Napoli",
+   "era_favorita": null,
+   "risultato": "2-0",
+   "gol_avversaria": false,
+   "esito_segnale": "smentito",
+   "commento": "Juventus ha vinto 2-0 (Alajbegovic, Boga; Sky Sport), Napoli in dieci e a secco."
   }
  ],
  "bilancio": {
-  "valutati": 32,
-  "avversaria_non_perde": 21,
-  "segnalata_vince": 11,
-  "gol_avversaria_si": 24,
-  "gol_avversaria_valutati": 32,
-  "osservazione": "Su 32 partite valutate l'avversaria non ha perso in 21 e ha segnato in 24 su 32. Le segnalate che vincono sono quasi sempre favorite, in forma o con un cambio di allenatore appena fatto; ultimo caso: Quilmes (stipendi) ha vinto 1-0 a Salta con una squadra giovanile, quindi gli stipendi non pagati da soli non bastano. Tiene meglio la non-sconfitta (soprattutto spogliatoio in tensione) che il gol; difesa decimata e società nel caos da soli non bastano contro un avversario più debole.",
+  "valutati": 39,
+  "avversaria_non_perde": 25,
+  "segnalata_vince": 14,
+  "gol_avversaria_si": 27,
+  "gol_avversaria_valutati": 38,
+  "osservazione": "Su 39 partite valutate l'avversaria non ha perso in 25 e ha segnato in 27 su 38. Ultimi esiti: Juventus (spogliatoio) ha battuto il Napoli 2-0, Lione (attacco sterile) ha vinto 2-0 e The Strongest (stipendi) ha vinto 4-2, mentre Liverpool, Atalanta, Burnley e Aston Villa (assenze/panchina nuova) non hanno vinto. Le segnalate che vincono sono quasi sempre favorite o con una scossa recente; tiene meglio la non-sconfitta (spogliatoio e assenze difensive) che il gol; stipendi, società e attacco sterile da soli non bastano.",
   "per_tipo": {
    "non_indicato": {
     "valutati": 17,
@@ -510,18 +510,18 @@
     "gol_avversaria_valutati": 17
    },
    "stipendi": {
-    "valutati": 4,
+    "valutati": 5,
     "avversaria_non_perde": 2,
-    "segnalata_vince": 2,
-    "gol_avversaria_si": 1,
-    "gol_avversaria_valutati": 4
+    "segnalata_vince": 3,
+    "gol_avversaria_si": 2,
+    "gol_avversaria_valutati": 5
    },
    "spogliatoio": {
-    "valutati": 9,
-    "avversaria_non_perde": 6,
-    "segnalata_vince": 3,
+    "valutati": 11,
+    "avversaria_non_perde": 7,
+    "segnalata_vince": 4,
     "gol_avversaria_si": 7,
-    "gol_avversaria_valutati": 9
+    "gol_avversaria_valutati": 11
    },
    "societa": {
     "valutati": 1,
@@ -531,20 +531,27 @@
     "gol_avversaria_valutati": 1
    },
    "assenze": {
+    "valutati": 4,
+    "avversaria_non_perde": 3,
+    "segnalata_vince": 1,
+    "gol_avversaria_si": 3,
+    "gol_avversaria_valutati": 3
+   },
+   "attacco_sterile": {
     "valutati": 1,
     "avversaria_non_perde": 0,
     "segnalata_vince": 1,
-    "gol_avversaria_si": 1,
+    "gol_avversaria_si": 0,
     "gol_avversaria_valutati": 1
    }
   },
   "per_favorita": {
    "si": {
-    "valutati": 11,
+    "valutati": 13,
     "avversaria_non_perde": 6,
-    "segnalata_vince": 5,
-    "gol_avversaria_si": 9,
-    "gol_avversaria_valutati": 11
+    "segnalata_vince": 7,
+    "gol_avversaria_si": 10,
+    "gol_avversaria_valutati": 13
    },
    "no": {
     "valutati": 10,
@@ -554,11 +561,11 @@
     "gol_avversaria_valutati": 10
    },
    "incerta": {
-    "valutati": 11,
-    "avversaria_non_perde": 7,
-    "segnalata_vince": 4,
-    "gol_avversaria_si": 7,
-    "gol_avversaria_valutati": 11
+    "valutati": 16,
+    "avversaria_non_perde": 11,
+    "segnalata_vince": 5,
+    "gol_avversaria_si": 9,
+    "gol_avversaria_valutati": 15
    }
   },
   "nota_per_tipo": "Suddivisioni cumulative aggiornate a ogni giro; gli esiti più vecchi senza campo tipo sono sotto non_indicato."
@@ -576,12 +583,12 @@
    "livello": "medio",
    "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
    "andamento": "Pressione su Spalletti ancora alta dopo le sconfitte con Lazio e Genoa; nessun comunicato societario datato.",
-   "novita": "Nessun articolo datato 1-2/11 su Juventus–Napoli (risultato e commento di Spalletti non trovati). Ultima notizia utile: sfoghi di Conceição e Bremer dopo lo 0-3 con la Lazio (31/10).",
+   "novita": "Juventus ha battuto il Napoli 2-0 il 1/11 (Sky Sport); resta da verificare se Spalletti ha chiuso il caso spogliatoio.",
    "assenze": {
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Risultato di Juventus–Napoli di ieri sera e dichiarazioni di Spalletti; assenze per AZ Alkmaar–Juventus di giovedì 5/11 (Celik, bicipite femorale, solo notizia del 25/10).",
+   "da_verificare": "Dichiarazioni di Spalletti dopo il 2-0 al Napoli; assenze per AZ Alkmaar–Juventus di giovedì 5/11 (Celik, solo notizia del 25/10).",
    "segnalata_dal": "2026-10-19",
    "fonti": [
     "https://sport.sky.it/calcio/serie-a/2026/10/31/juventus-napoli-spalletti-conferenza-video",
@@ -721,12 +728,12 @@
    "livello": "basso",
    "motivo": "Carrick sotto pressione dopo lo 0-3 con il Bournemouth (8 gare senza vittoria in campionato); Lisandro Martínez aveva criticato la dirigenza (14-16/10, poi scuse); Bruno Fernandes escluso col Bournemouth.",
    "andamento": "Squadra in serie negativa e spogliatoio in tensione (Martínez espulso dopo le critiche alla dirigenza); allenatore in carica.",
-   "novita": "Nessuna notizia nuova su Carrick nelle ultime 72 ore (ultima datata 25/10: Bruno Fernandes in panchina col Bournemouth).",
+   "novita": "Nessuna notizia datata del 1-2/11 su Carrick; nessuna team news trovata per Man Utd–AS Roma.",
    "assenze": {
     "difesa": "Lisandro Martínez squalificato dopo il rosso: durata e presenza con la Roma non verificate.",
     "attacco": "Un titolo thefalse9 dà Sesko out per la Roma (non verificato)."
    },
-   "da_verificare": "Man Utd–AS Roma martedì 3/11 ore 21:00; team news non trovate.",
+   "da_verificare": "Man Utd–AS Roma martedì 3/11 ore 21:00 (competizione e orario non confermati da fonte datata); team news.",
    "segnalata_dal": "2026-10-14",
    "fonti": [
     "https://thefalse9.com/2026/10/man-utd-news-today-1-november-2026.html",
@@ -741,7 +748,7 @@
    "nome_flashscore": "Manchester Utd",
    "id_flashscore": "ppjDR086",
    "stato": "attiva",
-   "controllato_il": "2026-11-02T09:15:24+01:00",
+   "controllato_il": "2026-11-02T16:39:01+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
@@ -770,6 +777,33 @@
      "url": null,
      "data_articolo": null,
      "giro": "mattino"
+    },
+    {
+     "tema": "altro",
+     "query": "Manchester United Roma kick-off time Carrick press conference",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Manchester United vs Roma team news injuries suspensions",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "panchina",
+     "query": "Carrick pressure Bournemouth 3-0 Lisandro Martinez criticism",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.aljazeera.com/sports/2026/10/16/manchester-utd-have-moved-on-from-martinez-outburst-says-carrick",
+     "data_articolo": "2026-10-16",
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -906,8 +940,8 @@
    "livello": "medio",
    "motivo": "Dopo il derby perso con il Galatasaray (0-2 nel primo tempo) il club e l'allenatore İsmail Kartal si sono separati il 27/10; Dirk Kuyt guida la squadra ad interim, nessun successore ufficiale.",
    "andamento": "Dopo le dimissioni di Kartal (27/10) la panchina resta provvisoria; tifosi contro Aktürkoğlu.",
-   "novita": "Kuyt resta responsabile tecnico ad interim (Evrensel 30/10); nessun successore ufficiale trovato.",
-   "da_verificare": "Fenerbahçe–Liverpool martedì 4/11 (Champions League): orario 18:45 non confermato da fonte datata; nuovo allenatore e assenti da verificare.",
+   "novita": "Fanatik 01/11: la squadra ha iniziato la preparazione per il Liverpool con Kuyt in panchina fino alla pausa nazionali; nessun nuovo allenatore ufficiale. Aké assente col Göztepe, Greenwood fuori per influenza (31/10).",
+   "da_verificare": "Convocati ufficiali per Fenerbahçe–Liverpool (4/11, 18:45 italiane da stampa turca; non confermato su uefa.com); disponibilità di Aké e Greenwood.",
    "segnalata_dal": "2026-10-29",
    "fonti": [
     "https://gzt.com/spor/fenerbahce-sakat-futbolcular-listesi-fenerbahce-goztepe-macinda-sakatlanan-oppong-liverpool-macinda-oynayacak-mi-4274552",
@@ -917,7 +951,7 @@
     "https://www.cumhuriyet.com.tr/spor/ismail-kartal-in-ayriliginin-ardindan-fenerbahce-de-takimin-basinda-yer-alacak-isim-belli-oldu-2550841"
    ],
    "prima_notizia": "2026-10-27",
-   "ultima_notizia": "2026-10-31",
+   "ultima_notizia": "2026-11-01",
    "nome_flashscore": "Fenerbahce",
    "id_flashscore": "MsbmracL",
    "assenze": {
@@ -925,27 +959,9 @@
     "attacco": "Greenwood assente col Göztepe per influenza, disponibilità per il Liverpool non confermata (Fanatik 31/10)."
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-02T09:15:24+01:00",
+   "controllato_il": "2026-11-02T16:39:01+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
-    {
-     "tema": "soldi",
-     "query": "Fenerbahçe maaş ödenmeyen borç",
-     "lingua": "tr",
-     "esito": "vecchia",
-     "url": "https://www.sabah.com.tr/spor/futbol/2026/08/01/tanju-kaya-onemli-sorunlardan-biri-de-harcama-limitleriydi",
-     "data_articolo": "2026-08-01",
-     "giro": "mattino"
-    },
-    {
-     "tema": "panchina",
-     "query": "Fenerbahçe teknik direktör Kuyt yeni hoca soyunma odası",
-     "lingua": "tr",
-     "esito": "vecchia",
-     "url": "https://www.evrensel.net/haber/6006943/fenerbahcede-gecici-teknik-sorumlu-dirk-kuyt-oldu",
-     "data_articolo": "2026-10-28",
-     "giro": "mattino"
-    },
     {
      "tema": "infortuni",
      "query": "Fenerbahçe Liverpool sakat cezalı kadro",
@@ -963,6 +979,42 @@
      "url": "https://www.evrensel.net/haber/6007257/fenerbahce-goztepe-maci-ne-zaman-saat-kacta-hangi-kanalda",
      "data_articolo": "2026-10-30",
      "giro": "mattino"
+    },
+    {
+     "tema": "panchina",
+     "query": "Fenerbahçe yeni teknik direktör Dirk Kuyt Kartal ayrılık",
+     "lingua": "tr",
+     "esito": "vecchia",
+     "url": "https://www.evrensel.net/haber/6006943/fenerbahcede-gecici-teknik-sorumlu-dirk-kuyt-oldu",
+     "data_articolo": "2026-10-28",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "panchina",
+     "query": "fanatik Kuyt Fenerbahçe Liverpool mesaisi",
+     "lingua": "tr",
+     "esito": "nuova",
+     "url": "https://www.fanatik.com.tr/haberleri/kuyt",
+     "data_articolo": "2026-11-01",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Fenerbahçe Liverpool sakat cezalı kadro Şampiyonlar Ligi",
+     "lingua": "tr",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "altro",
+     "query": "Fenerbahçe Liverpool maç saati 4 Kasım",
+     "lingua": "tr",
+     "esito": "vecchia",
+     "url": "https://www.aspor.com.tr/fenerbahce/2026/10/30/fenerbahce-maci-oncesi-liverpoolda-dev-kriz",
+     "data_articolo": "2026-10-30",
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -976,9 +1028,9 @@
    "tipo": "spogliatoio",
    "livello": "basso",
    "motivo": "Allenatore Nicky Hayen esonerato il 24/10 dopo il 4-1 a Lincoln: squadra al 22º posto in Championship con una sola vittoria; nessun interim ufficiale al 27/10, Gerrard favorito nei bookmaker.",
-   "andamento": "Esonerato Hayen il 24/10; il nuovo allenatore non ha ancora una vittoria confermata.",
-   "novita": "Nessuna conferma nuova. Un titolo di aggregatore datato 28/10, non verificato, indica Fabio Celestini come nuovo allenatore; Gerrard favorito nei bookmaker al 27/10.",
-   "da_verificare": "Chi siede in panchina a QPR–Burnley martedì 3/11 ore 20:45 e se ha già vinto (in tal caso il segnale si toglie).",
+   "andamento": "Hayen esonerato il 24/10; Celestini al primo punto (0-0 con il Portsmouth), ancora senza vittoria.",
+   "novita": "Celestini ha esordito con 0-0 contro il Portsmouth il 31/10 (Sky Sports): ancora nessuna vittoria del nuovo allenatore. Nessuna team news per QPR–Burnley.",
+   "da_verificare": "Orario ufficiale QPR–Burnley (3/11 ore 20:45 italiane, 19:45 UK da fonte non ufficiale) e team news.",
    "segnalata_dal": "2026-10-29",
    "fonti": [
     "https://www.sportsmole.co.uk/football/burnley/preview/burnley-vs-portsmouth-prediction-team-news-lineups_607977.html",
@@ -995,18 +1047,9 @@
     "attacco": null
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-02T09:15:24+01:00",
+   "controllato_il": "2026-11-02T16:39:01+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
-    {
-     "tema": "soldi",
-     "query": "Burnley owners ALK Capital finances wages",
-     "lingua": "en",
-     "esito": "vecchia",
-     "url": "https://uk.sports.yahoo.com/news/burnleys-problems-back-further-alk-173904864.html",
-     "data_articolo": null,
-     "giro": "mattino"
-    },
     {
      "tema": "panchina",
      "query": "Burnley new manager appointed Hayen sacked Gerrard interim",
@@ -1033,6 +1076,33 @@
      "url": null,
      "data_articolo": null,
      "giro": "mattino"
+    },
+    {
+     "tema": "altro",
+     "query": "Burnley Celestini Portsmouth result Championship",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.sportsmole.co.uk/football/burnley/preview/burnley-vs-portsmouth-prediction-team-news-lineups_607977.html",
+     "data_articolo": "2026-10-30",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "QPR vs Burnley team news injuries predicted lineup",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "panchina",
+     "query": "Burnley head coach Celestini press conference QPR dressing room",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -1047,8 +1117,8 @@
    "livello": "medio",
    "motivo": "La rosa non si è allenata il 27/10 per stipendi arretrati (3-5 mesi, fino a 6 per lo staff); il 28/10 è tornata al lavoro dopo la promessa di pagare un solo mese.",
    "andamento": "La dirigenza ha pagato un solo stipendio e la rosa è tornata ad allenarsi il 29/10 (Vision360); restano altri arretrati.",
-   "novita": "Nessun articolo datato nelle ultime 72 ore; risultato di The Strongest–Gualberto Villarroel (1/11) non trovato.",
-   "da_verificare": "Risultato del 1/11 e prossima partita non trovati: nessuna partita in lista. Stipendi: nessuna conferma dopo il 29/10.",
+   "novita": "The Strongest ha vinto 4-2 il 1/11 contro il Gualberto Villarroel (fonte unica starting11); nessuna notizia nuova sugli stipendi.",
+   "da_verificare": "Prossima partita non trovata: nessuna partita in lista. Stipendi: nessuna conferma dopo il 29/10.",
    "segnalata_dal": "2026-10-29",
    "fonti": [
     "https://www.vision360.bo/noticias/2026/10/30/74874-santiago-arce-supero-la-contractura-muscular-y-vuelve-a-ser-opcion-en-the-strongest",
@@ -1117,34 +1187,25 @@
    "livello": "basso",
    "motivo": "Allenatore Fernando da Cruz sotto pressione: eliminati ai rigori dai preliminari di Confederation Cup, 4 partite senza vittoria; il direttore sportivo lo difende e chiede calma.",
    "andamento": "Cinque gare senza vittoria in campionato secondo il conteggio precedente; allenatore in carica.",
-   "novita": "Nessuna notizia nuova nelle ultime 72 ore su Da Cruz (ultima: derby di Soweto perso, 31/10).",
-   "da_verificare": "Kaizer Chiefs–AmaZulu mercoledì 4/11 (Betway Premiership): data da calendario aggregatore senza data di pubblicazione, orario 18:30 italiane da confermare.",
+   "novita": "Afrik-foot 02/11: Da Cruz ancora in carica ma criticato (panchina di Ighodaro, errore di Dortley); Inacio Miguel espulso nel derby e rischia una squalifica pesante.",
+   "da_verificare": "Orario ufficiale PSL di Kaizer Chiefs–AmaZulu (4/11, 18:30 italiane non confermato), durata squalifica di Inacio Miguel.",
    "segnalata_dal": "2026-10-29",
    "fonti": [
     "https://briefly.co.za/sports/football/257616-fernando-da-cruz-breaks-kaizer-chiefs-soweto-derby-defeat-orlando-pirates/",
     "https://briefly.co.za/sports/football/257042-kaizer-chiefs-urge-fans-avoid-emotional-decisions-calls-fernando-da-cruzs-sacking/"
    ],
    "prima_notizia": "2026-10-25",
-   "ultima_notizia": "2026-10-31",
+   "ultima_notizia": "2026-11-02",
    "nome_flashscore": "Kaizer Chiefs",
    "id_flashscore": "fFZ2CGx0",
    "assenze": {
-    "difesa": "Monyane fuori; Dortley rientrato ma gestito (afrik-foot 31/10)",
+    "difesa": "Inacio Miguel rischia squalifica dopo il rosso nel derby (afrik-foot 02/11, durata non confermata); Monyane fuori (31/10)",
     "attacco": "Leaner, Ndlovu e Phili fuori (afrik-foot 31/10)"
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-02T09:15:24+01:00",
+   "controllato_il": "2026-11-02T16:39:01+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
-    {
-     "tema": "soldi",
-     "query": "Kaizer Chiefs wages salaries Motaung",
-     "lingua": "en",
-     "esito": "vecchia",
-     "url": "https://briefly.co.za/facts-lifehacks/top/161578-kaizer-chiefs-salary-list-highest-lowest-paid-player",
-     "data_articolo": null,
-     "giro": "mattino"
-    },
     {
      "tema": "panchina",
      "query": "Da Cruz sacked Kaizer Chiefs dressing room coach",
@@ -1171,6 +1232,33 @@
      "url": "https://starting11.com/fixtures/kaizer-chiefs-vs-amazulu",
      "data_articolo": null,
      "giro": "mattino"
+    },
+    {
+     "tema": "altro",
+     "query": "Kaizer Chiefs vs AmaZulu kickoff time 4 November Betway Premiership",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "panchina",
+     "query": "Fernando da Cruz under pressure Kaizer Chiefs Soweto derby",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.afrik-foot.com/en-za/kaizer-chiefs-news-today-25-10-26",
+     "data_articolo": "2026-10-25",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Kaizer Chiefs news today 02-11-26 Inacio Miguel red card",
+     "lingua": "en",
+     "esito": "nuova",
+     "url": "https://www.afrik-foot.com/en-za/kaizer-chiefs-news-today-02-11-26",
+     "data_articolo": "2026-11-02",
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -1187,8 +1275,8 @@
    "livello": "basso",
    "motivo": "Difesa in emergenza: Christensen (quadricipite, rientro inizio novembre) ed Eric García (retto femorale, metà novembre) fuori, Koundé in dubbio (caviglia); Olmo e Bardghji fuori.",
    "andamento": "Difesa decimata ma il Barça ha vinto largamente: segnale debole contro un avversario inferiore.",
-   "novita": "Nessuna notizia datata 31/10–2/11 sulla difesa. Fonte non datata: Christensen pronto per il 3/11 dalla panchina; Eric García e Koundé non confermati. Il 26/10 Flick li dava in miglioramento.",
-   "da_verificare": "Team news di Barcelona–Aston Villa (martedì 3/11 ore 21:00): se Christensen e Koundé giocano, togliere. Ultima notizia sulle assenze del 30/10, al limite dei 3 giorni.",
+   "novita": "Nessuna fonte datata nelle ultime 72 ore su Christensen, Koundé, Eric García (una pagina starting11 senza data affidabile li dà fuori); orario di Barcelona–Aston Villa 3/11 ore 21:00 confermato dal sito del club.",
+   "da_verificare": "Team news di Barcelona–Aston Villa (3/11 ore 21:00): se Christensen e Koundé giocano, togliere. Ultima notizia sulle assenze 30/10, al limite dei 3 giorni.",
    "segnalata_dal": "2026-10-29",
    "fonti": [
     "https://www.sportsmole.co.uk/football/barcelona/race-for-the-la-liga-title/team-news/barcelona-vs-alaves-injury-suspension-list-predicted-xis_607935.html",
@@ -1204,27 +1292,9 @@
     "attacco": "Olmo (adduttore) e Bardghji (ginocchio) fuori (Sports Mole 30/10)."
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-02T09:15:24+01:00",
+   "controllato_il": "2026-11-02T16:39:01+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
-    {
-     "tema": "infortuni",
-     "query": "Barcelona Aston Villa team news injuries Christensen Eric Garcia Koundé",
-     "lingua": "en",
-     "esito": "vecchia",
-     "url": "https://www.yardbarker.com/soccer/articles/rescue_mission_kound_risks_everything_for_barcelona/s1_17790_44485419",
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Flick rueda de prensa Aston Villa lesionados Koundé Christensen",
-     "lingua": "es",
-     "esito": "vecchia",
-     "url": "https://www.comuniate.com/en/noticias/38686/flick-updates-eric-garcia-kounde-and-christensen-de-jong-role",
-     "data_articolo": "2026-10-26",
-     "giro": "mattino"
-    },
     {
      "tema": "infortuni",
      "query": "Barcelona Aston Villa predicted lineup injury news",
@@ -1251,6 +1321,33 @@
      "url": "https://www.90min.com/la-liga-confirm-increase-barcelona-salary-cap",
      "data_articolo": null,
      "giro": "mattino"
+    },
+    {
+     "tema": "panchina",
+     "query": "Barcelona Aston Villa Champions League Flick rueda de prensa horario",
+     "lingua": "es",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Barça Aston Villa bajas Koundé Christensen Eric García convocatoria",
+     "lingua": "es",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Barcelona vs Aston Villa team news injuries predicted lineup",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://starting11.com/fixtures/barcelona-vs-aston-villa",
+     "data_articolo": null,
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -1267,8 +1364,8 @@
    "livello": "basso",
    "motivo": "Due sconfitte senza segnare (0-2 col PSG, 0-3 a Hoffenheim in Europa League), scesa dal 1º al 5º posto; Sulc (menisco, circa 4 mesi) e Openda (fino a metà novembre) fuori; Fonseca parla di mancanza di soluzioni offensive.",
    "andamento": "Problemi fisici anche a centrocampo (Tolisso, Morton, Bidstrup); nessuna assenza difensiva confermata.",
-   "novita": "Nessuna notizia datata nelle ultime 72 ore: risultato di Lione–Angers (1/11) non trovato; Sulc (menisco, ~4 mesi, 25/10) e Openda fuori.",
-   "da_verificare": "Risultato di Lione–Angers (gol segnati) e prossima partita: Real Sociedad–Lione giovedì 5/11 ore 18:45 (Europa League) da fonte non ufficiale; Brest–Lione 7 o 8/11 non confermata.",
+   "novita": "Lione ha battuto l'Angers 2-0 il 1/11 (Orange, Nuamah e Tolisso): il segnale di attacco sterile è indebolito; Sulc e Openda restano fuori (LyonFoot 01/11).",
+   "da_verificare": "Se l'attacco resta sterile: Real Sociedad–Lione giovedì 5/11 ore 18:45 (Europa League, fonte non ufficiale); Brest–Lione 7 o 8/11 non confermata.",
    "segnalata_dal": "2026-10-29",
    "fonti": [
     "https://www.lyonfoot.com/article/14641/ol-angers-lyon-sous-pression-face-a-un-adversaire-fragilise",
@@ -1339,7 +1436,7 @@
    "motivo": "Il 26/10 i giocatori hanno annunciato che non giocheranno finché non saranno pagati lo stipendio di settembre e la prima legale; Acolfutpro chiede sanzioni. Club ultimo, in riorganizzazione, con ritiro del riconoscimento sportivo già in discussione.",
    "andamento": "Problema ancora aperto il 31/10 (Infobae): la squadra ha giocato e vinto, ma gli stipendi restano non pagati e il mercato è bloccato dalla FIFA.",
    "novita": "Nessun articolo datato 1-2/11: ultimo leggibile è quello del 26/10 sul rifiuto di giocare; fonti non datate citano ricorso a Supersociedades e misura del Ministero del lavoro.",
-   "da_verificare": "Pereira–Tolima martedì 3/11 ore 21:30 italiane (Dimayor): se la squadra scende in campo o fa sciopero; data di Atlético Nacional–Pereira (8/11 ore 00:10 in lista, un'altra ricerca dice 5/11 ore 02:30).",
+   "da_verificare": "Pereira–Tolima martedì 3/11 (ora 21:30 italiane non confermata: fonti discordi); se la squadra scende in campo o fa sciopero; data di Atlético Nacional–Pereira.",
    "segnalata_dal": "2026-10-29",
    "fonti": [
     "https://www.infobae.com/colombia/deportes/2026/10/31/jugadores-del-deportivo-pereira-dieron-la-cara-y-explicaron-las-razones-de-la-crisis-pese-a-la-victoria-ante-jaguares-tuvimos-la-valentia-de-estar-en-la-cancha/",
@@ -1357,27 +1454,9 @@
     "attacco": null
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-02T09:15:24+01:00",
+   "controllato_il": "2026-11-02T16:39:01+01:00",
    "problema_in_corso": true,
    "ricerche_fatte": [
-    {
-     "tema": "soldi",
-     "query": "Deportivo Pereira jugadores salarios impagos paro Acolfutpro",
-     "lingua": "es",
-     "esito": "vecchia",
-     "url": "https://www.publimetro.co/deportes/2026/10/26/jugadores-del-deportivo-pereira-anuncian-que-no-jugaran-por-nuevas-deudas-salariales-acolfutpro-pidio-sanciones/",
-     "data_articolo": "2026-10-26",
-     "giro": "mattino"
-    },
-    {
-     "tema": "panchina",
-     "query": "Deportivo Pereira técnico vestuario Tolima",
-     "lingua": "es",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
     {
      "tema": "infortuni",
      "query": "Deportivo Pereira Tolima lesionados suspendidos formación",
@@ -1404,6 +1483,33 @@
      "url": null,
      "data_articolo": null,
      "giro": "mattino"
+    },
+    {
+     "tema": "panchina",
+     "query": "Deportivo Pereira Tolima horario hoy rueda de prensa",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": "https://futboltotal.futbol/partido/deportivo-pereira-vs-deportes-tolima-primera-a-2026-11-03",
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Deportivo Pereira Tolima lesionados suspendidos alineación probable",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": "https://www.noticiascaracol.com/golcaracol/futbol-colombiano/pablo-peirano-anuncio-tres-bajas-sensibles-para-el-duelo-contra-tolima-ademas-de-importante-regreso-rg10",
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "soldi",
+     "query": "Deportivo Pereira salarios pago paro jugadores Acolfutpro",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": "https://www.publimetro.co/deportes/2026/10/26/jugadores-del-deportivo-pereira-anuncian-que-no-jugaran-por-nuevas-deudas-salariales-acolfutpro-pidio-sanciones/",
+     "data_articolo": "2026-10-26",
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -1417,9 +1523,9 @@
    "tipo": "assenze",
    "livello": "basso",
    "motivo": "Difesa in emergenza: Ruggeri (muscolare, oltre un mese) e Wan-Bissaka (hamstring, 3-4 settimane) fuori.",
-   "andamento": "Due terzini titolari fuori, sulla soglia; Jackson e Manzambi in dubbio.",
-   "novita": "Read Aston Villa 30/10: Wan-Bissaka fuori fino a dopo la pausa internazionale, Ruggeri fuori oltre un mese. Nessuna notizia dopo il 30/10; risultato di Villa–Fulham (1/11) non trovato.",
-   "da_verificare": "Prossime partite: Barcelona–Aston Villa 3/11 ore 21:00 (in lista sotto Barcelona) e Man Utd–Aston Villa 8/11 ore 17:30 (in lista sotto Man Utd). Risultato Villa–Fulham.",
+   "andamento": "1-1 con il Fulham; due terzini titolari fuori, sulla soglia.",
+   "novita": "Nessuna notizia nuova su Barcelona–Aston Villa (3/11 ore 21:00, Champions League, orario dal sito del Barcelona); ultima fonte assenze 30/10: Ruggeri e Wan-Bissaka fuori. Villa–Fulham finita 1-1.",
+   "da_verificare": "Team news per Barcelona–Aston Villa (3/11 ore 21:00): se non confermate entro domani la segnalazione scade (ultima notizia 30/10).",
    "segnalata_dal": "2026-10-31",
    "fonti": [
     "https://www.fantasyfootballscout.co.uk/2026/10/30/fpl-gameweek-9-team-news-fridays-live-injury-updates-3",
@@ -1434,18 +1540,9 @@
     "attacco": "Jackson in dubbio (FFS 30/10)"
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-02T09:15:24+01:00",
+   "controllato_il": "2026-11-02T16:39:01+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
-    {
-     "tema": "altro",
-     "query": "Aston Villa Fulham result 1 November 2026",
-     "lingua": "en",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
     {
      "tema": "infortuni",
      "query": "Aston Villa team news Barcelona Champions League Ruggeri Wan-Bissaka",
@@ -1472,6 +1569,33 @@
      "url": "https://worldsoccertalk.com/news/aston-villa-exec-says-club-was-hours-from-psr-breach-this-summer",
      "data_articolo": null,
      "giro": "mattino"
+    },
+    {
+     "tema": "altro",
+     "query": "Aston Villa Fulham result Emery",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/emery-villa-lost-a-really-good-opportunity-against-fulham-2026-04-25",
+     "data_articolo": "2026-04-25",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Barcelona vs Aston Villa team news injuries predicted lineup",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Aston Villa Emery press conference Ruggeri Wan-Bissaka defence injuries",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": "https://www.sportsmole.co.uk/football/aston-villa/injury-news/news/emery-delivers-triple-aston-villa-injury-blow-ahead-of-viking-fk-game_607301.html",
+     "data_articolo": null,
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -1485,23 +1609,23 @@
    "tipo": "assenze",
    "livello": "medio",
    "motivo": "Difesa decimata: Leoni, Bradley e Frimpong fuori; assente anche il centravanti Ekitike (tendine d'Achille).",
-   "andamento": "Dubbi su Szoboszlai e Muñoz; Wirtz rientrato.",
-   "novita": "Nessuna notizia datata nelle ultime 72 ore; risultato di Liverpool–Arsenal (1/11) non trovato. Ultima fonte: Leoni, Bradley, Frimpong e Ekitike assenti (30/10).",
-   "da_verificare": "Fenerbahçe–Liverpool martedì 4/11 (Champions): team news; risultato di ieri.",
+   "andamento": "Sconfitta 0-1 in casa con l'Arsenal il 1/11; difesa con tre titolari fuori.",
+   "novita": "Sports Mole 02/11: Frimpong, Bradley, Leoni (difesa) ed Ekitike (attacco) confermati fuori per Fenerbahçe–Liverpool; Liverpool battuto 0-1 dall'Arsenal ieri.",
+   "da_verificare": "Team news ufficiali e conferenza stampa per Fenerbahçe–Liverpool (4/11 ore 18:45 italiane, orario dalla stampa turca); dubbio su Szoboszlai.",
    "segnalata_dal": "2026-10-31",
    "fonti": [
     "https://www.fantasyfootballscout.co.uk/2026/10/30/szoboszlai-wirtz-munoz-liverpool-injury-latest-for-fpl-gameweek-9"
    ],
    "prima_notizia": "2026-10-30",
-   "ultima_notizia": "2026-10-30",
+   "ultima_notizia": "2026-11-02",
    "nome_flashscore": "Liverpool",
    "id_flashscore": null,
    "assenze": {
-    "difesa": "Leoni, Bradley e Frimpong fuori (FFS 30/10)",
-    "attacco": "Ekitike fuori (FFS 30/10)"
+    "difesa": "Frimpong, Bradley e Leoni fuori (Sports Mole 02/11)",
+    "attacco": "Ekitike fuori (Sports Mole 02/11)"
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-02T09:15:24+01:00",
+   "controllato_il": "2026-11-02T16:39:01+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
@@ -1530,6 +1654,33 @@
      "url": "https://anfieldindex.com/?p=94777",
      "data_articolo": null,
      "giro": "mattino"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Latest on Ekitike and Frimpong Liverpool injury suspension list vs Fenerbahce",
+     "lingua": "en",
+     "esito": "nuova",
+     "url": "https://www.sportsmole.co.uk/football/liverpool/injury-news/injuries-and-suspensions/latest-on-ekitike-and-frimpong-liverpool-injury-suspension-list-vs-fenerbahce_608230.html",
+     "data_articolo": "2026-11-02",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "altro",
+     "query": "Liverpool 0-1 Arsenal what went wrong",
+     "lingua": "en",
+     "esito": "nuova",
+     "url": "https://www.sportsmole.co.uk/football/liverpool/title-race/feature/liverpool-0-1-arsenal-what-went-wrong-for-iraola-as-gunners-break-anfield-curse_608215.html",
+     "data_articolo": "2026-11-02",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "panchina",
+     "query": "Slot press conference Fenerbahce",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
     }
    ]
   },
@@ -1549,7 +1700,7 @@
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Esonero ufficiale e nome del nuovo allenatore; punteggio esatto della sconfitta con la Roma (le fonti non concordano); orario di Venezia–Udinese (20:45 non confermato da fonte datata).",
+   "da_verificare": "Esonero ufficiale di Runjaic e nome del nuovo allenatore (ANSA 01/11: Zanetti in pole, nessuna conferma oggi); orario di Venezia–Udinese (6/11 ore 20:45 non confermato, alcune fonti indicano 7-8/11).",
    "segnalata_dal": "2026-11-02",
    "fonti": [
     "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/01/udinese-runjaic-verso-lesonero-zanetti-in-pole-per-la-panchina_36094c72-e62c-479c-8674-75b7debf722b.html",
@@ -1560,7 +1711,7 @@
    "nome_flashscore": "Udinese",
    "id_flashscore": null,
    "stato": "attiva",
-   "controllato_il": "2026-11-02T09:15:24+01:00",
+   "controllato_il": "2026-11-02T16:39:01+01:00",
    "problema_in_corso": true,
    "ricerche_fatte": [
     {
@@ -1589,6 +1740,33 @@
      "url": "https://www.fantamaster.it/esonero-runjaic-udinese-ultime-notizie-2026-2027/",
      "data_articolo": null,
      "giro": "mattino"
+    },
+    {
+     "tema": "panchina",
+     "query": "Udinese Runjaic esonero Roma nuovo allenatore Zanetti",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://www.fantacalcio.it/news/calcio-italia/26_10_2026/udinese-runjaic-sul-filo-contro-il-parma-non-puo-sbagliare-499761",
+     "data_articolo": "2026-10-26",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Udinese infortunati squalificati Venezia-Udinese convocati",
+     "lingua": "it",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "altro",
+     "query": "Udinese comunicato club spogliatoio Runjaic Venezia-Udinese orario",
+     "lingua": "it",
+     "esito": "vecchia",
+     "url": "https://sport.sky.it/calcio/serie-a/partite/2024/giornata-10/venezia-udinese/risultato-gol",
+     "data_articolo": "2024-10-30",
+     "giro": "pomeriggio"
     }
    ]
   }
@@ -1609,7 +1787,7 @@
     "id_flashscore": null
    },
    "favorita_stimata": "incerta",
-   "nota": "data e orario non riconfermati il 01/11 (19:45 UK da una ricerca del 29/10)"
+   "nota": "orario da confermare (19:45 UK da fonte non ufficiale)"
   },
   {
    "id_partita": "2026-11-03_manchester-united_as-roma",
@@ -2154,10 +2332,10 @@
   }
  ],
  "giro": {
-  "tipo": "mattino",
-  "iniziato": "2026-11-02T09:15:24+01:00",
-  "squadre_controllate": 17,
-  "ricerche_totali": 92,
+  "tipo": "pomeriggio",
+  "iniziato": "2026-11-02T16:39:01+01:00",
+  "squadre_controllate": 9,
+  "ricerche_totali": 28,
   "ricerche_bloccate": 0
  }
 }
