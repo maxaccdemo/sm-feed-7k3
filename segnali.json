@@ -1,32 +1,8 @@
 {
  "versione": 3,
- "aggiornato": "2026-11-06T16:06:44+01:00",
+ "aggiornato": "2026-11-07T09:12:19+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
-  {
-   "id_partita": "2026-10-23_inter-kashi_east-bengal",
-   "data": "2026-10-23T13:30:00+02:00",
-   "partita": "Inter Kashi – East Bengal",
-   "squadra_segnalata": "East Bengal",
-   "avversaria": "Inter Kashi",
-   "era_favorita": true,
-   "risultato": "1-5",
-   "gol_avversaria": true,
-   "esito_segnale": "smentito",
-   "commento": "East Bengal, segnalata per gli stipendi arretrati, vince 5-1 a Pune: obiettivo principale mancato, Inter Kashi segna (autogol): obiettivo secondario centrato."
-  },
-  {
-   "id_partita": "2026-10-23_ipswich_nottingham-forest",
-   "data": "2026-10-23T21:00:00+02:00",
-   "partita": "Ipswich – Nottingham Forest",
-   "squadra_segnalata": "Nottingham Forest",
-   "avversaria": "Ipswich",
-   "era_favorita": null,
-   "risultato": "1-1",
-   "gol_avversaria": true,
-   "esito_segnale": "confermato",
-   "commento": "Forest non vince (una sola vittoria in otto partite): l'Ipswich pareggia in rimonta e segna. Entrambi gli obiettivi centrati."
-  },
   {
    "data": "2026-10-24T18:00:00+02:00",
    "partita": "Napoli – Roma",
@@ -550,15 +526,41 @@
    "esito_segnale": "confermato",
    "commento": "Conference League: Gual al 53', Krstovic all'82' (LaPresse 5/11). L'Atalanta non ha vinto e il Kairat ha segnato.",
    "id_partita": "2026-11-05_atalanta_kairat-almaty"
+  },
+  {
+   "data": "2026-11-06T20:45:00+01:00",
+   "partita": "Venezia – Udinese",
+   "squadra_segnalata": "Udinese",
+   "tipo": "spogliatoio",
+   "avversaria": "Venezia",
+   "era_favorita": null,
+   "risultato": null,
+   "gol_avversaria": null,
+   "esito_segnale": "da_verificare",
+   "commento": "Prima di Zanetti dopo l'esonero di Runjaic: risultato non trovato nelle ricerche del mattino del 7/11, da ricontrollare.",
+   "id_partita": "2026-11-06_venezia_udinese"
+  },
+  {
+   "data": "2026-11-07T00:00:00+01:00",
+   "partita": "Vitória – Fluminense",
+   "squadra_segnalata": "Vitória",
+   "tipo": "spogliatoio",
+   "avversaria": "Fluminense",
+   "era_favorita": null,
+   "risultato": "0-3",
+   "gol_avversaria": true,
+   "esito_segnale": "confermato",
+   "commento": "Savarino, Canobbio e Rodrigo Castillo: il Vitória con l'interim Cléber dos Santos ha perso in casa (VAVEL 6/11).",
+   "id_partita": "2026-11-07_vitoria_fluminense"
   }
  ],
  "bilancio": {
-  "valutati": 49,
-  "avversaria_non_perde": 31,
+  "valutati": 50,
+  "avversaria_non_perde": 32,
   "segnalata_vince": 18,
-  "gol_avversaria_si": 35,
-  "gol_avversaria_valutati": 48,
-  "osservazione": "Su 49 partite valutate l'avversaria non ha perso in 31 e ha segnato in 35 su 48. Ultimo esito aggiunto: Atalanta–Kairat 1-1 (5/11), segnale confermato. Ultimi esiti (5/11): Crystal Palace–Hoffenheim 1-1 conferma il segnale; AZ Alkmaar–Juventus 1-2 lo smentisce (la Juventus reagisce subito dopo le polemiche, come il Fenerbahçe col tecnico ad interim). Le squadre di peso con spogliatoio in crisi spesso rispondono sul campo; le segnalate sfavorite o incerte tengono meglio la non-sconfitta dell'avversaria.",
+  "gol_avversaria_si": 36,
+  "gol_avversaria_valutati": 49,
+  "osservazione": "Su 50 partite valutate l'avversaria non ha perso in 32 e ha segnato in 36 su 49. Ultimo esito: Vitória–Fluminense 0-3 (6/11), segnale confermato; Venezia–Udinese (6/11) da verificare. Le squadre di peso con spogliatoio in crisi spesso reagiscono sul campo (Juventus, Fenerbahçe), mentre le squadre deboli con allenatore interim tengono meno.",
   "per_tipo": {
    "non_indicato": {
     "valutati": 17,
@@ -575,11 +577,11 @@
     "gol_avversaria_valutati": 6
    },
    "spogliatoio": {
-    "valutati": 17,
-    "avversaria_non_perde": 10,
+    "valutati": 18,
+    "avversaria_non_perde": 11,
     "segnalata_vince": 7,
-    "gol_avversaria_si": 13,
-    "gol_avversaria_valutati": 17
+    "gol_avversaria_si": 14,
+    "gol_avversaria_valutati": 18
    },
    "societa": {
     "valutati": 2,
@@ -619,11 +621,11 @@
     "gol_avversaria_valutati": 11
    },
    "incerta": {
-    "valutati": 22,
-    "avversaria_non_perde": 16,
+    "valutati": 23,
+    "avversaria_non_perde": 17,
     "segnalata_vince": 6,
-    "gol_avversaria_si": 14,
-    "gol_avversaria_valutati": 21
+    "gol_avversaria_si": 15,
+    "gol_avversaria_valutati": 22
    }
   },
   "nota_per_tipo": "Suddivisioni cumulative aggiornate a ogni giro; gli esiti più vecchi senza campo tipo sono sotto non_indicato."
@@ -641,14 +643,15 @@
    "livello": "medio",
    "motivo": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; sfoghi di Conceição e Bremer.",
    "andamento": "Dopo lo 0-3 con la Lazio Spalletti ha detto di non sapere se la squadra lo segue; ieri vittoria 1-2 a Alkmaar, ma nessuna notizia nuova di conferma sul problema dal 31/10.",
-   "novita": "Fiorentina–Juventus domenica 8/11 (Serie A, 11ª giornata): orario da confermare, fantacalcio.it indica 15:00. Ieri 1-2 a AZ Alkmaar (Corriere dello Sport 5/11): Spalletti soddisfatto, nessuna notizia nuova sullo spogliatoio.",
+   "novita": "Fiorentina–Juventus domenica 8/11 alle 20:45 (Sky Sport 6/11). Indisponibili Yildiz, N. Gonzalez, Thuram, Locatelli, Ekhator, Grabara; Conceição e Celik monitorati. Nessuna notizia nuova sullo spogliatoio dal 31/10.",
    "assenze": {
-    "difesa": null,
-    "attacco": null
+    "difesa": "Celik in dubbio (Sky 6/11); nessun difensore certo fuori.",
+    "attacco": "Yildiz e Nico Gonzalez indisponibili, Conceição in dubbio (Sky 6/11)."
    },
-   "da_verificare": "Orario ufficiale di Fiorentina–Juventus (8/11), indisponibili ufficiali e nuove notizie sullo spogliatoio.",
+   "da_verificare": "Nuove notizie sul caso Spalletti/Bremer/Conceição (ultima conferma 31/10: oggi è il 7º giorno, da domani scatta il calo).",
    "segnalata_dal": "2026-10-19",
    "fonti": [
+    "https://sport.sky.it/calcio/serie-a/2026/11/06/probabili-formazioni-serie-a-giornata-11-ultime-news",
     "https://sport.sky.it/calcio/serie-a/2026/10/31/juventus-napoli-spalletti-conferenza-video",
     "https://sport.sky.it/calcio/serie-a/2026/10/28/genoa-juventus-spalletti-intervista-video",
     "https://sport.sky.it/calcio/serie-a/2026/10/27/genoa-juventus-spalletti-conferenza-video",
@@ -660,38 +663,30 @@
    "nome_flashscore": "Juventus",
    "id_flashscore": "C06aJvIB",
    "stato": "attiva",
-   "controllato_il": "2026-11-06T09:13:36+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
-     "tema": "altro",
-     "query": "AZ Alkmaar Juventus risultato",
+     "tema": "infortuni",
+     "query": "Fiorentina-Juventus probabili formazioni indisponibili squalificati convocati",
      "lingua": "it",
      "esito": "nuova",
-     "url": "https://www.corrieredellosport.it/news/calcio/europa-league/2026/11/05-152406062/la_juve_batte_l_az_alkmaar_e_spalletti_si_toglie_qualche_sassolino_partita_seria_col_nec_ci_ridevate_in_faccia_e_invece_ha",
-     "data_articolo": "2026-11-05"
-    },
-    {
-     "tema": "soldi",
-     "query": "Juventus wages salaries club finances",
-     "lingua": "en",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null
+     "url": "https://sport.sky.it/calcio/serie-a/2026/11/06/probabili-formazioni-serie-a-giornata-11-ultime-news",
+     "data_articolo": "2026-11-06"
     },
     {
      "tema": "panchina",
-     "query": "Juventus Spalletti spogliatoio dopo Lazio",
+     "query": "Juventus Spalletti spogliatoio Conceição Bremer Fiorentina",
      "lingua": "it",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null
+     "esito": "vecchia",
+     "url": "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/10/22-152054439/bremer_segnale_da_spalletti_la_scelta_sulla_fascia_da_capitano_juve_dopo_la_multa",
+     "data_articolo": "2026-10-22"
     },
     {
-     "tema": "infortuni",
-     "query": "Fiorentina-Juventus vigilia infortunati formazione",
+     "tema": "soldi",
+     "query": "Juventus stipendi società bilancio Comolli novembre 2026",
      "lingua": "it",
-     "esito": "nulla",
+     "esito": "vecchia",
      "url": null,
      "data_articolo": null
     }
@@ -709,7 +704,7 @@
    "motivo": "L'allenatore Pierre Sage è vicino all'esonero.",
    "andamento": "Sage sotto pressione: 1-1 in casa con l'Hoffenheim dopo il 2-0 col Tottenham; Palace in zona retrocessione.",
    "novita": "Crystal Palace–Hoffenheim finita 1-1 (Bundesliga.com 6/11): la pressione resta su Sage, Palace terzultimo con 6 sconfitte nelle ultime 9 di Premier League. Prossima: Palace–Liverpool domenica 8/11 (Premier League; data dall'URL del sito del club, orario da confermare).",
-   "da_verificare": "Orario ufficiale di Palace–Liverpool (8/11), team news e dichiarazioni di Sage.",
+   "da_verificare": "Orario ufficiale di Palace–Liverpool (8/11) e team news; conferma recente sulla posizione di Sage (ultima 6/11).",
    "segnalata_dal": "2026-10-20",
    "fonti": [
     "https://www.sportsmole.co.uk/football/crystal-palace/europa-league/preview/crystal-palace-vs-hoffenheim-prediction-team-news-lineups_608304.html",
@@ -729,38 +724,38 @@
     "attacco": null
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-06T09:13:36+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
-     "tema": "altro",
-     "query": "Crystal Palace Hoffenheim Europa League result",
-     "lingua": "en",
-     "esito": "nuova",
-     "url": "https://www.bundesliga.com/en/bundesliga/news/crystal-palace-hoffenheim-live-europa-league-blog-preview-report-kamada-mateta-39794",
-     "data_articolo": "2026-11-06"
-    },
-    {
-     "tema": "panchina",
-     "query": "Pierre Sage Crystal Palace sack dressing room",
+     "tema": "soldi",
+     "query": "Crystal Palace takeover owners finances wages November 2026",
      "lingua": "en",
      "esito": "vecchia",
-     "url": "https://thehardtackle.com/?p=766941",
-     "data_articolo": "2026-09-17"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Crystal Palace Liverpool team news injuries",
-     "lingua": "en",
-     "esito": "nulla",
      "url": null,
      "data_articolo": null
     },
     {
-     "tema": "soldi",
-     "query": "Crystal Palace wages finances",
+     "tema": "panchina",
+     "query": "Crystal Palace Pierre Sage sack dressing room",
      "lingua": "en",
      "esito": "vecchia",
+     "url": "https://www.sportsmole.co.uk/football/crystal-palace/transfer-talk/news/sage-emerges-as-new-favorite-in-pl-sack-race_607248.html",
+     "data_articolo": "2026-10-19"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Crystal Palace vs Liverpool team news injuries suspensions",
+     "lingua": "en",
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "sportsmole Crystal Palace vs Liverpool predicted lineup team news",
+     "lingua": "en",
+     "esito": "nulla",
      "url": null,
      "data_articolo": null
     }
@@ -784,7 +779,7 @@
     "difesa": "Shaw out, Dorgu in dubbio (NBC Sports 03/11).",
     "attacco": "Sesko out, Rashford in dubbio, Cunha espulso il 3/11 (squalifica da confermare)."
    },
-   "da_verificare": "Orario ufficiale di Man Utd–Aston Villa e assenze difensive (nessun articolo datato ultimi 3 giorni).",
+   "da_verificare": "Orario ufficiale di Man Utd–Aston Villa (8/11), squalifica di Cunha e nuove notizie su Carrick: le ricerche di oggi non hanno trovato articoli datati nelle ultime 72 ore.",
    "segnalata_dal": "2026-10-14",
    "fonti": [
     "https://www.nbcsports.com/soccer/live/manchester-united-vs-roma-team-live-updates-score-goals-highlights-stats-2026-november-3",
@@ -800,47 +795,31 @@
    "nome_flashscore": "Manchester Utd",
    "id_flashscore": "ppjDR086",
    "stato": "attiva",
-   "controllato_il": "2026-11-06T09:13:36+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Manchester United Ineos wages finances",
+     "query": "Manchester United wages Ratcliffe Ineos finances November 2026",
      "lingua": "en",
-     "esito": "vecchia",
+     "esito": "bloccata",
      "url": null,
      "data_articolo": null
     },
     {
      "tema": "panchina",
-     "query": "Carrick Manchester United sack dressing room",
+     "query": "Manchester United Carrick sack dressing room Bruno Fernandes Bournemouth",
      "lingua": "en",
      "esito": "vecchia",
-     "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/michael-carrick-s-future-questioned-after-manchester-united-s-defeat-to-chelsea-2026-10-31",
-     "data_articolo": "2026-10-31"
+     "url": "https://www.aljazeera.com/amp/sports/2026/10/29/manchester-uniteds-carrick-expected-to-face-chelsea-and-backs-fernandes",
+     "data_articolo": "2026-10-29"
     },
     {
      "tema": "infortuni",
-     "query": "Man Utd Aston Villa team news injuries",
+     "query": "Manchester United team news injuries suspensions vs Aston Villa",
      "lingua": "en",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null
-    },
-    {
-     "tema": "panchina",
-     "query": "Carrick Man Utd Aston Villa preview",
-     "lingua": "en",
-     "esito": "nuova",
-     "url": "https://www.football365.com/news/man-utd-sources-job-saving-move-carrick-lacey-aston-villa",
-     "data_articolo": "2026-11-05"
-    },
-    {
-     "tema": "altro",
-     "query": "manutd.com fixtures-results",
-     "lingua": "en",
-     "esito": "bloccata",
-     "url": "https://www.manutd.com/en/matches/fixtures-results",
      "data_articolo": null
     }
    ]
@@ -856,8 +835,8 @@
    "livello": "basso",
    "motivo": "Glasner a rischio esonero; attacco sterile: 5 gol in 7 giornate di Premier, 19° con 5 punti.",
    "andamento": "Attacco più sterile della Premier e allenatore in discussione; ancora in carica.",
-   "novita": "Nessuna notizia datata 5-6/11. 1/11: Glasner pronto a cambi drastici (The Star). Forest–Man City sabato 7/11 ore 17:30 UK secondo Sky Sports 3/11.",
-   "da_verificare": "Team news di Forest–Man City (7/11), conferenza di Glasner e orario ufficiale.",
+   "novita": "Forest–Man City oggi 7/11 alle 18:30 (da confermare). Nessuna notizia nuova su Glasner dal 1/11; le ricerche di oggi sono vecchie o bloccate.",
+   "da_verificare": "Team news Forest–Man City di oggi e posizione di Glasner; ultima conferma 31/10 (7º giorno).",
    "segnalata_dal": "2026-10-20",
    "fonti": [
     "https://www.skysports.com/football/news/13606092/brentford-2-0-nottingham-forest-oliver-glasners-side-put-in-another-concerning-performance-in-attack-as-bees-win",
@@ -873,62 +852,40 @@
     "attacco": null
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-06T16:06:44+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
-     "tema": "panchina",
-     "query": "Glasner sack Nottingham Forest dressing room",
+     "tema": "soldi",
+     "query": "Nottingham Forest Marinakis wages owner Glasner November 2026",
      "lingua": "en",
      "esito": "vecchia",
-     "url": "https://www.skysports.com/share/13607133",
-     "data_articolo": "2026-11-03",
-     "giro": "mattino"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Forest Manchester City injuries kick-off",
-     "lingua": "en",
-     "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "data_articolo": null
     },
     {
-     "tema": "altro",
-     "query": "nottinghamforest.co.uk Glasner preview Manchester City",
+     "tema": "panchina",
+     "query": "Nottingham Forest Glasner sack dressing room Man City",
      "lingua": "en",
      "esito": "bloccata",
-     "url": "https://www.nottinghamforest.co.uk/news/2026/november/04/glasner-to-preview-visit-of-manchester-city/",
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "panchina",
-     "query": "Glasner sack Nottingham Forest dressing room",
-     "lingua": "en",
-     "esito": "vecchia",
-     "url": "https://www.thestar.com.my/sport/football/2026/11/01/soccer-no-more-compromises-glasner-ready-for-drastic-changes-at-forest",
-     "data_articolo": "2026-11-01",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "altro",
-     "query": "Nottingham Forest vs Manchester City kick-off time Glasner press conference",
-     "lingua": "en",
-     "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
     },
     {
      "tema": "infortuni",
-     "query": "Nottingham Forest Manchester City team news injuries suspensions",
+     "query": "Nottingham Forest vs Manchester City team news injuries suspensions",
      "lingua": "en",
-     "esito": "nulla",
+     "esito": "bloccata",
      "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Forest Man City team news sportsmole",
+     "lingua": "en",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
     }
    ]
   },
@@ -943,8 +900,8 @@
    "livello": "basso",
    "motivo": "Allenatore Nicky Hayen esonerato il 24/10 dopo il 4-1 a Lincoln: squadra al 22º posto in Championship con una sola vittoria; nessun interim ufficiale al 27/10, Gerrard favorito nei bookmaker.",
    "andamento": "Hayen esonerato il 24/10; Celestini al primo punto (0-0 con il Portsmouth), ancora senza vittoria.",
-   "novita": "Nessuna notizia datata 5-6/11. Hayen esonerato il 27/10; secondo aggregatori (non verificato sul sito del club) Fabio Celestini nominato il 28/10. Orario di Cardiff–Burnley non confermato.",
-   "da_verificare": "Conferma ufficiale di Celestini come allenatore e orario di Cardiff–Burnley (7/11).",
+   "novita": "Cardiff–Burnley oggi 7/11 (Sportsmole indica le 15:00 UK, senza data di pubblicazione). Nessuna notizia nuova su allenatore o assenze; calo di livello per assenza di conferme dal 29/10.",
+   "da_verificare": "Chi è il nuovo allenatore ufficiale e se ha già vinto (in tal caso togliere la squadra).",
    "segnalata_dal": "2026-10-29",
    "fonti": [
     "https://www.burnleyfootballclub.com/media-article/celestinis-press-points-qpr",
@@ -962,62 +919,40 @@
     "attacco": null
    },
    "stato": "in_calo",
-   "controllato_il": "2026-11-06T16:06:44+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
-     "tema": "soldi",
-     "query": "Burnley wages finances Velocity",
-     "lingua": "en",
-     "esito": "vecchia",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
      "tema": "panchina",
-     "query": "Burnley new manager interim after Hayen",
+     "query": "Burnley new manager head coach appointed November 2026",
      "lingua": "en",
      "esito": "vecchia",
      "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "data_articolo": null
     },
     {
      "tema": "infortuni",
-     "query": "Burnley team news Cardiff City",
-     "lingua": "en",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "panchina",
-     "query": "Burnley new manager appointed after Hayen sacked dressing room",
+     "query": "Cardiff City vs Burnley team news injuries suspensions",
      "lingua": "en",
      "esito": "vecchia",
-     "url": "https://www.oddschecker.com/insight/football/20261027-next-burnley-manager-odds-gerrard-leads-market-after-hayen-sacking",
-     "data_articolo": "2026-10-27",
-     "giro": "pomeriggio"
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "soldi",
+     "query": "Burnley wages ownership ALK Capital finances",
+     "lingua": "en",
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null
     },
     {
      "tema": "altro",
-     "query": "Cardiff City vs Burnley kick-off time Saturday 7 November",
+     "query": "sportsmole.co.uk/football/burnley/ pagina indice",
      "lingua": "en",
      "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Burnley team news injuries suspensions Cardiff City",
-     "lingua": "en",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "url": "https://www.sportsmole.co.uk/football/burnley/",
+     "data_articolo": null
     }
    ]
   },
@@ -1032,7 +967,7 @@
    "livello": "basso",
    "motivo": "La rosa non si è allenata il 27/10 per stipendi arretrati (3-5 mesi, fino a 6 per lo staff); il 28/10 è tornata al lavoro dopo la promessa di pagare un solo mese.",
    "andamento": "4/11 (Vision360): la dirigenza deve ancora gli stipendi alla rosa; la rosa si allena dal 29/10 dopo il pagamento di un solo mese.",
-   "novita": "Prossima partita: Bolívar–The Strongest (Clásico paceño) domenica 8/11 ore 17:15 locali, fissata dalla federazione secondo eju.tv del 9/10 (22:15 italiane). Debito salariale ancora aperto (Vision360 4/11).",
+   "novita": "Bolívar–The Strongest domenica 8/11 alle 22:15 italiane (17:15 locali), da confermare. Nessuna notizia nuova oggi; debito salariale aperto (Vision360 4/11).",
    "da_verificare": "Conferma dell'orario di Bolívar–The Strongest (8/11) e pagamento degli stipendi arretrati.",
    "segnalata_dal": "2026-10-29",
    "fonti": [
@@ -1050,62 +985,32 @@
     "attacco": null
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-06T16:06:44+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "The Strongest sueldos impagos jugadores",
+     "query": "The Strongest sueldos impagos deuda jugadores noviembre 2026",
      "lingua": "es",
      "esito": "vecchia",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "url": "https://eju.tv/?p=506763",
+     "data_articolo": null
     },
     {
      "tema": "panchina",
-     "query": "The Strongest técnico directiva plantel",
-     "lingua": "es",
-     "esito": "vecchia",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "infortuni",
-     "query": "The Strongest próximo partido lesionados suspendidos",
-     "lingua": "es",
-     "esito": "vecchia",
-     "url": "https://www.lostiempos.com/deportes/futbol/20230305/strongest-busca-confirmarse-cima-tomayapo",
-     "data_articolo": "2023-03-05",
-     "giro": "mattino"
-    },
-    {
-     "tema": "soldi",
-     "query": "The Strongest hoy 6 noviembre 2026 jugará fecha Primera División Bolivia",
-     "lingua": "es",
-     "esito": "nuova",
-     "url": "https://www.vision360.bo/noticias/2026/11/04/75555-the-strongest-y-always-ready-se-enfrentan-por-el-pase-a-las-semifinales-del-torneo-seriado",
-     "data_articolo": "2026-11-04",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "altro",
-     "query": "The Strongest próximo partido Liga División Profesional noviembre 2026 (Bolívar)",
-     "lingua": "es",
-     "esito": "vecchia",
-     "url": "https://eju.tv/2026/10/el-clasico-bolivar-the-strongest-tiene-fecha-domingo-8-de-noviembre/",
-     "data_articolo": "2026-10-09",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "infortuni",
-     "query": "The Strongest bajas lesionados plantel jugadores lesión",
+     "query": "The Strongest entrenador plantel Clásico paceño Bolívar domingo",
      "lingua": "es",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "The Strongest lesionados suspendidos Bolívar formación Clásico",
+     "lingua": "es",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
     }
    ]
   },
@@ -1121,8 +1026,8 @@
    "livello": "basso",
    "motivo": "Allenatore Fernando da Cruz sotto pressione: eliminati ai rigori dai preliminari di Confederation Cup, 4 partite senza vittoria; il direttore sportivo lo difende e chiede calma.",
    "andamento": "Allenatore in carica; la partita di campionato con l'AmaZulu del 4/11 è stata rinviata per le elezioni locali.",
-   "novita": "6/11: nessun articolo nuovo; ultima notizia Africasoccer 4/11 (rinvio con AmaZulu, Da Cruz ancora sotto pressione). Prossima: Siwelele–Chiefs 8/11, orario da confermare.",
-   "da_verificare": "Orario ufficiale (fuso) dei quarti con Siwelele (8/11), nuova data di Chiefs–AmaZulu, futuro di Da Cruz.",
+   "novita": "Siwelele–Chiefs domenica 8/11, orario da confermare. Oggi nessun articolo datato nelle ultime 72 ore; ultima notizia 4/11.",
+   "da_verificare": "Orario di Siwelele–Chiefs, squalifica di Inacio Miguel (africasoccer 5/11, non riverificata) e posizione di Da Cruz.",
    "segnalata_dal": "2026-10-29",
    "fonti": [
     "https://briefly.co.za/sports/football/257616-fernando-da-cruz-breaks-kaizer-chiefs-soweto-derby-defeat-orlando-pirates/",
@@ -1137,40 +1042,32 @@
     "attacco": null
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-06T09:13:36+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Kaizer Chiefs wages Motaung unpaid",
+     "query": "Kaizer Chiefs salaries wages Motaung players",
      "lingua": "en",
      "esito": "vecchia",
-     "url": "https://farpost.co.za/2025/11/25/maluleka-lifts-lid-on-dispute-with-psl-side-over-unpaid-wages/",
-     "data_articolo": "2025-11-25"
+     "url": null,
+     "data_articolo": null
     },
     {
      "tema": "panchina",
-     "query": "Da Cruz Kaizer Chiefs sack dressing room",
+     "query": "Kaizer Chiefs Da Cruz sack under pressure dressing room",
      "lingua": "en",
      "esito": "vecchia",
-     "url": null,
-     "data_articolo": null
+     "url": "https://africasoccer.com/?p=643256",
+     "data_articolo": "2026-10-25"
     },
     {
      "tema": "infortuni",
-     "query": "Siwelele vs Kaizer Chiefs team news",
+     "query": "Kaizer Chiefs vs Siwelele Carling Knockout team news injuries suspensions",
      "lingua": "en",
      "esito": "vecchia",
-     "url": "https://farpost.co.za/2026/09/02/da-cruz-provides-injury-update-ahead-of-siwelele-clash/",
+     "url": "https://africasoccer.com/kaizer-chiefs-face-further-injury-concerns-before-siwelele-clash/",
      "data_articolo": "2026-09-02"
-    },
-    {
-     "tema": "altro",
-     "query": "Siwelele Kaizer Chiefs 8 November kick-off",
-     "lingua": "en",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null
     }
    ]
   },
@@ -1186,8 +1083,8 @@
    "livello": "alto",
    "motivo": "Il 26/10 i giocatori hanno annunciato che non giocheranno finché non saranno pagati lo stipendio di settembre e la prima legale; Acolfutpro chiede sanzioni. Club ultimo, in riorganizzazione, con ritiro del riconoscimento sportivo già in discussione.",
    "andamento": "Il 3/11 Acolfutpro ha chiesto alla Procuraduría di intervenire sulla crisi del club (piano di riorganizzazione in corso da gennaio); il Pereira ha giocato comunque (1-0 al Jaguares il 30/10, 1-3 col Tolima il 3/11). Arretrati: due mesi ai giocatori, tre allo staff, nessun pagamento confermato.",
-   "novita": "Nessuna notizia nuova oggi dopo il 3/11 (Acolfutpro chiede l'intervento della Procuraduría). Data e ora di Atlético Nacional–Pereira ancora non ufficiali.",
-   "da_verificare": "Data e ora di Atlético Nacional–Pereira (8/11 00:10 italiane, non ufficiale), rischio sciopero o giovanili; pagamento dello stipendio di settembre.",
+   "novita": "Atlético Nacional–Pereira tra sabato 7/11 sera e domenica 8/11 00:10 italiane (data/ora da confermare). Oggi nessun articolo datato nelle ultime 72 ore; ultima conferma 3/11 (Acolfutpro/Procuraduría, Publimetro).",
+   "da_verificare": "Se Pereira scende in campo o rischia forfait/rosa Sub-20; pagamento dello stipendio di settembre.",
    "segnalata_dal": "2026-10-29",
    "fonti": [
     "https://www.publimetro.co/deportes/2026/11/03/acolfutpro-pide-intervencion-de-la-procuraduria-por-crisis-del-deportivo-pereira-tres-entidades-quedan-bajo-la-lupa/",
@@ -1209,62 +1106,40 @@
     "attacco": null
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-06T16:06:44+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": true,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Deportivo Pereira salarios impagos paro Acolfutpro",
+     "query": "Deportivo Pereira sueldos impagos Acolfutpro paro Dimayor noviembre 2026",
      "lingua": "es",
      "esito": "vecchia",
-     "url": "https://www.publimetro.co/deportes/2026/10/26/jugadores-del-deportivo-pereira-anuncian-que-no-jugaran-por-nuevas-deudas-salariales-acolfutpro-pidio-sanciones/",
-     "data_articolo": "2026-10-26",
-     "giro": "mattino"
+     "url": "https://www.publimetro.co/deportes/2026/10/30/jugadores-del-deportivo-pereira-estallaron-contra-los-directivos-por-falta-de-pagos-revelaron-cuantos-meses-les-deben/",
+     "data_articolo": "2026-10-30"
     },
     {
      "tema": "panchina",
-     "query": "Deportivo Pereira técnico directiva Dimayor sanción",
+     "query": "Deportivo Pereira técnico plantel renuncia",
      "lingua": "es",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "esito": "vecchia",
+     "url": "https://www.publimetro.co/deportes/2026/10/06/deportivo-pereira-le-encontro-reemplazo-a-arturo-reyes-y-ya-anuncio-su-nuevo-dt/",
+     "data_articolo": "2026-10-06"
     },
     {
      "tema": "infortuni",
-     "query": "Pereira vs Atlético Nacional lesionados convocados",
+     "query": "Atlético Nacional vs Pereira alineaciones bajas hora fecha 17",
      "lingua": "es",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "soldi",
-     "query": "Deportivo Pereira sueldos Acolfutpro paro no entrenaron",
-     "lingua": "es",
-     "esito": "vecchia",
-     "url": "https://www.publimetro.co/deportes/2026/10/26/jugadores-del-deportivo-pereira-anuncian-que-no-jugaran-por-nuevas-deudas-salariales-acolfutpro-pidio-sanciones/",
-     "data_articolo": "2026-10-26",
-     "giro": "pomeriggio"
+     "data_articolo": null
     },
     {
      "tema": "altro",
-     "query": "Deportivo Pereira Atlético Nacional fecha hora Dimayor",
+     "query": "Deportivo Pereira Nacional fecha 17 jugadores no jugarán salarios",
      "lingua": "es",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Deportivo Pereira bajas suspendidos alineación vs Nacional",
-     "lingua": "es",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "esito": "bloccata",
+     "url": "https://www.futbolred.com/futbol-colombiano/liga-betplay/at-nacional-vs-pereira-choque-de-realidades-en-el-atanasio-por-la-liga-betplay-colombia-274979",
+     "data_articolo": null
     }
    ]
   },
@@ -1279,12 +1154,12 @@
    "livello": "medio",
    "motivo": "Allenatore Kosta Runjaic esonerato dopo il 2-5 con la Roma (5 punti in 10 giornate, penultimo); al suo posto Paolo Zanetti, contratto fino al 30/06/2027.",
    "andamento": "Esonero di Runjaic ufficiale tra l'1 e il 2/11; Zanetti (ufficializzato il 2/11) debutta a Venezia il 6/11. Il nuovo allenatore non ha ancora giocato.",
-   "novita": "Zanetti presentato il 4/11 (friulioggi): Solet recuperato per Venezia. Venezia–Udinese stasera 6/11 ore 20:45 (riportato anche da Fanpage il 6/11). Nessuna conferenza pre-partita di Zanetti né convocati ufficiali trovati oggi.",
+   "novita": "Venezia–Udinese (6/11, prima di Zanetti): risultato non trovato oggi. Nessuna partita di Udinese nei prossimi 7 giorni in lista (dopo l'11ª giornata Serie A la sosta). Nessuna notizia nuova dal 2/11.",
    "assenze": {
-    "difesa": "Zanoli ancora indisponibile (Mondo Udinese 6/11, ruolo non verificato); Solet in recupero, possibile titolare (Zanetti 4/11).",
+    "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Prima formazione di Zanetti e convocati ufficiali per Venezia–Udinese (6/11 ore 20:45).",
+   "da_verificare": "Risultato di Venezia–Udinese: se Zanetti ha già vinto, togliere la squadra. Data della prossima partita.",
    "segnalata_dal": "2026-11-02",
    "fonti": [
     "https://www.ilfattoquotidiano.it/2026/11/02/udinese-esonero-runjaic-zanetti-notizie/8558090/",
@@ -1297,62 +1172,48 @@
    "nome_flashscore": "Udinese",
    "id_flashscore": null,
    "stato": "attiva",
-   "controllato_il": "2026-11-06T16:06:44+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Udinese Pozzo stipendi società",
+     "query": "Udinese Pozzo società stipendi",
      "lingua": "it",
      "esito": "vecchia",
-     "url": "https://www.calcioefinanza.it/2025/05/25/udinese-ceduta-fondo-usa-si-chiude-era-pozzo/",
-     "data_articolo": "2025-05-25",
-     "giro": "mattino"
+     "url": "https://www.calcioefinanza.it/2024/08/30/udinese-stipendi-2024-2025/",
+     "data_articolo": "2024-08-30"
     },
     {
      "tema": "panchina",
-     "query": "Udinese Zanetti Runjaic esonero spogliatoio",
+     "query": "Udinese Zanetti spogliatoio allenatore",
      "lingua": "it",
-     "esito": "vecchia",
-     "url": "https://www.fantacalcio.it/news/calcio-italia/03_11_2026/come-giochera-l-udinese-con-zanetti-la-strada-della-continuita-con-un-dubbio-500181",
-     "data_articolo": "2026-11-03",
-     "giro": "mattino"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Venezia-Udinese infortunati squalificati",
-     "lingua": "it",
-     "esito": "vecchia",
-     "url": "https://www.fantamaster.it/infortunio-solet-recupero-udinese-zanetti-venezia-11-giornata-seriea/",
-     "data_articolo": "2026-11-03",
-     "giro": "mattino"
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null
     },
     {
      "tema": "panchina",
-     "query": "Udinese Zanetti presentazione Runjaic esonero",
+     "query": "Udinese Zanetti novembre 2026",
      "lingua": "it",
      "esito": "vecchia",
-     "url": "https://www.friulioggi.it/sport/udinese-zanetti-presenta-squadra-grande-potenziale-servono-umilta-lavoro-4-novembre-2026/",
-     "data_articolo": "2026-11-04",
-     "giro": "pomeriggio"
+     "url": "https://www.fantacalcio.it/news/calcio-italia/02_11_2026/udinese-scelto-il-sostituto-di-runjaic-c-e-l-accordo-con-zanetti-500131",
+     "data_articolo": "2026-11-02"
     },
     {
      "tema": "altro",
-     "query": "Udinese Zanetti conferenza stampa vigilia Venezia 5 novembre 2026 convocati",
+     "query": "Venezia Udinese risultato finale Serie A",
      "lingua": "it",
-     "esito": "nuova",
-     "url": "https://www.ansa.it/veneto/notizie/2026/11/05/venezia-nicola-con-ludinese-servono-coraggio-ed-equilibrio_31bb5ec1-debd-4eb3-b657-6bf805701fa7.html",
-     "data_articolo": "2026-11-05",
-     "giro": "pomeriggio"
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null
     },
     {
-     "tema": "infortuni",
-     "query": "Venezia Udinese probabili formazioni indisponibili squalificati",
+     "tema": "altro",
+     "query": "Venezia-Udinese 6 novembre 2026 risultato Zanetti",
      "lingua": "it",
-     "esito": "vecchia",
-     "url": "https://www.fantamaster.it/infortunio-solet-recupero-udinese-zanetti-venezia-11-giornata-seriea/",
-     "data_articolo": "2026-11-03",
-     "giro": "pomeriggio"
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
     }
    ]
   },
@@ -1367,8 +1228,8 @@
    "livello": "medio",
    "motivo": "Nuno Espírito Santo esonerato il 3/11 dopo due sconfitte interne di fila (3-2 col Southampton, 3-1 col West Brom); per Sky Sports News alcuni dirigenti ritenevano avesse perso lo spogliatoio. Squadra retrocessa, ottava in Championship.",
    "andamento": "Panchina affidata a Noble, Potts e Prenderville; Scott Parker vicino alla nomina (non confermato).",
-   "novita": "3/11: Nuno esonerato (ITV); 4/11: Parker vicino all'incarico, nessun annuncio ufficiale trovato. Noble, Potts e Prenderville in guida temporanea. Blackburn–West Ham sabato 7/11 ore 15:00 UK solo da listing non ufficiale.",
-   "da_verificare": "Ufficialità della nomina di Parker, team news e orario ufficiale di Blackburn–West Ham (7/11).",
+   "novita": "Blackburn–West Ham oggi 7/11 (16:00 italiane da confermare). Oggi ricerche bloccate o vecchie: nessuna notizia nuova su allenatore dopo il 3/11.",
+   "da_verificare": "Nuovo allenatore ufficiale (Parker?) e orario di Blackburn–West Ham.",
    "assenze": {
     "difesa": null,
     "attacco": null
@@ -1382,62 +1243,40 @@
    "nome_flashscore": "West Ham",
    "id_flashscore": "Cxq57r8g",
    "stato": "attiva",
-   "controllato_il": "2026-11-06T16:06:44+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
-     "tema": "panchina",
-     "query": "West Ham sack Nuno Scott Parker appointed",
+     "tema": "soldi",
+     "query": "West Ham owners board wages Championship November 2026",
      "lingua": "en",
-     "esito": "nuova",
-     "url": "https://journalarta.com/en/2026/11/04/west-ham-sack-nuno-espirito-santo-as-scott-parker-moves-closer-to-taking-charge/",
-     "data_articolo": "2026-11-04",
-     "giro": "mattino"
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "panchina",
+     "query": "West Ham new manager Parker Nuno sacked interim Noble",
+     "lingua": "en",
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null
     },
     {
      "tema": "infortuni",
-     "query": "West Ham injuries team news Blackburn",
+     "query": "Blackburn Rovers vs West Ham team news injuries kick-off",
      "lingua": "en",
-     "esito": "vecchia",
-     "url": "https://westhamworld.co.uk/west-ham-injuries/",
-     "data_articolo": "2026-02-24",
-     "giro": "mattino"
-    },
-    {
-     "tema": "altro",
-     "query": "Blackburn West Ham kick-off Parker",
-     "lingua": "en",
-     "esito": "nulla",
+     "esito": "bloccata",
      "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "data_articolo": null
     },
     {
      "tema": "panchina",
-     "query": "West Ham Nuno sacked dressing room Parker November 2026",
+     "query": "West Ham head coach appointed",
      "lingua": "en",
      "esito": "vecchia",
-     "url": "https://www.itv.com/news/london/2026-11-03/nuno-espirito-santo-sacked-by-west-ham-after-poor-start-to-championship-season",
-     "data_articolo": "2026-11-03",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "panchina",
-     "query": "West Ham Scott Parker appointed head coach announced",
-     "lingua": "en",
-     "esito": "vecchia",
-     "url": "https://journalarta.com/en/2026/11/04/west-ham-sack-nuno-espirito-santo-as-scott-parker-moves-closer-to-taking-charge/",
-     "data_articolo": "2026-11-04",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Blackburn Rovers West Ham team news injuries suspensions",
-     "lingua": "en",
-     "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
     }
    ]
   },
@@ -1447,7 +1286,7 @@
    ],
    "stato": "attiva",
    "problema_in_corso": false,
-   "controllato_il": "2026-11-06T16:06:44+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "id": "atalanta",
    "squadra": "Atalanta",
    "nome_flashscore": "Atalanta",
@@ -1462,7 +1301,7 @@
     "difesa": "Hien, Kossounou, Kristensen e Bellanova ancora fuori; Kolasinac in dubbio (Pianetatalanta 6/11; i ruoli sono una nostra lettura).",
     "attacco": "Raspadori fuori; Scamacca rientrato ma non al top (6/11)."
    },
-   "da_verificare": "Titolarità degli assenti difensivi e convocati ufficiali per Monza–Atalanta; decisione di Sarri su Kolasinac.",
+   "da_verificare": "Convocati ufficiali per Monza–Atalanta (8/11 ore 15:00) e recupero di Kolasinac; le ricerche di oggi non hanno riconfermato (ultima conferma Pianetatalanta 6/11).",
    "segnalata_dal": "2026-11-05",
    "fonti": [
     "https://sport.sky.it/calcio/serie-a/2026/11/03/serie-a-indisponibili-infortunati-squalificati-giornata-11",
@@ -1472,58 +1311,36 @@
    "ultima_notizia": "2026-11-06",
    "ricerche_fatte": [
     {
+     "tema": "soldi",
+     "query": "Atalanta Percassi società stipendi novembre 2026",
+     "lingua": "it",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null
+    },
+    {
      "tema": "panchina",
-     "query": "Atalanta Sarri spogliatoio",
+     "query": "Atalanta Sarri esonero spogliatoio",
      "lingua": "it",
      "esito": "vecchia",
-     "url": "https://www.beinsports.com/en-us/soccer/serie-a/articles/palladino-sacked-by-atalanta-with-sarri-set-to-take-over-2026-06-09",
-     "data_articolo": "2026-06-09",
-     "giro": "mattino"
-    },
-    {
-     "tema": "soldi",
-     "query": "Atalanta Percassi bilancio stipendi",
-     "lingua": "it",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "url": "https://www.tuttomercatoweb.com/serie-a/atalanta-squadra-sarri-tecnico-resta-saldo-timone-fischi-2287722",
+     "data_articolo": null
     },
     {
      "tema": "infortuni",
-     "query": "Atalanta Monza infortunati",
+     "query": "Monza Atalanta infortunati convocati probabile formazione 11ª giornata",
      "lingua": "it",
-     "esito": "nuova",
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Atalanta Monza convocati Sarri infortunati Kolasinac Scamacca",
+     "lingua": "it",
+     "esito": "vecchia",
      "url": "https://www.fantacalcio.it/news/calcio-italia/03_11_2026/atalanta-novita-da-zingonia-scamacca-torna-in-gruppo-500204",
-     "data_articolo": "2026-11-03",
-     "giro": "mattino"
-    },
-    {
-     "tema": "altro",
-     "query": "Atalanta Kairat Conference League finale gol Bergamo",
-     "lingua": "it",
-     "esito": "nuova",
-     "url": "https://www.lapresse.it/calcio/2026/11/05/conference-league-atalanta-kairat-almaty-1-1/",
-     "data_articolo": "2026-11-05",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Monza-Atalanta Sarri convocati indisponibili Kolasinac Kossounou Hien",
-     "lingua": "it",
-     "esito": "nuova",
-     "url": "https://www.pianetatalanta.it/da-zingonia/infortunati-atalanta-tornare-monza-parole-sarri-4846",
-     "data_articolo": "2026-11-06",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "altro",
-     "query": "Monza Atalanta formazioni probabili infortunati squalificati difesa",
-     "lingua": "it",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": "2026-11-03"
     }
    ]
   },
@@ -1531,7 +1348,7 @@
    "alias": [],
    "stato": "attiva",
    "problema_in_corso": false,
-   "controllato_il": "2026-11-06T09:13:36+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "id": "napoli",
    "squadra": "Napoli",
    "nome_flashscore": "Napoli",
@@ -1546,7 +1363,7 @@
     "difesa": "Marianucci squalificato; Buongiorno, Badiashile, Favasuli, Spinazzola fuori; Olivera e Di Lorenzo in dubbio (Sky, agg. 5/11).",
     "attacco": "Neres e Alisson Santos fuori (Sky)."
    },
-   "da_verificare": "Quali assenti sono titolari; esito dei dubbi Olivera e Di Lorenzo; orario Lega.",
+   "da_verificare": "Conferma di Olivera e Di Lorenzo per Napoli–Lazio (8/11 ore 12:30): le ricerche di oggi non hanno trovato articoli nuovi (ultimo bollettino Sky 5/11).",
    "segnalata_dal": "2026-11-05",
    "fonti": [
     "https://sport.sky.it/calcio/serie-a/2026/11/03/serie-a-indisponibili-infortunati-squalificati-giornata-11"
@@ -1556,7 +1373,7 @@
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Napoli De Laurentiis stipendi società",
+     "query": "Napoli De Laurentiis stipendi società notizie",
      "lingua": "it",
      "esito": "vecchia",
      "url": "https://www.calcioefinanza.it/2024/11/25/quanto-guadagna-de-laurentiis-napoli-stipendio/",
@@ -1564,7 +1381,7 @@
     },
     {
      "tema": "panchina",
-     "query": "Napoli allenatore spogliatoio conferenza Lazio",
+     "query": "Napoli allenatore spogliatoio vigilia Lazio conferenza stampa",
      "lingua": "it",
      "esito": "vecchia",
      "url": null,
@@ -1572,19 +1389,19 @@
     },
     {
      "tema": "infortuni",
-     "query": "Napoli-Lazio probabili formazioni",
+     "query": "Napoli Lazio formazione Olivera Di Lorenzo convocati",
+     "lingua": "it",
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Napoli Lazio 8 novembre 2026 probabili formazioni indisponibili",
      "lingua": "it",
      "esito": "vecchia",
      "url": "https://www.90min.com/it/le-probabili-formazioni-di-napoli-lazio-serie-a-18-04-2026",
      "data_articolo": "2026-04-18"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Napoli Lazio Marianucci squalificato Buongiorno menisco",
-     "lingua": "it",
-     "esito": "nuova",
-     "url": "https://sport.sky.it/calcio/serie-a/2026/11/03/serie-a-indisponibili-infortunati-squalificati-giornata-11",
-     "data_articolo": "2026-11-05"
     }
    ]
   },
@@ -1594,7 +1411,7 @@
    ],
    "stato": "attiva",
    "problema_in_corso": false,
-   "controllato_il": "2026-11-06T16:06:44+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "id": "sporting-cp",
    "squadra": "Sporting CP",
    "nome_flashscore": null,
@@ -1604,12 +1421,12 @@
    "livello": "medio",
    "motivo": "Rui Borges messo fuori dai piani il 1/11; il 4/11 A Bola scrive che la rescissione non è ancora concordata (contratto fino al 2028). Tiago Fernandes allenatore ad interim; Paulo Fonseca indicato come probabile successore, non ufficiale.",
    "andamento": "Già il 26/10 A Bola parlava di Borges 'a prazo'. Terzo in classifica con 21 punti, a -9 dal Porto.",
-   "novita": "Nessuna notizia nuova oggi. Il Sporting ha annunciato l'uscita di Rui Borges (1/11); Tiago Fernandes interino e Paulo Fonseca possibile successore solo da stampa. Sporting–Moreirense sabato 7/11 ore 20:30 locali (21:30 italiane) da A Bola.",
+   "novita": "Sporting–Moreirense oggi 7/11 alle 21:30 italiane (da confermare). A Bola 4/11: nessun accordo di rescissione con Rui Borges; nessuna notizia nuova 5-7/11.",
    "assenze": {
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Chi siede in panchina contro il Moreirense, accordo di rescissione e team news.",
+   "da_verificare": "Accordo di rescissione, nome del nuovo allenatore (Fonseca solo da stampa) e formazione.",
    "segnalata_dal": "2026-11-05",
    "fonti": [
     "https://abola.pt/noticias/sporting-e-rui-borges-sem-acordo-para-a-rescisao-2026110417211868061",
@@ -1621,57 +1438,35 @@
    "ricerche_fatte": [
     {
      "tema": "panchina",
-     "query": "Rui Borges rescisão Sporting",
-     "lingua": "pt",
-     "esito": "vecchia",
-     "url": "https://www.abola.pt/noticias/rui-borges-considerou-nao-ter-condicoes-para-orientar-mais-o-sporting-2026110121474422971",
-     "data_articolo": "2026-11-01",
-     "giro": "mattino"
-    },
-    {
-     "tema": "panchina",
-     "query": "Sporting Rui Borges sem acordo rescisão",
+     "query": "Sporting Rui Borges Tiago Fernandes Paulo Fonseca balneário rescisão",
      "lingua": "pt",
      "esito": "nuova",
      "url": "https://www.abola.pt/noticias/sporting-e-rui-borges-sem-acordo-para-a-rescisao-2026110417211868061",
-     "data_articolo": "2026-11-04",
-     "giro": "mattino"
+     "data_articolo": "2026-11-04"
     },
     {
-     "tema": "infortuni",
-     "query": "Sporting Moreirense lesionados onze provável",
-     "lingua": "pt",
-     "esito": "vecchia",
-     "url": "https://www.abola.pt/noticias/moreirense-ex-aguia-e-ex-leao-em-duvida-para-o-sporting-2026110117311633607",
-     "data_articolo": "2026-11-01",
-     "giro": "mattino"
-    },
-    {
-     "tema": "panchina",
-     "query": "Rui Borges rescisão Sporting novo treinador",
-     "lingua": "pt",
-     "esito": "vecchia",
-     "url": "https://www.dnoticias.pt/2026/11/1/511235-sporting-anuncia-saida-do-treinador-rui-borges/",
-     "data_articolo": "2026-11-01",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Sporting Moreirense lesionados suspensos onze provável",
-     "lingua": "pt",
-     "esito": "vecchia",
-     "url": "https://www.abola.pt/noticias/moreirense-ex-aguia-e-ex-leao-em-duvida-para-o-sporting-2026110117311633607",
-     "data_articolo": "2026-11-01",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "altro",
-     "query": "Sporting Moreirense hora oficial conferência de imprensa treinador 7 novembro",
+     "tema": "soldi",
+     "query": "Sporting salários dívida finanças novembro 2026",
      "lingua": "pt",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
+    },
+    {
+     "tema": "infortuni",
+     "query": "Sporting Moreirense onze lesionados suspensos",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": "https://www.abola.pt/noticias/moreirense-ex-aguia-e-ex-leao-em-duvida-para-o-sporting-2026110117311633607",
+     "data_articolo": "2026-11-01"
+    },
+    {
+     "tema": "panchina",
+     "query": "Sporting Tiago Fernandes Moreirense conferência Fonseca acordo Rui Borges",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": "https://www.abola.pt/noticias/sporting-estamos-tristes-por-rui-borges-diz-altimira-2026110219342789061",
+     "data_articolo": "2026-11-02"
     }
    ]
   },
@@ -1682,7 +1477,7 @@
    ],
    "stato": "attiva",
    "problema_in_corso": false,
-   "controllato_il": "2026-11-06T16:06:44+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "id": "vitoria",
    "squadra": "Vitória",
    "nome_flashscore": "Vitoria",
@@ -1691,13 +1486,13 @@
    "tipo": "spogliatoio",
    "livello": "basso",
    "motivo": "Allenatore Jair Ventura esonerato il 2/11 dopo 4 partite senza vittoria e lo 0-2 a Coritiba; 21º cambio di panchina del Brasileirão. Una fonte parla di 'disconnessione con la rosa' (solo titolo).",
-   "andamento": "Squadra 14ª con 39 punti, tre sopra la zona retrocessione. Interino: l'assistente Cleber dos Santos ha guidato il primo allenamento il 2/11; non è deciso se sarà confermato. Nel mirino Léo Condé, Tiago Nunes, Martín Palermo (A Tarde 02/11).",
-   "novita": "2/11: Jair Ventura esonerato; Cléber dos Santos guida la squadra ad interim, nessun nuovo allenatore ufficiale trovato. Oggi nessun articolo datato su formazione o orario di Vitória–Fluminense (stasera, 20:00 di Brasilia).",
+   "andamento": "Jair Ventura esonerato il 2/11; con l'interim Cléber dos Santos 0-3 in casa col Fluminense il 6/11, 38 punti e zona retrocessione.",
+   "novita": "Vitória–Fluminense 0-3 il 6/11 (quinta partita senza vittoria, interim Cléber dos Santos). Nessuna partita in lista nei prossimi 7 giorni (prossima Bragantino 19/11, data non confermata da fonte datata).",
    "assenze": {
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Orario ufficiale CBF di Vitória–Fluminense, nome del nuovo allenatore stabile e formazione.",
+   "da_verificare": "Nuovo allenatore ufficiale e partita successiva.",
    "segnalata_dal": "2026-11-05",
    "fonti": [
     "https://www.dgabc.com.br/Noticia/4366400/vitoria-anuncia-a-demissao-de-jair-ventura-e-brasileirao-chega-a-21-trocas-de-comando"
@@ -1706,58 +1501,44 @@
    "ultima_notizia": "2026-11-02",
    "ricerche_fatte": [
     {
-     "tema": "panchina",
-     "query": "Vitória novo técnico interino após Jair Ventura",
-     "lingua": "pt",
-     "esito": "vecchia",
-     "url": "https://atarde.com.br/esportes/vitoria-define-novo-treinador-apos-demissao-de-jair-ventura-veja-1408060",
-     "data_articolo": "2026-11-02",
-     "giro": "mattino"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Vitória x Fluminense desfalques escalação",
-     "lingua": "pt",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
      "tema": "altro",
-     "query": "Vitória Cléber dos Santos Fluminense relacionados",
+     "query": "Vitória x Fluminense Brasileirão resultado gols",
      "lingua": "pt",
-     "esito": "vecchia",
-     "url": "https://www.bahianoticias.com.br/esportes/vitoria/31730-apos-demissao-de-jair-ventura-cleber-dos-santos-comanda-primeiro-treino-do-vitoria-de-olho-no-fluminense",
-     "data_articolo": "2026-11-02",
-     "giro": "mattino"
+     "esito": "nuova",
+     "url": "https://www.vavel.com/br/futebol/2026/11/06/1278246-vitoria-x-fluminense-ao-vivo-brasileirao.html",
+     "data_articolo": "2026-11-06"
     },
     {
      "tema": "panchina",
-     "query": "Vitória demissão Jair Ventura novo treinador vestiário",
+     "query": "Vitória novo técnico Cléber dos Santos vestiário Jair Ventura",
      "lingua": "pt",
      "esito": "vecchia",
-     "url": "https://www.opovo.com.br/esportes/2026/11/02/vitoria-anuncia-demissao-do-tecnico-jair-ventura.html",
-     "data_articolo": "2026-11-02",
-     "giro": "pomeriggio"
+     "url": "https://www.correio24horas.com.br/esportes/vitoria-ja-tem-nome-para-substituir-jair-ventura-contra-o-fluminense-1126",
+     "data_articolo": "2026-11-03"
     },
     {
-     "tema": "altro",
-     "query": "Vitória x Fluminense Brasileirão horário CBF novo técnico 6 de novembro",
+     "tema": "soldi",
+     "query": "Vitória salários atrasados finanças novembro 2026",
      "lingua": "pt",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
     },
     {
      "tema": "infortuni",
-     "query": "Vitória Fluminense desfalques suspensos escalação provável",
+     "query": "Vitória lesionados suspensos escalação provável Fluminense",
      "lingua": "pt",
-     "esito": "nulla",
+     "esito": "vecchia",
      "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "Vitória Fluminense Barradão 6 de novembro Cléber dos Santos interino",
+     "lingua": "pt",
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null
     }
    ]
   },
@@ -1775,114 +1556,59 @@
    "stato": "attiva",
    "motivo": "Il 4/11 la rosa si è rifiutata di allenarsi per tre mesi di stipendi arretrati; il presidente Pessi parla di 'desespero'.",
    "andamento": "Squadra in zona retrocessione in Série B; l'investitore Kactus Capital ha sospeso nuovi versamenti in attesa dell'accordo SAF; il pagamento promesso entro venerdì non è arrivato.",
-   "novita": "4/11 (Mix Vale): la rosa ha incrociato le braccia per gli stipendi, il presidente parla di 'desespero'. Allenamenti ripresi il 5/11 secondo fonti senza data leggibile; nessun forfait annunciato. Avaí–São Bernardo sabato 7/11 ore 16:00 di Brasilia (20:00 italiane) da fonti non CBF.",
+   "novita": "Avaí–São Bernardo oggi 7/11 alle 20:00 italiane (16:00 locali, Diário do Nordeste 4/11). Il 4/11 la rosa non si è allenata per tre mesi di stipendi arretrati; nessuna notizia nuova oggi.",
    "assenze": {
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Se gli stipendi arretrati vengono pagati prima di sabato e orario ufficiale CBF di Avaí–São Bernardo.",
+   "da_verificare": "Se l'Avaí scenderà in campo con la rosa completa o con giovani; ripresa allenamenti (5/11, non verificata).",
    "segnalata_dal": "2026-11-06",
    "prima_notizia": "2026-11-04",
    "ultima_notizia": "2026-11-04",
-   "controllato_il": "2026-11-06T16:06:44+01:00",
+   "controllato_il": "2026-11-07T09:12:19+01:00",
    "problema_in_corso": true,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Avaí greve salários atrasados elenco",
+     "query": "Avaí salários atrasados elenco Pessi desespero",
      "lingua": "pt",
      "esito": "nuova",
-     "url": "https://www.mixvale.com.br/2026/11/04/greve-na-ressacada-elenco-do-avai-cruza-os-bracos-por-salarios-e-presidente-fala-em-desespero/",
-     "data_articolo": "2026-11-04",
-     "giro": "mattino"
+     "url": "https://diariodonordeste.verdesmares.com.br/jogada/atletas-do-avai-nao-treinam-nesta-quarta-feira-em-protesto-de-salarios-atrasados-1.3803415",
+     "data_articolo": "2026-11-04"
     },
     {
-     "tema": "soldi",
-     "query": "Avaí jogadores não treinam atrasos salariais",
-     "lingua": "pt",
-     "esito": "nuova",
-     "url": "https://opovo.com.br/esportes/futebol/times/ceara/2026/11/04/jogadores-do-avai-nao-treinam-em-protesto-por-atrasos-salariais.html",
-     "data_articolo": "2026-11-04",
-     "giro": "mattino"
-    },
-    {
-     "tema": "altro",
-     "query": "Avaí x São Bernardo Série B data horário",
-     "lingua": "pt",
-     "esito": "nuova",
-     "url": "https://www.mixvale.com.br/2026/11/04/greve-na-ressacada-elenco-do-avai-cruza-os-bracos-por-salarios-e-presidente-fala-em-desespero/",
-     "data_articolo": "2026-11-04",
-     "giro": "mattino"
-    },
-    {
-     "tema": "soldi",
-     "query": "Avaí salários atrasados greve elenco",
-     "lingua": "pt",
-     "esito": "nuova",
-     "url": "https://www.mixvale.com.br/2026/11/04/greve-na-ressacada-elenco-do-avai-cruza-os-bracos-por-salarios-e-presidente-fala-em-desespero/",
-     "data_articolo": "2026-11-04",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "altro",
-     "query": "Avaí São Bernardo Série B data horário CBF tabela",
+     "tema": "panchina",
+     "query": "Avaí técnico vestiário São Bernardo Série B",
      "lingua": "pt",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
     },
     {
      "tema": "infortuni",
-     "query": "Avaí desfalques escalação provável contra São Bernardo",
+     "query": "Avaí x São Bernardo escalação lesionados suspensos",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": "https://www.gazetaesportiva.com/?p=3823080",
+     "data_articolo": "2026-07-17"
+    },
+    {
+     "tema": "altro",
+     "query": "Avaí São Bernardo sábado Ressacada 7 de novembro Série B elenco treinos",
      "lingua": "pt",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
     }
    ],
    "fonti": [
+    "https://diariodonordeste.verdesmares.com.br/jogada/atletas-do-avai-nao-treinam-nesta-quarta-feira-em-protesto-de-salarios-atrasados-1.3803415",
     "https://www.mixvale.com.br/2026/11/04/greve-na-ressacada-elenco-do-avai-cruza-os-bracos-por-salarios-e-presidente-fala-em-desespero/",
     "https://opovo.com.br/esportes/futebol/times/ceara/2026/11/04/jogadores-do-avai-nao-treinam-em-protesto-por-atrasos-salariais.html"
    ]
   }
  ],
  "partite": [
-  {
-   "id_partita": "2026-11-06_venezia_udinese",
-   "data": "2026-11-06T20:45:00+01:00",
-   "data_utc": "2026-11-06T19:45:00Z",
-   "casa": "Venezia",
-   "trasferta": "Udinese",
-   "competizione": "Serie A",
-   "squadra_segnalata": "udinese",
-   "segnalata_in_casa": false,
-   "avversaria": {
-    "nome": "Venezia",
-    "nome_flashscore": null,
-    "id_flashscore": null
-   },
-   "favorita_stimata": "incerta",
-   "nota": "Orario 20:45 confermato da tuttoudinese.it 5/11 e Fanpage 6/11"
-  },
-  {
-   "id_partita": "2026-11-07_vitoria_fluminense",
-   "data": "2026-11-07T00:00:00+01:00",
-   "data_utc": "2026-11-06T23:00:00Z",
-   "casa": "Vitória",
-   "trasferta": "Fluminense",
-   "competizione": "Brasileirão Série A",
-   "squadra_segnalata": "vitoria",
-   "segnalata_in_casa": true,
-   "avversaria": {
-    "nome": "Fluminense",
-    "nome_flashscore": null,
-    "id_flashscore": null
-   },
-   "favorita_stimata": "incerta",
-   "nota": "orario 20:00 locali da A Tarde 02/11 (non CBF): da confermare"
-  },
   {
    "id_partita": "2026-11-07_blackburn-rovers_west-ham",
    "data": "2026-11-07T16:00:00+01:00",
@@ -2037,23 +1763,6 @@
    "nota": "data 8/11 dall'URL del sito del club, orario 15:00 non ufficiale: da confermare"
   },
   {
-   "id_partita": "2026-11-08_fiorentina_juventus",
-   "data": "2026-11-08T15:00:00+01:00",
-   "data_utc": "2026-11-08T14:00:00Z",
-   "casa": "Fiorentina",
-   "trasferta": "Juventus",
-   "competizione": "Serie A (11ª giornata)",
-   "squadra_segnalata": "juventus",
-   "segnalata_in_casa": false,
-   "avversaria": {
-    "nome": "Fiorentina",
-    "nome_flashscore": "Fiorentina",
-    "id_flashscore": null
-   },
-   "favorita_stimata": "incerta",
-   "nota": "orario da confermare: fantacalcio.it 15:00, altre pagine discordanti"
-  },
-  {
    "id_partita": "2026-11-08_siwelele_kaizer-chiefs",
    "data": "2026-11-08T17:00:00+01:00",
    "data_utc": "2026-11-08T16:00:00Z",
@@ -2086,6 +1795,23 @@
    },
    "favorita_stimata": "incerta",
    "nota": "orario da confermare"
+  },
+  {
+   "id_partita": "2026-11-08_fiorentina_juventus",
+   "data": "2026-11-08T20:45:00+01:00",
+   "data_utc": "2026-11-08T19:45:00Z",
+   "casa": "Fiorentina",
+   "trasferta": "Juventus",
+   "competizione": "Serie A (11ª giornata)",
+   "squadra_segnalata": "juventus",
+   "segnalata_in_casa": false,
+   "avversaria": {
+    "nome": "Fiorentina",
+    "nome_flashscore": "Fiorentina",
+    "id_flashscore": null
+   },
+   "favorita_stimata": "incerta",
+   "nota": "Sky Sport 6/11: ore 20:45"
   },
   {
    "id_partita": "2026-11-08_bolivar_the-strongest",
@@ -2568,11 +2294,11 @@
   }
  ],
  "giro": {
-  "tipo": "pomeriggio",
-  "iniziato": "2026-11-06T16:06:44+01:00",
-  "squadre_controllate": 10,
-  "ricerche_totali": 30,
-  "ricerche_bloccate": 0,
-  "limiti": "Pomeriggio: 9 squadre con partita nelle prossime 36 ore o incertezza aperta (Udinese, Vitória, West Ham, Burnley, Forest, Avaí, Sporting, Pereira, The Strongest) più Atalanta (assenze). Ricerche contate: solo quelle registrate nelle squadre. Esito Atalanta–Kairat chiuso (1-1). Goiás (sciopero 5-6/11 segnalato dallo scout) NON inserita: una ricerca di verifica non ha confermato lo sciopero e le pagine Mix Vale danno 403. Orari ancora da confermare: Fiorentina–Juventus, Palace–Liverpool, Man Utd–Villa, Napoli–Lazio, Cardiff–Burnley, Blackburn–West Ham, Siwelele–Chiefs, Vitória–Fluminense, Pereira–Nacional, Avaí–São Bernardo, Forest–City, Bolívar–The Strongest."
+  "tipo": "mattino",
+  "iniziato": "2026-11-07T09:07:51+01:00",
+  "squadre_controllate": 15,
+  "ricerche_totali": 58,
+  "ricerche_bloccate": 13,
+  "limiti": "Mattino: 15 squadre controllate da altrettanti sottoagenti (3-5 ricerche ciascuna) più 4 scout per squadre nuove (Europa occidentale, Europa est/Turchia/Medio Oriente, Americhe, Africa/Asia): nessuna candidata valida; gli scout hanno coperto solo in parte (non coperti Spagna, Germania, Francia, Olanda, Belgio, Portogallo, Scozia, Maghreb, Africa subsahariana, Asia orientale). Molte ricerche hanno dato solo articoli vecchi o bloccati (West Ham, Forest, Man Utd, Napoli, Udinese). Il risultato di Venezia–Udinese non è stato trovato. Il conteggio ricerche_totali/bloccate include solo le voci delle squadre segnalate; le ricerche degli scout non sono nel conteggio. Orari ancora da confermare: Palace–Liverpool, Man Utd–Villa, Napoli–Lazio, Cardiff–Burnley, Blackburn–West Ham, Siwelele–Chiefs, Bolívar–The Strongest, Nacional–Pereira, Avaí–São Bernardo, Forest–City."
  }
 }
