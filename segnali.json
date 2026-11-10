@@ -1,6 +1,6 @@
 {
  "versione": 3,
- "aggiornato": "2026-11-10T09:14:13+01:00",
+ "aggiornato": "2026-11-10T09:33:05+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -1178,12 +1178,12 @@
     "attacco": null
    },
    "stato": "attiva",
-   "controllato_il": "2026-11-10T09:14:13+01:00",
+   "controllato_il": "2026-11-10T09:33:05+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Deportivo Pereira salarios impagos jugadores paro Acolfutpro",
+     "query": "Deportivo Pereira salarios pago paro Acolfutpro noviembre 2026",
      "lingua": "es",
      "esito": "vecchia",
      "url": "https://www.publimetro.co/deportes/2026/11/06/acolfutpro-estallo-contra-dimayor-por-crisis-de-tres-equipos-jugadores-de-america-preparan-protesta-para-el-clasico/",
@@ -1191,15 +1191,15 @@
     },
     {
      "tema": "panchina",
-     "query": "Deportivo Pereira técnico directiva reconocimiento deportivo noviembre 2026",
+     "query": "Deportivo Pereira técnico DT camerino noviembre 2026",
      "lingua": "es",
      "esito": "vecchia",
-     "url": "https://www.publimetro.co/deportes/2026/10/06/deportivo-pereira-le-encontro-reemplazo-a-arturo-reyes-y-ya-anuncio-su-nuevo-dt/",
-     "data_articolo": "2026-10-06"
+     "url": "https://occidente.co/deportes/alexis-marquez-vuelve-al-pereira/",
+     "data_articolo": "2026-10-07"
     },
     {
      "tema": "infortuni",
-     "query": "Pereira vs América de Cali fecha hora lesionados suspendidos",
+     "query": "Deportivo Pereira lesionados sancionados alineación América de Cali",
      "lingua": "es",
      "esito": "nulla",
      "url": null,
@@ -1207,9 +1207,9 @@
     },
     {
      "tema": "altro",
-     "query": "Deportivo Pereira noticias hoy jugadores pago salario septiembre Dimayor",
+     "query": "Pereira vs América de Cali 12 de noviembre 2026 hora Liga BetPlay Dimayor",
      "lingua": "es",
-     "esito": "bloccata",
+     "esito": "nulla",
      "url": null,
      "data_articolo": null
     }
@@ -1351,7 +1351,7 @@
    "stato": "attiva",
    "motivo": "Il 4/11 la rosa si è rifiutata di allenarsi per tre mesi di stipendi arretrati; il presidente Pessi parla di 'desespero'.",
    "andamento": "Squadra in zona retrocessione in Série B; l'investitore Kactus Capital ha sospeso nuovi versamenti in attesa dell'accordo SAF; il pagamento promesso entro venerdì non è arrivato.",
-   "novita": "Nessuna notizia datata nelle ultime 72 ore (O Povo 5/11: crisi con la rosa, tre mesi di arretrati). Prossima: América-MG–Avaí sabato 14/11 ore 20:30 (orario da confermare).",
+   "novita": "Nessuna notizia sul problema nelle ultime 72 ore (squadra tornata ad allenarsi il 5/11, arretrati non confermati). Wmais 10/11 (tabella CBF): América-MG–Avaí sabato 14/11 ore 16:30 di Brasília.",
    "assenze": {
     "difesa": "Daniel Penha (lombalgia) fuori il 7/11; stato per il 14/11 non confermato.",
     "attacco": null
@@ -1360,20 +1360,20 @@
    "segnalata_dal": "2026-11-06",
    "prima_notizia": "2026-11-04",
    "ultima_notizia": "2026-11-07",
-   "controllato_il": "2026-11-10T09:14:13+01:00",
+   "controllato_il": "2026-11-10T09:33:05+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Avaí salários atrasados elenco",
+     "query": "Avaí salários atrasados greve treino novembro 2026",
      "lingua": "pt",
      "esito": "vecchia",
-     "url": "https://mais.opovo.com.br/jornal/esportes/2026/11/05/rival-direto-do-ceara-avai-ve-crise-com-elenco-agravar.html",
+     "url": "https://ndmais.com.br/video/avai-retoma-treinos-apos-greve-e-se-prepara-para-decisao-contra-sao-bernardo/",
      "data_articolo": "2026-11-05"
     },
     {
      "tema": "panchina",
-     "query": "Avaí técnico vestiário diretoria",
+     "query": "Avaí técnico vestiário elenco novembro 2026",
      "lingua": "pt",
      "esito": "nulla",
      "url": null,
@@ -1381,7 +1381,7 @@
     },
     {
      "tema": "infortuni",
-     "query": "América-MG x Avaí desfalques escalação data e hora",
+     "query": "Avaí desfalques lesionados suspensos América-MG Série B",
      "lingua": "pt",
      "esito": "nulla",
      "url": null,
@@ -1389,19 +1389,11 @@
     },
     {
      "tema": "altro",
-     "query": "Avaí Remo América-MG Daniel Penha salários novembro 2026",
+     "query": "América-MG x Avaí 14 de novembro 38ª rodada Série B horário",
      "lingua": "pt",
-     "esito": "vecchia",
-     "url": "https://ndmais.com.br/futebol/o-avai-ainda-esta-so-por-um-milagre-mas-precisa-aparar-as-arestas-para-fazer-sua-parte-sabado/",
-     "data_articolo": null
-    },
-    {
-     "tema": "altro",
-     "query": "ge.globo.com e ndmais.com.br pagine Avaí",
-     "lingua": "pt",
-     "esito": "bloccata",
-     "url": null,
-     "data_articolo": null
+     "esito": "nuova",
+     "url": "https://wmais.com.br/wsports/cbf-tabela-38-rodada-serie-b-2026-transmissoes-botafogo-sp/",
+     "data_articolo": "2026-11-10"
     }
    ],
    "fonti": [
@@ -1555,12 +1547,12 @@
    "segnalata_dal": "2026-11-09",
    "prima_notizia": "2026-10-30",
    "ultima_notizia": "2026-11-06",
-   "controllato_il": "2026-11-10T09:14:13+01:00",
+   "controllato_il": "2026-11-10T09:33:05+01:00",
    "problema_in_corso": true,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "América de Cali salarios atrasados jugadores concentración",
+     "query": "América de Cali salarios atraso protesta jugadores concentración noviembre 2026",
      "lingua": "es",
      "esito": "vecchia",
      "url": "https://www.publimetro.co/deportes/2026/11/06/acolfutpro-estallo-contra-dimayor-por-crisis-de-tres-equipos-jugadores-de-america-preparan-protesta-para-el-clasico/",
@@ -1568,7 +1560,7 @@
     },
     {
      "tema": "panchina",
-     "query": "América de Cali técnico vestuario directiva noticias",
+     "query": "América de Cali técnico DT camerino noviembre 2026",
      "lingua": "es",
      "esito": "nulla",
      "url": null,
@@ -1576,7 +1568,7 @@
     },
     {
      "tema": "infortuni",
-     "query": "América de Cali Internacional de Bogotá Copa Colombia hora convocados lesionados",
+     "query": "América de Cali lesionados sancionados alineación Internacional de Bogotá",
      "lingua": "es",
      "esito": "nulla",
      "url": null,
@@ -1584,11 +1576,11 @@
     },
     {
      "tema": "altro",
-     "query": "América de Cali Deportivo Cali clásico resultado 7 noviembre 2026",
+     "query": "Internacional de Bogotá vs América de Cali semifinal Copa Colombia hora fecha",
      "lingua": "es",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null
+     "esito": "vecchia",
+     "url": "https://www.publimetro.co/deportes/2026/11/03/copa-betplay-habra-doble-partidazo-el-mismo-dia-y-ya-hay-programacion-para-las-semifinales/",
+     "data_articolo": "2026-11-03"
     }
    ],
    "fonti": [
@@ -1608,12 +1600,12 @@
    "livello": "basso",
    "motivo": "Daniel Paulista ha lasciato la panchina dopo lo 0-1 interno con l'América-MG (8/11); il Ceará, a 43 punti, rischia ancora la retrocessione in Série C.",
    "andamento": "Dimissioni dell'allenatore l'8/11; nuovo tecnico non ancora noto (Diário do Nordeste 9/11). Fonte unica.",
-   "novita": "Diário do Nordeste 9/11: cambio in panchina e incertezza nell'ultima giornata della Série B. Nuovo allenatore non annunciato.",
+   "novita": "Diário do Nordeste e iBand CE 9/11: Paulista si è dimesso (accordo col Vitória saltato); O Povo/URB News 9/11 indicano la coppia Alison Henry e Anderson Batatais in panchina, iBand dice nome non divulgato. Prossima: CRB–Ceará 14/11 ore 16:30 di Brasília (calendario, non confermata direttamente da CBF).",
    "assenze": {
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Nuovo allenatore; seconda fonte; orario di CRB–Ceará (14/11 ore 20:30 italiane secondo calendario CBF di ottobre, data riconfermata il 9/11).",
+   "da_verificare": "Chi siede in panchina a CRB–Ceará del 14/11; assenze.",
    "segnalata_dal": "2026-11-10",
    "fonti": [
     "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-e-ceara-tem-domingo-de-mudancas-no-comando-tecnico-e-incertezas-na-reta-final-da-serie-b-1.3804456"
@@ -1623,40 +1615,40 @@
    "nome_flashscore": "Ceará",
    "id_flashscore": "p0JrJCV5",
    "stato": "attiva",
-   "controllato_il": "2026-11-10T09:14:13+01:00",
+   "controllato_il": "2026-11-10T09:33:05+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "panchina",
-     "query": "demitido técnico 9 de novembro 2026 Série B Série C crise elenco",
+     "query": "Daniel Paulista deixa o Ceará após derrota para o América-MG",
      "lingua": "pt",
      "esito": "nuova",
-     "url": "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-e-ceara-tem-domingo-de-mudancas-no-comando-tecnico-e-incertezas-na-reta-final-da-serie-b-1.3804456",
+     "url": "https://diariodonordeste.verdesmares.com.br/jogada/bastidores-daniel-paulista-entregou-cargo-por-acreditar-em-acerto-com-o-vitoria-1.3804535",
      "data_articolo": "2026-11-09"
     },
     {
-     "tema": "altro",
-     "query": "Ceará x CRB 38ª rodada horário",
+     "tema": "panchina",
+     "query": "Daniel Paulista deixa o comando do Ceará após derrota",
      "lingua": "pt",
-     "esito": "vecchia",
-     "url": null,
-     "data_articolo": null
+     "esito": "nuova",
+     "url": "https://ibandce.com.br/daniel-paulista-deixa-o-comando-do-ceara-apos-derrota/",
+     "data_articolo": "2026-11-09"
     },
     {
-     "tema": "altro",
-     "query": "Fortaleza última rodada Série B 38ª rodada adversário horário",
+     "tema": "soldi",
+     "query": "Ceará salários atrasados dívidas crise financeira novembro 2026",
      "lingua": "pt",
      "esito": "vecchia",
-     "url": "https://diariodonordeste.verdesmares.com.br/jogada/serie-b-cbf-desmembra-tabela-da-35-a-38-rodadas-veja-jogos-de-ceara-e-fortaleza-1.3797215",
-     "data_articolo": "2026-10-07"
+     "url": "https://mais.opovo.com.br/jornal/esportes/2026/10/08/sem-receber-ha-tres-meses-jogadoras-do-ceara-recorrem-a-bicos-para-pagar-contas.html",
+     "data_articolo": "2026-10-08"
     },
     {
-     "tema": "altro",
-     "query": "flashscore Ceará CRB codici",
+     "tema": "infortuni",
+     "query": "Ceará desfalques lesionados suspensos CRB x Ceará 2026",
      "lingua": "pt",
      "esito": "vecchia",
-     "url": "https://www.flashscore.com/team/ceara/p0JrJCV5/",
-     "data_articolo": null
+     "url": "https://diariodonordeste.verdesmares.com.br/jogada/ceara-viaja-com-desfalques-para-decisao-da-permanencia-na-serie-b-1.3802682",
+     "data_articolo": "2026-10-31"
     }
    ]
   },
@@ -1672,12 +1664,12 @@
    "livello": "basso",
    "motivo": "Paulo Autuori esonerato l'8/11 dopo la sconfitta 1-2 a Novorizontino; il club (in zona playoff) cerca il sostituto prima dell'ultima giornata.",
    "andamento": "Esonero l'8/11; nessun nuovo allenatore ufficiale. Fonte unica.",
-   "novita": "Diário do Nordeste 9/11: Fortaleza cerca il sostituto; un titolo correlato parla dell'assistente Reinan Santos come interim (non confermato).",
+   "novita": "Ncnews 9/11: Vojvoda ha rifiutato il ritorno; l'ausiliare Reinan Santos guida ad interim; Jair Ventura solo voce. O Povo 8/11: clima teso nello spogliatoio. Prossima: Fortaleza–Vila Nova 14/11 ore 16:30 di Brasília (O Povo 8/11, ncnews 9/11).",
    "assenze": {
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Nuovo allenatore; seconda fonte; orario di Fortaleza–Vila Nova (14/11 ore 20:30 italiane).",
+   "da_verificare": "Nuovo allenatore; assenze per Fortaleza–Vila Nova del 14/11.",
    "segnalata_dal": "2026-11-10",
    "fonti": [
     "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-e-ceara-tem-domingo-de-mudancas-no-comando-tecnico-e-incertezas-na-reta-final-da-serie-b-1.3804456"
@@ -1687,30 +1679,38 @@
    "nome_flashscore": "Fortaleza",
    "id_flashscore": null,
    "stato": "attiva",
-   "controllato_il": "2026-11-10T09:14:13+01:00",
+   "controllato_il": "2026-11-10T09:33:05+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "panchina",
-     "query": "demitido técnico 9 de novembro 2026 Série B Série C crise elenco",
+     "query": "Fortaleza demite Paulo Autuori",
      "lingua": "pt",
      "esito": "nuova",
-     "url": "https://diariodonordeste.verdesmares.com.br/jogada/fortaleza-e-ceara-tem-domingo-de-mudancas-no-comando-tecnico-e-incertezas-na-reta-final-da-serie-b-1.3804456",
+     "url": "https://www.opovo.com.br/esportes/futebol/times/fortaleza/2026/11/08/fortaleza-decide-demitir-paulo-autuori-saiba-bastidores-exclusivos.html",
+     "data_articolo": "2026-11-08"
+    },
+    {
+     "tema": "panchina",
+     "query": "Fortaleza demite Autuori e Vojvoda recusa retorno",
+     "lingua": "pt",
+     "esito": "nuova",
+     "url": "https://ncnews.com.br/2026/11/09/fortaleza-demite-paulo-autuori-vojvoda/",
      "data_articolo": "2026-11-09"
     },
     {
-     "tema": "altro",
-     "query": "Fortaleza última rodada Série B 38ª rodada adversário horário",
+     "tema": "soldi",
+     "query": "Fortaleza salários atrasados dívidas crise financeira novembro 2026",
      "lingua": "pt",
      "esito": "vecchia",
-     "url": "https://diariodonordeste.verdesmares.com.br/jogada/serie-b-cbf-desmembra-tabela-da-35-a-38-rodadas-veja-jogos-de-ceara-e-fortaleza-1.3797215",
-     "data_articolo": "2026-10-07"
+     "url": "https://mais.opovo.com.br/jornal/esportes/2026/07/08/fortaleza-recorre-a-emprestimo-e-vendas-para-tentar-folego-financeiro.html",
+     "data_articolo": "2026-07-08"
     },
     {
-     "tema": "altro",
-     "query": "Fortaleza Autuori esonerato Novorizontino",
+     "tema": "infortuni",
+     "query": "Fortaleza Reinan Santos interino Vila Nova última rodada desfalques",
      "lingua": "pt",
-     "esito": "vecchia",
+     "esito": "nulla",
      "url": null,
      "data_articolo": null
     }
@@ -1733,7 +1733,7 @@
     "id_flashscore": null
    },
    "favorita_stimata": "incerta",
-   "nota": "orario da confermare: 10/11 ore 18:30 locali (fonte scout, non verificata sul sito ufficiale)"
+   "nota": "10/11 ore 18:30 locali = 00:30 italiane (Publimetro 3/11; ricerca concorde, non verificata sul sito ufficiale)"
   },
   {
    "id_partita": "2026-11-12_deportivo-pereira_america-de-cali",
@@ -1767,7 +1767,7 @@
     "id_flashscore": null
    },
    "favorita_stimata": "incerta",
-   "nota": "orario da confermare (nessuna fonte datata trovata nel giro)"
+   "nota": "orario confermato da wmais 10/11 (tabella CBF): 16:30 di Brasília"
   },
   {
    "id_partita": "2026-11-14_crb_ceara",
@@ -1801,7 +1801,7 @@
     "id_flashscore": null
    },
    "favorita_stimata": "incerta",
-   "nota": "orario da confermare: 16:30 di Brasília secondo il calendario CBF (Diário do Nordeste), data riconfermata il 9/11"
+   "nota": "16:30 di Brasília (O Povo 8/11, ncnews 9/11)"
   }
  ],
  "criterio": "Si segnalano le squadre con problemi (soldi, spogliatoio, società, difesa decimata, attacco sterile), soprattutto quelle di peso, anche se le quote le danno sfavorite. Obiettivo principale: l'avversaria non perde (vince o pareggia). Obiettivo secondario, se la quota è interessante: l'avversaria segna almeno un gol. La quota serve solo come informazione.",
@@ -2459,10 +2459,10 @@
  ],
  "giro": {
   "tipo": "mattino",
-  "iniziato": "2026-11-10T09:09:01+01:00",
-  "squadre_controllate": 18,
-  "ricerche_totali": 67,
-  "ricerche_bloccate": 4,
-  "limiti": "Mattino in sosta nazionali: nessuna partita in lista fino all'11/11. 18 sottoagenti (16 squadre, 2 scout): conteggi solo sulle ricerche registrate in ricerche_fatte delle squadre; le ricerche degli scout non sono incluse. The Strongest in controllo_incompleto (3 ricerche nulle). Scout lista fissa: nessuna candidata verificabile (snippet senza date; non coperti Arabia, Africa, Asia, Messico, Portogallo, Olanda, Grecia, Scozia, Belgio). Scout campionati: aggiunte Ceará e Fortaleza (fonte unica). Zamalek/Goiás non ricontrollate."
+  "iniziato": "2026-11-10T09:33:05+01:00",
+  "squadre_controllate": 5,
+  "ricerche_totali": 20,
+  "ricerche_bloccate": 0,
+  "limiti": "Secondo giro del mattino, 20 minuti dopo quello delle 09:09 (sosta nazionali, nessuna partita fino all'11/11): ricontrollate solo le 5 squadre con partite entro 7 giorni (Pereira, América de Cali, Avaí, Ceará, Fortaleza); le altre 11 mantengono controllo e ricerche del giro delle 09:09. Nessun esito da registrare. Scout martedì (Polonia, Rep. Ceca, Slovacchia, Croazia, Serbia, Romania, Ungheria, Bulgaria, Ucraina, Russia, Grecia, Turchia): 1-2 query per paese, copertura insufficiente, nessuna candidata con data verificabile. Scout lista fissa: cercati solo Benfica, Ajax, Galatasaray/Beşiktaş, Celtic/Rangers, Grecia e Arabia con una ricerca ciascuno; non cercati Belgio, Porto, Sporting, PSV, Feyenoord, né Inghilterra, Italia, Spagna, Germania, Francia, Americhe, Africa, Asia. Nessuna candidata."
  }
 }
