@@ -1,6 +1,6 @@
 {
   "versione": 3,
-  "aggiornato": "2026-11-16T09:38:43+01:00",
+  "aggiornato": "2026-11-16T16:05:38+01:00",
   "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
   "esiti_precedenti": [
     {
@@ -774,10 +774,10 @@
       "paese": "Inghilterra",
       "tipo": "spogliatoio",
       "livello": "basso",
-      "stato": "controllo_incompleto",
+      "stato": "attiva",
       "motivo": "Allenatore Nicky Hayen esonerato il 24/10 (22° in Championship); Fabio Celestini in carica dal 28/10 senza vittorie (0-0 Portsmouth, 1-1 QPR, 4-5 a Cardiff).",
       "andamento": "Una sola vittoria in 15 partite di campionato, 5 punti dalla salvezza (Burnley Express); a Cardiff da 4-1 a 4-5.",
-      "novita": "Controllo del 16/11: nessuna notizia nuova su Celestini (nessun esonero). Prossima partita Burnley–Blackburn Rovers domenica 22/11 alle 13:00.",
+      "novita": "Controllo pomeriggio 16/11: nessun esonero di Celestini trovato, nessuna partita con risultato. Prossima partita Burnley–Blackburn Rovers domenica 22/11 (13:00 o 16:00 italiane, orario da confermare).",
       "assenze": {
         "difesa": null,
         "attacco": null
@@ -786,27 +786,9 @@
       "segnalata_dal": "2026-10-29",
       "prima_notizia": "2026-10-24",
       "ultima_notizia": "2026-11-09",
-      "controllato_il": "2026-11-16T09:38:43+01:00",
+      "controllato_il": "2026-11-16T16:05:38+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
-        {
-          "tema": "infortuni",
-          "query": "Burnley Blackburn Rovers team news injuries November 2026",
-          "lingua": "en",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null,
-          "giro": "mattino-2"
-        },
-        {
-          "tema": "infortuni",
-          "query": "Burnley squad injury update Championship November 2026",
-          "lingua": "en",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null,
-          "giro": "mattino-2"
-        },
         {
           "tema": "altro",
           "query": "Burnley Blackburn derby preview November 2026 team news",
@@ -831,6 +813,33 @@
           "esito": "vecchia",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "panchina",
+          "query": "Burnley Celestini Blackburn Rovers November 2026",
+          "lingua": "en",
+          "esito": "vecchia",
+          "url": "https://fanbanter.co.uk/burnley-appoint-fabio-celestini-head-coach/",
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Burnley Celestini injury news Turf Moor Blackburn team news",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "panchina",
+          "query": "Burnley Celestini result Championship November 2026",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -841,7 +850,8 @@
         "https://www.oddschecker.com/insight/football/20261027-next-burnley-manager-odds-gerrard-leads-market-after-hayen-sacking",
         "https://www.vavel.com/en/football/2026/10/25/championship/1276832-hayen-sacked-after-14-games-in-charge.html",
         "https://www.lalibre.be/dernieres-depeches/2026/10/24/les-belges-a-letranger-burnley-renvoie-nicky-hayen-trois-mois-et-demi-apres-son-arrivee-a-la-tete-du-club-QIKFQM74FVFDDHOSYHWJILDNTY/"
-      ]
+      ],
+      "verif": null
     },
     {
       "id": "the-strongest",
@@ -857,7 +867,7 @@
       "stato": "controllo_incompleto",
       "motivo": "La rosa non si è allenata il 27/10 per stipendi arretrati (3-5 mesi, fino a 6 per lo staff); il 28/10 è tornata al lavoro dopo la promessa di pagare un solo mese.",
       "andamento": "4/11 (Vision360): la dirigenza deve ancora gli stipendi alla rosa; la rosa si allena dal 29/10 dopo il pagamento di un solo mese.",
-      "novita": "Nessuna notizia nuova dopo il 4/11 (Vision360: la dirigenza deve ancora gli stipendi alla rosa). Controllo del 16/11 senza esiti. Partita del 22/11 alle 22:15 italiane (17:15 Bolivia) in lista da fonte del 28/10.",
+      "novita": "Controllo pomeriggio 16/11: 3 ricerche senza risultati utili; nessuna notizia nuova dopo il 4/11. Nessuna notizia nuova dopo il 4/11 (Vision360: la dirigenza deve ancora gli stipendi alla rosa). Controllo del 16/11 senza esiti. Partita del 22/11 alle 22:15 italiane (17:15 Bolivia) in lista da fonte del 28/10.",
       "assenze": {
         "difesa": null,
         "attacco": null
@@ -866,27 +876,9 @@
       "segnalata_dal": "2026-10-29",
       "prima_notizia": "2026-10-27",
       "ultima_notizia": "2026-11-04",
-      "controllato_il": "2026-11-16T09:38:43+01:00",
+      "controllato_il": "2026-11-16T16:05:38+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
-        {
-          "tema": "soldi",
-          "query": "The Strongest Blooming salarios impagos plantel noviembre 2026",
-          "lingua": "es",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null,
-          "giro": "mattino-2"
-        },
-        {
-          "tema": "soldi",
-          "query": "The Strongest sueldos atrasados plantel jugadores 2026",
-          "lingua": "es",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null,
-          "giro": "mattino-2"
-        },
         {
           "tema": "altro",
           "query": "The Strongest Blooming partido noviembre 2026 bajas plantel",
@@ -911,6 +903,33 @@
           "esito": "nulla",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "soldi",
+          "query": "The Strongest stipendios impagos plantel noviembre 2026",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "The Strongest Blooming 22 noviembre 2026 horario lesionados",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "soldi",
+          "query": "The Strongest jugadores sueldos atrasados paro dirigencia",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -932,39 +951,21 @@
       "paese": "Sudafrica",
       "tipo": "spogliatoio",
       "livello": "basso",
-      "stato": "controllo_incompleto",
+      "stato": "attiva",
       "motivo": "Allenatore Fernando da Cruz sotto pressione: eliminati ai rigori dai preliminari di Confederation Cup, 4 partite senza vittoria; il direttore sportivo lo difende e chiede calma.",
       "andamento": "Allenatore in carica; la partita di campionato con l'AmaZulu del 4/11 è stata rinviata per le elezioni locali.",
-      "novita": "Prossima partita: semifinale di Carling Knockout contro il Sundowns (TimesLive 9/11, FARPost 14/11); data e ora non verificate. FARPost 14/11 riporta l'assenza ingiustificata di Faiz Abrahams (non confermata).",
+      "novita": "Controllo pomeriggio 16/11: nessuna notizia nuova su da Cruz dopo il 6/11 (TimesLIVE). Semifinale Carling Knockout contro Sundowns: data e ora ancora non verificate. Prossima partita: semifinale di Carling Knockout contro il Sundowns (TimesLive 9/11, FARPost 14/11); data e ora non verificate. FARPost 14/11 riporta l'assenza ingiustificata di Faiz Abrahams (non confermata).",
       "assenze": {
-        "difesa": "Non confermato (KickOff, data non leggibile): Monyane infortunato, Frosler in dubbio.",
-        "attacco": "Faiz Abrahams assente ingiustificato (FARPost 14/11, non confermato)."
+        "difesa": null,
+        "attacco": null
       },
       "da_verificare": "Data e ora di Sundowns–Chiefs (semifinale Carling Knockout). Controllo del 16/11 senza esiti: stato controllo_incompleto, non tolto né abbassato per silenzio.",
       "segnalata_dal": "2026-10-29",
       "prima_notizia": "2026-10-25",
       "ultima_notizia": "2026-11-06",
-      "controllato_il": "2026-11-16T09:38:43+01:00",
+      "controllato_il": "2026-11-16T16:05:38+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
-        {
-          "tema": "soldi",
-          "query": "Kaizer Chiefs players salaries unpaid squad news November 2026",
-          "lingua": "en",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null,
-          "giro": "mattino-2"
-        },
-        {
-          "tema": "infortuni",
-          "query": "Kaizer Chiefs next match November 2026 injuries squad news",
-          "lingua": "en",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null,
-          "giro": "mattino-2"
-        },
         {
           "tema": "soldi",
           "query": "Kaizer Chiefs salaries players unpaid",
@@ -988,6 +989,33 @@
           "esito": "nulla",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Kaizer Chiefs Carling Knockout semi-final Sundowns date time",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "panchina",
+          "query": "Kaizer Chiefs Fernando da Cruz pressure November 2026",
+          "lingua": "en",
+          "esito": "vecchia",
+          "url": "https://www.timeslive.co.za/sport/soccer/2026-11-06-under-pressure-da-cruz-puts-on-a-brave-face-as-chiefs-eye-knockout-to-take-the-heat-off/",
+          "data_articolo": "2026-11-06",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Kaizer Chiefs injury update Monyane Frosler Abrahams",
+          "lingua": "en",
+          "esito": "vecchia",
+          "url": null,
+          "data_articolo": "2026-08-18",
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1170,36 +1198,18 @@
       "stato": "in_calo",
       "motivo": "I giocatori hanno rifiutato la concentración prima di due partite (29/10 con Fortaleza e 7/11 nel clásico col Deportivo Cali) per stipendi in ritardo: secondo Infobae mancano settembre e ottobre; il gerente Iván Vélez ammette che il club è 'un poco atrasado'. Non è uno sciopero totale: scendono comunque in campo.",
       "andamento": "2° in Liga BetPlay con 36 punti; 0-0 nel clásico col Deportivo Cali (7/11); 2-1 in rimonta a Bogotá nell'andata della semifinale di Copa BetPlay (10/11).",
-      "novita": "Nessuna notizia nuova dopo il 6/11. Andata della semifinale 2-1 per l'América (10/11); ritorno confermato da più fonti: 17/11 20:30 colombiane = 18/11 02:30 italiane.",
+      "novita": "Controllo pomeriggio 16/11: vuelta confermata per martedì 17/11 ore 20:30 colombiane (= 18/11 02:30 Roma) da due fonti. Nessuna notizia su stipendi o accordi dopo il 6/11 (Semana: tre quincenas dovute, secondo Felipe Sierra). Andata della semifinale 2-1 per l'América (10/11); ritorno confermato da più fonti: 17/11 20:30 colombiane = 18/11 02:30 italiane.",
       "assenze": {
         "difesa": null,
-        "attacco": "Tortolero in dubbio dopo l'uscita per infortunio del 10/11 (ClaroSports 10/11, nessun aggiornamento)."
+        "attacco": null
       },
-      "da_verificare": "Data e ora della semifinale di ritorno di Copa (17/11 20:30 colombiane, solo da un estratto) e calendario dei cuadrangulares. Dal 21/11 (oltre 14 giorni dal 6/11) esce senza nuove notizie sugli stipendi.",
+      "da_verificare": "Pagamento dei ritardi salariali e conferma di formazione e infortuni per la vuelta del 17/11.",
       "segnalata_dal": "2026-11-09",
       "prima_notizia": "2026-10-30",
       "ultima_notizia": "2026-11-06",
-      "controllato_il": "2026-11-16T09:38:43+01:00",
+      "controllato_il": "2026-11-16T16:05:38+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
-        {
-          "tema": "soldi",
-          "query": "América de Cali nómina impagos jugadores noviembre 2026",
-          "lingua": "es",
-          "esito": "vecchia",
-          "url": "https://www.publimetro.co/deportes/2026/11/06/acolfutpro-estallo-contra-dimayor-por-crisis-de-tres-equipos-jugadores-de-america-preparan-protesta-para-el-clasico/",
-          "data_articolo": "2026-11-06",
-          "giro": "mattino-2"
-        },
-        {
-          "tema": "soldi",
-          "query": "América de Cali jugadores pagos noviembre 2026 comunicado club",
-          "lingua": "es",
-          "esito": "vecchia",
-          "url": "https://www.semana.com/deportes/articulo/peligra-el-clasico-primera-decision-de-jugadores-de-america-de-cali-ante-deuda-de-sus-salarios/202630/",
-          "data_articolo": "2026-11-06",
-          "giro": "mattino-2"
-        },
         {
           "tema": "altro",
           "query": "América de Cali Internacional de Bogotá previa nómina noviembre 2026",
@@ -1224,6 +1234,33 @@
           "esito": "nulla",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "América de Cali Internacional Bogotá semifinal vuelta Copa BetPlay",
+          "lingua": "es",
+          "esito": "vecchia",
+          "url": "https://www.publimetro.co/deportes/2026/11/03/copa-betplay-habra-doble-partidazo-el-mismo-dia-y-ya-hay-programacion-para-las-semifinales/",
+          "data_articolo": "2026-11-03",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "soldi",
+          "query": "América de Cali jugadores salarios atrasados concentración protesta noviembre 2026",
+          "lingua": "es",
+          "esito": "vecchia",
+          "url": "https://www.publimetro.co/deportes/2026/11/06/acolfutpro-estallo-contra-dimayor-por-crisis-de-tres-equipos-jugadores-de-america-preparan-protesta-para-el-clasico/",
+          "data_articolo": "2026-11-06",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "América de Cali lesionados suspendidos Internacional Bogotá Pascual Guerrero vuelta",
+          "lingua": "es",
+          "esito": "vecchia",
+          "url": "https://www.publimetro.co/deportes/2026/11/04/figura-del-america-de-cali-se-baja-del-partido-a-ultima-hora-el-club-lo-devolvio-a-cali-por-esta-razon/",
+          "data_articolo": "2026-11-04",
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1644,36 +1681,18 @@
       "stato": "controllo_incompleto",
       "motivo": "Il presidente Ignacio Ruglio ha confermato il 10/11 che non si ricandida alle elezioni del 12/12; secondo El Observador il club è in difficoltà su più fronti: il BROU ha respinto una linea di credito da 6 milioni di dollari, bilancio da ridimensionare, rosa da rifondare, campagna elettorale tesa.",
       "andamento": "Rischio di una terza stagione senza titoli (El Observador 10/11).",
-      "novita": "Defensor Sporting–Peñarol (16/11 00:00): risultato non verificato da fonte datata. Prossima partita di Peñarol non trovata.",
+      "novita": "Controllo pomeriggio 16/11: nessuna novità su elezioni (12/12), BROU o bilancio; prossima partita non trovata. Defensor Sporting–Peñarol (16/11 00:00): risultato non verificato da fonte datata. Prossima partita di Peñarol non trovata.",
       "assenze": {
-        "difesa": "Squalificato il portiere titolare Washington Aguerre (gioca Britos) (El Observador 12/11).",
-        "attacco": "Squalificati Remedi (centrocampo) e Angulo (esterno) (El Observador 12/11)."
+        "difesa": null,
+        "attacco": null
       },
       "da_verificare": "Evoluzione di elezioni (12/12), BROU e bilancio; avversaria dell'ultima giornata del Clausura non ancora trovata.",
       "segnalata_dal": "2026-11-11",
       "prima_notizia": "2026-11-10",
       "ultima_notizia": "2026-11-10",
-      "controllato_il": "2026-11-16T09:38:43+01:00",
+      "controllato_il": "2026-11-16T16:05:38+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
-        {
-          "tema": "altro",
-          "query": "Peñarol Defensor Sporting resultado clásico",
-          "lingua": "es",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null,
-          "giro": "mattino-2"
-        },
-        {
-          "tema": "infortuni",
-          "query": "Peñarol Defensor Sporting 16 noviembre 2026 previa bajas",
-          "lingua": "es",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null,
-          "giro": "mattino-2"
-        },
         {
           "tema": "altro",
           "query": "Peñarol Defensor Sporting resultado",
@@ -1697,6 +1716,33 @@
           "esito": "bloccata",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Peñarol próximo partido noviembre 2026 Ruglio elecciones BROU",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "Peñarol Ignacio Ruglio no se presentará reelección presidencia club 2026",
+          "lingua": "es",
+          "esito": "vecchia",
+          "url": "https://www.elobservador.com.uy/futbol/el-historico-y-sorpresivo-paso-que-dio-ignacio-ruglio-cara-las-elecciones-penarol-diciembre-2026-dos-periodos-como-presidente-n6004244",
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "Peñarol fecha próximo partido Torneo Intermedio Clausura noviembre 2026",
+          "lingua": "es",
+          "esito": "vecchia",
+          "url": "https://www.elobservador.com.uy/futbol/el-mapa-penarol-cuatro-meses-las-elecciones-y-los-posibles-candidatos-que-se-preparan-la-contienda-politica-n6051692",
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1719,10 +1765,10 @@
       "paese": "Italia",
       "tipo": "spogliatoio",
       "livello": "basso",
-      "stato": "controllo_incompleto",
+      "stato": "attiva",
       "motivo": "Campioni in carica in difficoltà: squadra mandata in ritiro e panchina di Allegri 'traballante' (5/11), summit De Laurentiis–Allegri–Manna (6/11); il 9/11 il club conferma la fiducia ma annuncia una rivoluzione sul mercato a gennaio.",
       "andamento": "Crisi di risultati prima della sosta (1-1 con la Lazio l'8/11).",
-      "novita": "Il 9/11 De Laurentiis ha confermato la fiducia ad Allegri; il 13/11 Allegri ha recuperato Neres, Spinazzola e Favasuli per Napoli–Torino (siamoilnapoli.it). Il segnale spogliatoio si sta chiudendo. Prossima partita Napoli–Torino sabato 21/11 alle 20:45.",
+      "novita": "Controllo pomeriggio 16/11: nessuna notizia nuova dopo il 9/11 (fiducia confermata ad Allegri). Il 9/11 De Laurentiis ha confermato la fiducia ad Allegri; il 13/11 Allegri ha recuperato Neres, Spinazzola e Favasuli per Napoli–Torino (siamoilnapoli.it). Il segnale spogliatoio si sta chiudendo. Prossima partita Napoli–Torino sabato 21/11 alle 20:45.",
       "assenze": {
         "difesa": "Di Lorenzo e Badiashile ancora dubbi (fonti 10-13/11, dettagli non verificati).",
         "attacco": "Alisson Santos dubbio (non verificato)."
@@ -1731,27 +1777,9 @@
       "segnalata_dal": "2026-11-15",
       "prima_notizia": "2026-11-05",
       "ultima_notizia": "2026-11-09",
-      "controllato_il": "2026-11-16T09:38:43+01:00",
+      "controllato_il": "2026-11-16T16:05:38+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
-        {
-          "tema": "infortuni",
-          "query": "Napoli Torino infortuni squalifiche difesa 21 novembre 2026",
-          "lingua": "it",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null,
-          "giro": "mattino-2"
-        },
-        {
-          "tema": "panchina",
-          "query": "Napoli spogliatoio tensione novembre 2026 infortuni difesa",
-          "lingua": "it",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null,
-          "giro": "mattino-2"
-        },
         {
           "tema": "infortuni",
           "query": "Napoli Torino 21 novembre 2026 indisponibili formazione",
@@ -1776,6 +1804,33 @@
           "esito": "nulla",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "panchina",
+          "query": "Napoli Allegri esonero fiducia novembre 2026",
+          "lingua": "it",
+          "esito": "vecchia",
+          "url": "https://www.fantacalcio.it/news/calcio-italia/09_11_2026/napoli-fiducia-ad-allegri-a-gennaio-sara-rivoluzione-sul-mercato-500461",
+          "data_articolo": "2026-11-09",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Napoli Torino 21 novembre 2026 infortunati formazione",
+          "lingua": "it",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "Napoli spogliatoio tensione Allegri giocatori",
+          "lingua": "it",
+          "esito": "vecchia",
+          "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/07-152431520/napoli_i_vulcani_sono_tre/",
+          "data_articolo": "2026-11-07",
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -2035,7 +2090,7 @@
         "id_flashscore": null
       },
       "favorita_stimata": "incerta",
-      "nota": "orario da confermare: data e ora (martedì 17/11 20:30 colombiane) solo da un estratto di ricerca; Win Sports indica la partita come programmata al Pascual Guerrero senza data. Andata 2-1 per l'América."
+      "nota": "Orario confermato da due fonti: martedì 17/11 ore 20:30 colombiane (18/11 02:30 Roma). Andata 2-1 per l'América."
     },
     {
       "id_partita": "2026-11-19_corinthians_botafogo",
@@ -2239,7 +2294,7 @@
         "id_flashscore": null
       },
       "favorita_stimata": "incerta",
-      "nota": "Domenica 22/11 alle 12:00 inglesi, derby del Lancashire (calendario Sky Sports)."
+      "nota": "orario da confermare: 13:00 italiane secondo Sky Sports; 16:00 italiane secondo Starting11."
     },
     {
       "id_partita": "2026-11-22_sassuolo_genoa",
@@ -3170,11 +3225,11 @@
     }
   ],
   "giro": {
-    "tipo": "mattino",
-    "iniziato": "2026-11-16T09:31:25+01:00",
-    "squadre_controllate": 19,
-    "ricerche_totali": 73,
+    "tipo": "pomeriggio",
+    "iniziato": "2026-11-16T16:05:38+01:00",
+    "squadre_controllate": 6,
+    "ricerche_totali": 67,
     "ricerche_bloccate": 0,
-    "limiti": "Budget non esaurito: 73 WebSearch in questo giro, nessuna bloccata. Copertura parziale: ogni squadra ha 2-5 ricerche di questo giro; il campo ricerche_fatte unisce quelle del giro precedente di stamattina, e così ogni squadra ha almeno tre voci. Stato controllo_incompleto (tutte le ricerche del giro senza esito): Burnley, The Strongest, Kaizer Chiefs, Napoli, Peñarol. Djurgården risulta attivo per la notizia dell'esonero del 10/11 trovata nel controllo. Binario B del lunedì coperto solo in parte: Svezia (3 ricerche, quasi tutte su Djurgården), Norvegia, Svizzera, Germania 2./3. Liga e Polonia con 1 ricerca ciascuna, nessuna notizia datata nelle 72 ore; Danimarca, Finlandia, Islanda, Austria, Repubblica Ceca e Slovacchia non coperte e in da_recuperare. Binari A parziali: A1 Inghilterra (5 club), A2 Italia (Napoli, Sassuolo), A3 Spagna (solo ricerca generale), A4 Germania/Francia (una ricerca per paese, non coperto), A5 Portogallo (1), A6 Turchia (1), A7 Altri Europa non eseguito, A8 Brasile/Argentina (Corinthians, Vitória, Independiente), A9 Messico (Monterrey), A10 (Al-Ahli, Kaizer, Paju). Nessuna nuova squadra: nessuna notizia datata entro 72 ore trovata in questo giro. Correzioni al file del giro precedente: Lacerda è al Vitória dal 10/11 (il file diceva non ancora annunciato); l'esonero di Sage al Palace è riportato come imminente, non ufficiale; l'esonero di Cahuzac è del 9/11 e non del 10/11."
+    "limiti": "Pomeriggio: 67 WebSearch in tutto (66 dagli 8 sottoagenti + 1 mia sul Defensor–Peñarol), nessuna bloccata, budget non esaurito. Ricontrollate 6 squadre (America de Cali, Peñarol, Burnley, The Strongest, Kaizer Chiefs, Napoli): nessuna notizia nuova entro 72 ore. Nessuna squadra nuova inserita: la sola candidata (SC Verl, 3. Liga, notizia del 10/11, una fonte) è stata scartata per fonte unica e data ricavata dall'URL. Nessuna squadra tolta. Gruppi non coperti secondo la regola di copertura (vedi fonti.json, da_recuperare): Nord Europa, Europa centrale, Asia e Oceania, Africa e Medio Oriente, Americhe, Europa di stasera e domani; lista club non eseguita. Risultato Defensor Sporting–Peñarol (15/11) non trovato: resta da_verificare."
   }
 }
