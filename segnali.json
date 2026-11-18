@@ -1,6 +1,6 @@
 {
   "versione": 3,
-  "aggiornato": "2026-11-18T09:18:13+01:00",
+  "aggiornato": "2026-11-18T16:08:24+01:00",
   "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
   "esiti_precedenti": [
     {
@@ -533,6 +533,15 @@
           "esito": "vecchia",
           "url": "https://insidecroydon.com/2026/01/16/guehi-signs-for-city-as-glasner-confirms-his-exit-from-palace/",
           "data_articolo": "2026-01-16"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Coventry Crystal Palace team news injuries 21 November 2026",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -593,6 +602,24 @@
           "esito": "nulla",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "infortuni",
+          "query": "Burnley Blackburn team news injuries 22 November 2026",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "Burnley Blackburn 2026-27 Championship fixture kick-off 13:00 Sky Sports",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -629,7 +656,7 @@
       "segnalata_dal": "2026-10-29",
       "prima_notizia": "2026-10-27",
       "ultima_notizia": "2026-11-04",
-      "controllato_il": "2026-11-18T09:18:13+01:00",
+      "controllato_il": "2026-11-18T16:08:24+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -655,6 +682,33 @@
           "esito": "nulla",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "soldi",
+          "query": "The Strongest sueldos atrasados entrenamientos suspendidos",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": "https://eju.tv/?p=484453",
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "The Strongest Blooming Hernando Siles horario 22 noviembre 2026",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": "https://starting11.com/fixtures/the-strongest-vs-blooming",
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "The Strongest plantel lesionados formación noviembre 2026",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -684,11 +738,11 @@
         "difesa": "Edu e Lucas Silva in dubbio per il 19/11 (Bahia Notícias, 14/11, da confermare)",
         "attacco": null
       },
-      "da_verificare": "Lista di Vitória–Red Bull Bragantino (19/11) da confermare: Edu e Lucas Silva in dubbio. Debutto di Lacerda: primo test del nuovo allenatore.",
+      "da_verificare": "Orario in conflitto: 19/11 alle 19:30 di Brasília (23:30 italiane) secondo Bahia Notícias; 365Scores indica 18/11 alle 17:00 al Barradão. Nuovo tecnico Rafael Lacerda, debutto in questa partita. Il dato sull'esonero del predecessore (2/11) non è verificato da un articolo datato.",
       "segnalata_dal": "2026-11-05",
       "prima_notizia": "2026-11-02",
       "ultima_notizia": "2026-11-10",
-      "controllato_il": "2026-11-18T09:18:13+01:00",
+      "controllato_il": "2026-11-18T16:08:24+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -714,6 +768,33 @@
           "esito": "nulla",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Vitória Red Bull Bragantino Barradão horário Rafael Lacerda",
+          "lingua": "pt",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Vitória desfalques lesionados provável escalação Red Bull Bragantino Barradão",
+          "lingua": "pt",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "panchina",
+          "query": "Vitória Rafael Lacerda estreia elenco vestiário novembro 2026",
+          "lingua": "pt",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -748,7 +829,7 @@
       "segnalata_dal": "2026-11-09",
       "prima_notizia": "2026-11-02",
       "ultima_notizia": "2026-11-10",
-      "controllato_il": "2026-11-18T09:18:13+01:00",
+      "controllato_il": "2026-11-18T16:08:24+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -774,6 +855,33 @@
           "esito": "nulla",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Argentinos Juniors Independiente Torneo Clausura 2026 fecha horario",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "soldi",
+          "query": "Independiente club deudas concurso sociedad anónima cesión jugadores noviembre 2026",
+          "lingua": "es",
+          "esito": "vecchia",
+          "url": "https://www.sitioandino.com.ar/n/310692-a-pesar-de-las-deudas-en-independiente-entrenaron-igual",
+          "data_articolo": "2026-07-16",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Independiente Avellaneda lesionados formación Argentinos Juniors Olé",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -806,7 +914,7 @@
       "segnalata_dal": "2026-11-09",
       "prima_notizia": "2026-10-30",
       "ultima_notizia": "2026-11-06",
-      "controllato_il": "2026-11-18T09:18:13+01:00",
+      "controllato_il": "2026-11-18T16:08:24+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -832,6 +940,33 @@
           "esito": "vecchia",
           "url": "https://www.publimetro.co/deportes/2026/09/22/america-contra-las-cuerdas-jugadores-habrian-amenazado-con-no-concentrarse-si-no-les-pagan-el-salario-de-agosto/",
           "data_articolo": "2026-09-22"
+        },
+        {
+          "tema": "soldi",
+          "query": "América de Cali salarios atrasados noviembre 2026",
+          "lingua": "es",
+          "esito": "vecchia",
+          "url": "https://www.publimetro.co/deportes/2026/11/06/acolfutpro-estallo-contra-dimayor-por-crisis-de-tres-equipos-jugadores-de-america-preparan-protesta-para-el-clasico/",
+          "data_articolo": "2026-11-06",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "América Pascual Guerrero aplazado noviembre 2026",
+          "lingua": "es",
+          "esito": "vecchia",
+          "url": "https://www.publimetro.co/deportes/2026/11/08/asi-quedo-el-pascual-guerrero-y-el-barrio-san-fernando-tras-fuertes-lluvias-que-aplazaron-el-america-vs-deportivo-cali/",
+          "data_articolo": "2026-11-08",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "América de Cali Internacional de Bogotá resultado 17 noviembre 2026",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -860,11 +995,11 @@
         "difesa": "Ramalho squalificato (fonte 7/11, da confermare per il 19/11)",
         "attacco": "Yuri Alberto squalificato (2 partite); Garro e Lingard infortunati, rientro incerto (fonte 7/11)"
       },
-      "da_verificare": "Assenze per Corinthians–Botafogo (19/11) da confermare con una fonte datata.",
+      "da_verificare": "Orario di Corinthians–Botafogo: 18/11 alle 21:30 di Brasília (01:30 italiane del 19/11) secondo Flashscore e Itatiaia; 365Scores indica 17:00 di Brasília. Nessun dato su infortuni o formazione.",
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-11-06",
       "ultima_notizia": "2026-11-13",
-      "controllato_il": "2026-11-18T09:18:13+01:00",
+      "controllato_il": "2026-11-18T16:08:24+01:00",
       "problema_in_corso": true,
       "ricerche_fatte": [
         {
@@ -890,6 +1025,33 @@
           "esito": "vecchia",
           "url": "https://www.oliberal.com/esportes/vai-cair-corinthians-atrasa-salarios-e-abre-brecha-para-rescisoes-1.1192248",
           "data_articolo": "2026-11-09"
+        },
+        {
+          "tema": "altro",
+          "query": "Corinthians Botafogo Brasileirão 35ª rodada horário",
+          "lingua": "pt",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "soldi",
+          "query": "Corinthians salários atrasados jogadores treino novembro 2026",
+          "lingua": "pt",
+          "esito": "vecchia",
+          "url": "https://www.oliberal.com/esportes/corinthians-paga-comissao-tecnica-e-time-feminino-jogadores-ainda-tem-salarios-atrasados-1.1193578",
+          "data_articolo": "2026-11-12",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Corinthians desfalques lesionados escalação Botafogo Neo Química Arena",
+          "lingua": "pt",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -899,7 +1061,8 @@
         "https://www.oliberal.com/esportes/vai-cair-corinthians-atrasa-salarios-e-abre-brecha-para-rescisoes-1.1192248",
         "https://abcdoabc.com.br/corinthians-atrasa-salarios-tambem-da-comissao/",
         "https://abcdjornal.com.br/esporte/noticia/2026/11/09/corinthians-atrasa-salario-de-comissao-tecnica/",
-        "https://www.lance.com.br/corinthians/corinthians-atrasa-salarios-de-jogadores-e-comissao-tecnica-de-seedorf.html"
+        "https://www.lance.com.br/corinthians/corinthians-atrasa-salarios-de-jogadores-e-comissao-tecnica-de-seedorf.html",
+        "https://www.oliberal.com/esportes/corinthians-paga-comissao-tecnica-e-time-feminino-jogadores-ainda-tem-salarios-atrasados-1.1193578"
       ]
     },
     {
@@ -951,6 +1114,24 @@
           "esito": "vecchia",
           "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/newcastle-squad-needs-adjustments-in-transfer-window-says-jaissle-2026-08-19",
           "data_articolo": "2026-08-19"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Newcastle injury news Arsenal Eddie Howe press conference 2026-27",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Newcastle team news injuries kick-off time November 2026",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -983,7 +1164,7 @@
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-11-07",
       "ultima_notizia": "2026-11-13",
-      "controllato_il": "2026-11-18T09:18:13+01:00",
+      "controllato_il": "2026-11-18T16:08:24+01:00",
       "problema_in_corso": true,
       "ricerche_fatte": [
         {
@@ -1009,6 +1190,33 @@
           "esito": "vecchia",
           "url": "https://www.publimetro.com.mx/deportes/2026/11/04/matias-almeyda-explota-contra-rayados-y-lanza-dura-advertencia-no-puedo-confiar/",
           "data_articolo": "2026-11-04"
+        },
+        {
+          "tema": "altro",
+          "query": "Pumas UNAM vs CF Monterrey Liga MX Apertura 2026 jornada 17 horario alineación",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "panchina",
+          "query": "Monterrey vestidor problema entrenador noviembre 2026",
+          "lingua": "es",
+          "esito": "vecchia",
+          "url": "https://www.publimetro.com.mx/deportes/2026/11/04/matias-almeyda-explota-contra-rayados-y-lanza-dura-advertencia-no-puedo-confiar/",
+          "data_articolo": "2026-11-04",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Rayados Monterrey lesionados baja Pumas jornada 17 Almeyda",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1045,7 +1253,7 @@
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-10-20",
       "ultima_notizia": "2026-11-13",
-      "controllato_il": "2026-11-18T09:18:13+01:00",
+      "controllato_il": "2026-11-18T16:08:24+01:00",
       "problema_in_corso": true,
       "ricerche_fatte": [
         {
@@ -1071,6 +1279,33 @@
           "esito": "vecchia",
           "url": "https://www.koreadaily.com/article/20261023223325871",
           "data_articolo": "2026-10-23"
+        },
+        {
+          "tema": "soldi",
+          "query": "임금 체불 파주",
+          "lingua": "ko",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "파주 프론티어 일정",
+          "lingua": "ko",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "soldi",
+          "query": "K리그 임금 체불 훈련 불참 선수 월급 밀려",
+          "lingua": "ko",
+          "esito": "vecchia",
+          "url": "https://www.koreadaily.com/article/20261023223325871",
+          "data_articolo": "2026-10-23",
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1132,6 +1367,24 @@
           "esito": "vecchia",
           "url": "https://www.elobservador.com.uy/futbol/el-historico-y-sorpresivo-paso-que-dio-ignacio-ruglio-cara-las-elecciones-penarol-diciembre-2026-dos-periodos-como-presidente-n6004244",
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Defensor Sporting Peñarol resultado 15 noviembre 2026",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "Peñarol Defensor Sporting Torneo Clausura 2026 resultado goles",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1157,10 +1410,10 @@
       "stato": "in_calo",
       "motivo": "Campioni in carica in difficoltà: squadra mandata in ritiro e panchina di Allegri 'traballante' (5/11), summit De Laurentiis–Allegri–Manna (6/11); il 9/11 il club conferma la fiducia ma annuncia una rivoluzione sul mercato a gennaio.",
       "andamento": "Crisi di risultati prima della sosta (1-1 con la Lazio l'8/11).",
-      "novita": "Controllo pomeriggio 16/11: nessuna notizia nuova dopo il 9/11 (fiducia confermata ad Allegri). Il 9/11 De Laurentiis ha confermato la fiducia ad Allegri; il 13/11 Allegri ha recuperato Neres, Spinazzola e Favasuli per Napoli–Torino (siamoilnapoli.it). Il segnale spogliatoio si sta chiudendo. Prossima partita Napoli–Torino sabato 21/11 alle 20:45.",
+      "novita": "Fantacalcio (16/11): Marianucci rientra dalla squalifica e Allegri conta su tre rientri contro il Torino (nomi non verificati). Orario di Napoli–Torino non confermato dalla lega.",
       "assenze": {
-        "difesa": "Di Lorenzo e Alisson Santos fuori fino a dicembre (fonte 13/11)",
-        "attacco": "Neres fuori fino a dicembre inoltrato (fonte 13/11)"
+        "difesa": null,
+        "attacco": null
       },
       "da_verificare": "Orario di Napoli–Torino non confermato. Lista infortunati aggiornata al 13/11.",
       "segnalata_dal": "2026-11-15",
@@ -1192,6 +1445,24 @@
           "esito": "vecchia",
           "url": "https://www.fantacalcio.it/news/calcio-italia/26_10_2026/napoli-allegri-a-rischio-de-laurentiis-ha-le-idee-chiare-499767",
           "data_articolo": "2026-10-26"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Napoli Torino formazione infortuni squalifiche 21 novembre 2026",
+          "lingua": "it",
+          "esito": "nuova",
+          "url": "https://www.fantacalcio.it/news/calcio-italia/16_11_2026/napoli-tris-di-rientri-per-allegri-ci-saranno-contro-il-torino-500708",
+          "data_articolo": "2026-11-16",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "Napoli Torino orario 21 novembre 2026 ore 20:45 Allegri conferenza stampa infermeria",
+          "lingua": "it",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1251,6 +1522,33 @@
           "esito": "bloccata",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Sirius Djurgården Allsvenskan sista omgången tid",
+          "lingua": "sv",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "panchina",
+          "query": "Djurgården tränare november 2026",
+          "lingua": "sv",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Djurgården skada omklädningsrum Sirius",
+          "lingua": "sv",
+          "esito": "nulla",
+          "url": "https://fotbolldirekt.se/allsvenskan/jacob-widell-zetterstrom-skadad-missar-flera-matcher/",
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1283,7 +1581,7 @@
       "segnalata_dal": "2026-11-15",
       "prima_notizia": "2026-11-05",
       "ultima_notizia": "2026-11-11",
-      "controllato_il": "2026-11-18T09:18:13+01:00",
+      "controllato_il": "2026-11-18T16:08:24+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -1309,6 +1607,33 @@
           "esito": "bloccata",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Al-Ahli Al-Nassr postponed match date time November 2026 Saudi Pro League",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-and-al-nassr-face-major-fixture-congestion-as-new-al-ahli-date-could-decide-saudi-pro-league-title-race/",
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Al-Ahli Saudi injuries squad team news November 2026",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": "https://africasoccer.com/?p=655829",
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "panchina",
+          "query": "Al-Ahli coach dressing room crisis November 2026",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": "https://africasoccer.com/?p=654840",
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1334,7 +1659,7 @@
         "id_flashscore": null
       },
       "favorita_stimata": "incerta",
-      "nota": "Orario da confermare: la fonte 365Scores indica 18/11 ore 17:00 di Brasília (21:00 italiane)."
+      "nota": "Orario da confermare: 18/11 alle 21:30 di Brasília (01:30 italiane del 19/11) secondo Flashscore e Itatiaia; 365Scores indica 17:00 di Brasília."
     },
     {
       "id_partita": "2026-11-19_vitoria_red-bull-bragantino",
@@ -1351,7 +1676,7 @@
         "id_flashscore": null
       },
       "favorita_stimata": "incerta",
-      "nota": "Giovedì 19/11 alle 19:30 di Brasília, Barradão (Bahia Notícias 14/11, Máquina do Esporte 11/11); 365Scores indica il 18/11: orario da confermare. Esordio di Rafael Lacerda."
+      "nota": "Orario da confermare: 19/11 alle 19:30 di Brasília (23:30 italiane) secondo Bahia Notícias; 365Scores indica 18/11 alle 17:00 al Barradão."
     },
     {
       "id_partita": "2026-11-20_al-ahli-jeddah_al-nassr",
@@ -1368,7 +1693,7 @@
         "id_flashscore": null
       },
       "favorita_stimata": "incerta",
-      "nota": "orario da confermare: data 20/11 da africasoccer.com (11/11), ora segnaposto."
+      "nota": "Orario da confermare: data 20/11 riportata da africasoccer (report senza data), ma altre fonti discordano (una indica 06/03/2027); ora segnaposto."
     },
     {
       "id_partita": "2026-11-21_coventry-city_crystal-palace",
@@ -1453,7 +1778,7 @@
         "id_flashscore": null
       },
       "favorita_stimata": "incerta",
-      "nota": "Sabato 21/11 alle 19:00 di Città del Messico, Estadio Olímpico Universitario (Nación Fútbol 14/11). Al Monterrey basta vincere per la liguilla."
+      "nota": "Sabato 21/11 alle 19:00 di Città del Messico (02:00 italiane del 22/11) secondo Posta; futboltotal indica 20:00: da verificare sul sito Liga MX. Al Monterrey basta vincere per la liguilla."
     },
     {
       "id_partita": "2026-11-22_paju-frontier_cheonan-city",
@@ -1470,7 +1795,7 @@
         "id_flashscore": null
       },
       "favorita_stimata": "incerta",
-      "nota": "orario da confermare: 16:30 coreane (08:30 italiane) da una sola fonte; prima era 14:00 come segnaposto."
+      "nota": "Orario da confermare: 16:30 coreane (08:30 italiane) da una sola fonte, non confermato dal sito K League."
     },
     {
       "id_partita": "2026-11-22_burnley_blackburn-rovers",
@@ -1487,7 +1812,7 @@
         "id_flashscore": null
       },
       "favorita_stimata": "incerta",
-      "nota": "orario da confermare: 13:00 italiane secondo Sky Sports; 16:00 italiane secondo Starting11."
+      "nota": "Orario da confermare: 13:00 italiane secondo Sky Sports, coerente con Sport Flash (12:00 locali); Starting11 indica 16:00 italiane."
     },
     {
       "id_partita": "2026-11-22_sirius_djurgarden",
@@ -2348,11 +2673,11 @@
     }
   ],
   "giro": {
-    "tipo": "mattino",
-    "iniziato": "2026-11-18T09:08:29+01:00",
-    "squadre_controllate": 16,
-    "ricerche_totali": 151,
-    "ricerche_bloccate": 12,
-    "limiti": "Mattina 18/11: 16 squadre ricontrollate (14 tenute, 2 rimosse: Nottingham Forest, Lens). Esiti: 1 ricerca su America de Cali–Internacional (risultato non trovato, da_verificare); Defensor Sporting–Peñarol (15/11) ancora da_verificare. Gruppi A1–A10, B1–B3 e recupero da_recuperare eseguiti (stima 151 WebSearch su 200, tetto non raggiunto). 12 ricerche bloccate per 'too_many_requests' (limite di frequenza del motore): Djurgården (1), Al-Ahli (1), A2 (1), A3 (2), A5 (3), A7 (2), A9 (1), A10 (1). Nessuna notizia 'nuova' (dal 15/11) per le squadre in lista né candidate dai gruppi: nessun ultima_notizia spostato in avanti. Al-Ahli Jeddah e The Strongest in controllo_incompleto (ricerche bloccate o senza esito). Paesi coperti oggi: Brasile e Argentina. Parziali: Colombia, Ecuador, Perù, Bolivia, Cile, Venezuela, Uruguay, Paraguay. Da_recuperare (1 ricerca ciascuno, non coperti): Croazia, Serbia, Slovenia, Bosnia, Bulgaria, Romania, Ungheria, Ucraina, Russia, Kazakistan, Cipro, Israele. Non eseguiti: Messico/USA/Canada e Centro America (giovedì, non coperti oggi), Giappone/Corea/Cina (sabato) e il calendario non di mercoledì."
+    "tipo": "pomeriggio",
+    "iniziato": "2026-11-18T16:01:56+01:00",
+    "squadre_controllate": 8,
+    "ricerche_totali": 138,
+    "ricerche_bloccate": 0,
+    "limiti": "Pomeriggio 18/11: ricontrollate 8 squadre (Corinthians, Vitória, The Strongest, Al-Ahli, Monterrey, Paju Frontier, Independiente, América de Cali) con almeno 3 ricerche; registrate ricerche su Napoli, Newcastle, Crystal Palace, Burnley, Peñarol e Djurgården senza controllo completo. Esiti: Defensor Sporting–Peñarol (15/11) e América de Cali–Internacional (17/11, ritorno semifinale Copa BetPlay) ancora senza risultato in tutte le fonti: restano da_verificare. Nessuna notizia 'nuova' con data entro 72 ore che confermi un problema: nessun ultima_notizia spostato. Gruppi eseguiti: da_recuperare (parziale), Asia e Oceania (3 agenti), Africa e Medio Oriente (3 agenti), Americhe (4 agenti), Europa (3 agenti), lista club (2 agenti). Nessun gruppo mancato per budget; nessuna ricerca bloccata. Ricerche totali stimate: 138 su 180 previste (tetto 200). Paesi coperti oggi (pomeriggio): Argentina, Colombia, Corea del Sud, Italia, Inghilterra, Brasile. Non coperti (una ricerca o nessun risultato utile): Bolivia, Cile, Venezuela, Perù, Ecuador, Paraguay, Uruguay, Croazia, Serbia, Romania, Ungheria, Ucraina, Israele, Giappone, Cina, Hong Kong, Australia, Nuova Zelanda, India, Thailandia, Indonesia, Malesia, Vietnam, Africa subsahariana, Nord Africa, Penisola Arabica, Iran, Iraq, Giordania, Spagna, Germania, Portogallo, Olanda, Belgio, Turchia, Grecia, Nordici. Lens resta rimosso: la nomina di Digard (13/11) era già nota al mattino e il nuovo tecnico non ha ancora vinto. Orari non confermati: Corinthians–Botafogo (fonti discordanti), Vitória–Bragantino, Napoli–Torino, Newcastle–Arsenal, Coventry–Palace, Burnley–Blackburn, Paju–Cheonan City, Al-Ahli–Al-Nassr, Sirius–Djurgården."
   }
 }
