@@ -1,6 +1,6 @@
 {
   "versione": 3,
-  "aggiornato": "2026-11-22T09:12:56+01:00",
+  "aggiornato": "2026-11-22T16:06:17+01:00",
   "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
   "esiti_precedenti": [
     {
@@ -353,6 +353,32 @@
       "gol_avversaria": null,
       "esito_segnale": "da_verificare",
       "commento": "Risultato non trovato nelle ricerche del 22/11."
+    },
+    {
+      "id_partita": "2026-11-22_paju-frontier_cheonan-city",
+      "data": "2026-11-22T08:30:00+01:00",
+      "partita": "Paju Frontier – Cheonan City",
+      "squadra_segnalata": "Paju Frontier",
+      "tipo": "stipendi",
+      "avversaria": "Cheonan City",
+      "era_favorita": null,
+      "risultato": null,
+      "gol_avversaria": null,
+      "esito_segnale": "da_verificare",
+      "commento": "Risultato non trovato nelle ricerche del 22/11: da verificare."
+    },
+    {
+      "id_partita": "2026-11-22_burnley_blackburn-rovers",
+      "data": "2026-11-22T13:00:00+01:00",
+      "partita": "Burnley – Blackburn Rovers",
+      "squadra_segnalata": "Burnley",
+      "tipo": "spogliatoio",
+      "avversaria": "Blackburn Rovers",
+      "era_favorita": null,
+      "risultato": null,
+      "gol_avversaria": null,
+      "esito_segnale": "da_verificare",
+      "commento": "Risultato non trovato nelle ricerche del 22/11: da verificare."
     }
   ],
   "bilancio": {
@@ -361,7 +387,7 @@
     "segnalata_vince": 28,
     "gol_avversaria_si": 54,
     "gol_avversaria_valutati": 73,
-    "osservazione": "Aggiornato al giro del pomeriggio 21/11: 74 partite valutate, avversaria non ha perso in 46. Nuovo esito smentito: Corinthians 4-0 Botafogo (18/11, più fonti). Restano da verificare Vitória–Red Bull Bragantino (19/11), Defensor Sporting–Peñarol (15/11), Al-Ahli–Al-Nassr (20/11) e Atlético Bucaramanga–América de Cali (21/11): nessun risultato datato trovato. Nessuna squadra nuova: i candidati trovati nei gruppi non superano i criteri di freschezza o non hanno partite nei 7 giorni.",
+    "osservazione": "Aggiornato al giro del pomeriggio 22/11: nessun risultato datato trovato per Burnley–Blackburn, Paju Frontier–Cheonan City, Pumas–Monterrey, Newcastle–Arsenal, Napoli–Torino, Internacional–Vitória, Argentinos–Independiente, Atlético Bucaramanga–América de Cali, Vitória–Red Bull Bragantino, Defensor Sporting–Peñarol e Al-Ahli–Al-Nassr: restano da verificare e non entrano nel bilancio. Nuova squadra: Zamalek (stipendi arretrati, partita 23/11).",
     "per_tipo": {
       "non_indicato": {
         "valutati": 17,
@@ -582,11 +608,11 @@
         "difesa": null,
         "attacco": "Abaldo in dubbio (scelta tecnica secondo il club)."
       },
-      "da_verificare": "Argentinos Juniors–Independiente (21/11) giocata: risultato non trovato. Prossima partita non trovata. Tutte le ricerche senza risultato: controllo incompleto.",
+      "da_verificare": "Prossima partita non trovata (calendario Vavel obsoleto). Argentinos Juniors–Independiente (21/11): risultato non trovato. Inibizione FIFA: ultima notizia datata 8/11, nessuna conferma nel pomeriggio; importo discordante tra fonti.",
       "segnalata_dal": "2026-11-09",
       "prima_notizia": "2026-11-02",
       "ultima_notizia": "2026-11-10",
-      "controllato_il": "2026-11-22T09:12:56+01:00",
+      "controllato_il": "2026-11-22T16:06:17+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -615,6 +641,33 @@
           "url": null,
           "data_articolo": null,
           "giro": "mattino"
+        },
+        {
+          "tema": "soldi",
+          "query": "Independiente FIFA inhibición Bragantino",
+          "lingua": "spagnolo",
+          "esito": "vecchia",
+          "url": "https://locoxelrojo.com/independiente/2026/11/08/vendio-a-lomonaco-y-no-pago-independiente-quedo-inhibido/",
+          "data_articolo": "2026-11-08",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "Independiente próximo partido fecha noviembre 2026",
+          "lingua": "spagnolo",
+          "esito": "nulla",
+          "url": "https://www.vavel.com/ar/data/independiente/calendario/",
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "soldi",
+          "query": "Independiente sueldos plantel deuda",
+          "lingua": "spagnolo",
+          "esito": "vecchia",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -906,7 +959,7 @@
       "segnalata_dal": "2026-11-11",
       "prima_notizia": "2026-11-10",
       "ultima_notizia": "2026-11-10",
-      "controllato_il": "2026-11-22T09:12:56+01:00",
+      "controllato_il": "2026-11-22T16:06:17+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -935,6 +988,33 @@
           "url": null,
           "data_articolo": null,
           "giro": "mattino"
+        },
+        {
+          "tema": "altro",
+          "query": "Peñarol próximo partido",
+          "lingua": "spagnolo",
+          "esito": "vecchia",
+          "url": "https://www.365scores.com/es-mx/penarol/team/uruguay-7766",
+          "data_articolo": "2026-08-16",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "soldi",
+          "query": "Peñarol sueldos atrasados",
+          "lingua": "spagnolo",
+          "esito": "vecchia",
+          "url": "https://www.diariodecuyo.com.ar/noticias/penarol-a-dos-meses-del-descenso-la-deuda-con-el-plantel-crece-y-supera-los-cinco-meses-1589688.html",
+          "data_articolo": "2023-12-18",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "Peñarol BROU Ruglio elecciones",
+          "lingua": "spagnolo",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1024,7 +1104,7 @@
       "paese": "Svezia",
       "tipo": "spogliatoio",
       "livello": "basso",
-      "stato": "in_calo",
+      "stato": "controllo_incompleto",
       "motivo": "Jani Honkavaara esonerato il 10/11 con gli assistenti a due turni dalla fine dopo cinque partite negative; il ds Hahn parla di squadra senza energia né gioia. Guidano ad interim Mehmeti e Lőrincz.",
       "andamento": "Cinque partite negative prima dell'esonero.",
       "novita": "Honkavaara esonerato il 10/11; guidano ad interim Mehmeti e Lőrincz. Nessun nuovo allenatore confermato da fonti datate: un titolo SVT senza data non è stato usato.",
@@ -1032,11 +1112,11 @@
         "difesa": null,
         "attacco": null
       },
-      "da_verificare": "Sirius–Djurgården (22/11): data da anteprima; orario da confermare (14:00 o 17:00 nelle fonti). Nuovo allenatore non confermato.",
+      "da_verificare": "Sirius–Djurgården (22/11, ore 15:00 in lista): formazione, assenze e nuovo allenatore non verificati (ricerche bloccate). Honkavaara esonerato il 10/11 (notizia del mattino).",
       "segnalata_dal": "2026-11-15",
       "prima_notizia": "2026-11-10",
       "ultima_notizia": "2026-11-11",
-      "controllato_il": "2026-11-22T09:12:56+01:00",
+      "controllato_il": "2026-11-22T16:06:17+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -1065,6 +1145,33 @@
           "url": "https://news.bet365.com/sv-sv/article/vem-tar-over-som-tranare-for-djurgarden-efter-att-jani-honkavaara-sparkats/2026111012234045489",
           "data_articolo": "2026-11-10",
           "giro": "mattino"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Djurgården Sirius startelva",
+          "lingua": "svedese",
+          "esito": "bloccata",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "panchina",
+          "query": "Djurgården ny tränare",
+          "lingua": "svedese",
+          "esito": "bloccata",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "soldi",
+          "query": "Djurgården löner spelare",
+          "lingua": "svedese",
+          "esito": "vecchia",
+          "url": "https://news.bet365.com/sv-sv/article/kontrakt-loner-marknadsvarde-alla-spelare-i-djurgarden-fotboll-trupp/2025073114535224926",
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1207,16 +1314,16 @@
       "stato": "attiva",
       "motivo": "Michael Carrick esonerato il 12/11/2026 con la squadra in zona retrocessione; il successore Mauricio Pochettino risulta nominato (notizie del 18–19/11 riportate dai media, non da comunicato ufficiale letto).",
       "andamento": "Cambio di allenatore a metà novembre con la squadra in zona retrocessione.",
-      "novita": "Pochettino debutta ad Anfield contro il Liverpool domenica 22/11; orario non confermato.",
+      "novita": "Pochettino ufficiale (annuncio del club 13/11, in carica dal 18/11, contratto fino al 2029): primo match ad Anfield contro il Liverpool domenica 22/11. Formazione e assenze non trovate.",
       "assenze": {
         "difesa": null,
         "attacco": null
       },
-      "da_verificare": "Orario di Liverpool–Manchester United (22/11) non trovato: partita non inserita in partite. Assenze non verificate con notizie datate.",
+      "da_verificare": "Orario di Liverpool–Manchester United (22/11) non trovato: partita non inserita in partite. Assenze non verificate.",
       "segnalata_dal": "2026-11-22",
       "prima_notizia": "2026-11-12",
       "ultima_notizia": "2026-11-18",
-      "controllato_il": "2026-11-22T09:12:56+01:00",
+      "controllato_il": "2026-11-22T16:06:17+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -1245,6 +1352,33 @@
           "url": "https://readmanutd.com/2026/11/18/mauricio-pochettino-manchester-united-liverpool-first-match/",
           "data_articolo": "2026-11-18",
           "giro": "mattino"
+        },
+        {
+          "tema": "panchina",
+          "query": "Manchester United Pochettino official appointment",
+          "lingua": "inglese",
+          "esito": "vecchia",
+          "url": "https://www.beinsports.com/en-us/soccer/premier-league/articles/man-utd-confirm-pochettino-as-new-head-coach-2026-11-13",
+          "data_articolo": "2026-11-13",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "Liverpool vs Manchester United kick-off time Sunday Anfield",
+          "lingua": "inglese",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "infortuni",
+          "query": "Liverpool Manchester United team news Pochettino",
+          "lingua": "inglese",
+          "esito": "bloccata",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1252,43 +1386,47 @@
         "https://www.timeslive.co.za/sport/soccer/2026-11-12-manchester-united-sack-carrick-pochettino-waits-in-the-wings/",
         "https://aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager"
       ]
+    },
+    {
+      "id": "zamalek",
+      "squadra": "Zamalek",
+      "paese": "Egitto",
+      "campionato": "Egyptian Premier League",
+      "tipo": "stipendi",
+      "livello": "alto",
+      "stato": "attiva",
+      "problema_in_corso": true,
+      "motivo": "Stipendi arretrati non pagati da circa quattro mesi a giocatori, staff tecnico e amministrativo; il club ha avviato il pagamento di parte dei debiti.",
+      "andamento": "Pagamenti parziali ai giocatori il 19/11 prima della trasferta in Algeria; saldo residuo non noto.",
+      "novita": "19/11: pagata una parte degli arretrati ai giocatori (somma non specificata). 18/11: avviato il saldo dovuto all'allenatore Moataz Gamal.",
+      "assenze": {
+        "difesa": null,
+        "attacco": null
+      },
+      "da_verificare": "Orario 23/11 da confermare (fonte: 17:00 ora del Cairo). Diffide di due giocatori stranieri per stipendi non pagati: fonte senza data. Date ricavate dai riassunti di ricerca, non verificate sulla pagina.",
+      "fonti": [
+        "https://www.ysscores.com/en/news/14100088/zamalek-pay-a-portion-of-players-dues-ahead-of-algeria-trip",
+        "https://www.ysscores.com/en/news/14098920/zamalek-move-to-pay-overdue-dues-to-moataz-gamal"
+      ],
+      "prima_notizia": "2026-11-13",
+      "ultima_notizia": "2026-11-19",
+      "controllato_il": "2026-11-22T16:06:17+01:00",
+      "id_flashscore": null,
+      "nome_flashscore": null,
+      "ricerche_fatte": [
+        {
+          "tema": "soldi",
+          "query": "Zamalek unpaid salaries players November 2026",
+          "lingua": "inglese",
+          "esito": "nuova",
+          "url": "https://www.ysscores.com/en/news/14100088/zamalek-pay-a-portion-of-players-dues-ahead-of-algeria-trip",
+          "data_articolo": "2026-11-19",
+          "giro": "pomeriggio"
+        }
+      ]
     }
   ],
   "partite": [
-    {
-      "id_partita": "2026-11-22_paju-frontier_cheonan-city",
-      "data": "2026-11-22T08:30:00+01:00",
-      "data_utc": "2026-11-22T07:30:00Z",
-      "casa": "Paju Frontier",
-      "trasferta": "Cheonan City",
-      "competizione": "K League 2 (penultima giornata)",
-      "squadra_segnalata": "paju-frontier",
-      "segnalata_in_casa": true,
-      "avversaria": {
-        "nome": "Cheonan City",
-        "nome_flashscore": null,
-        "id_flashscore": null
-      },
-      "favorita_stimata": "incerta",
-      "nota": "Orario da confermare sul sito K League"
-    },
-    {
-      "id_partita": "2026-11-22_burnley_blackburn-rovers",
-      "data": "2026-11-22T13:00:00+01:00",
-      "data_utc": "2026-11-22T12:00:00Z",
-      "casa": "Burnley",
-      "trasferta": "Blackburn Rovers",
-      "competizione": "EFL Championship",
-      "squadra_segnalata": "burnley",
-      "segnalata_in_casa": true,
-      "avversaria": {
-        "nome": "Blackburn Rovers",
-        "nome_flashscore": null,
-        "id_flashscore": null
-      },
-      "favorita_stimata": "incerta",
-      "nota": "Orario da confermare"
-    },
     {
       "id_partita": "2026-11-22_sirius_djurgarden",
       "data": "2026-11-22T15:00:00+01:00",
@@ -1305,6 +1443,23 @@
       },
       "favorita_stimata": "incerta",
       "nota": "Data 22/11 da anteprima; orario da confermare (14:00 o 17:00 nelle fonti)"
+    },
+    {
+      "id_partita": "2026-11-23_zamalek_el-gouna-fc",
+      "data": "2026-11-23T16:00:00+01:00",
+      "data_utc": "2026-11-23T15:00:00Z",
+      "casa": "Zamalek",
+      "trasferta": "El Gouna FC",
+      "competizione": "Egyptian Premier League (9ª giornata)",
+      "squadra_segnalata": "zamalek",
+      "segnalata_in_casa": true,
+      "avversaria": {
+        "nome": "El Gouna FC",
+        "nome_flashscore": null,
+        "id_flashscore": null
+      },
+      "favorita_stimata": "incerta",
+      "nota": "Orario da confermare (17:00 ora del Cairo)"
     }
   ],
   "criterio": "Si segnalano le squadre con problemi (soldi, spogliatoio, società, difesa decimata, attacco sterile), soprattutto quelle di peso, anche se le quote le danno sfavorite. Obiettivo principale: l'avversaria non perde (vince o pareggia). Obiettivo secondario, se la quota è interessante: l'avversaria segna almeno un gol. La quota serve solo come informazione.",
@@ -2003,11 +2158,11 @@
     }
   ],
   "giro": {
-    "tipo": "mattino",
-    "iniziato": "2026-11-22T09:07:45+01:00",
-    "squadre_controllate": 13,
-    "ricerche_totali": 91,
-    "ricerche_bloccate": 0,
-    "limiti": "Ricerche totali 91 su 180 previste (tetto della routine): 36 controllo squadre in lista (S1–S4, 12 squadre), 24 rotazione di domenica (R1 Inghilterra fino a League Two/NL, R2 Italia B/C e Spagna Segunda/RFEF, R3 Francia L2/National, Olanda Eerste, Belgio 2), 24 grandi club (A1 Premier, A2 Serie A esclusi i club già in S1, A3 La Liga), 6 esiti, 1 verifica orario Liverpool–Manchester United. Nessuna ricerca bloccata. Non eseguiti in questo giro: gruppi A4–A10 (Germania e Francia grandi club, Portogallo/Olanda/Belgio/Scozia grandi club, Turchia/Grecia/Nord Europa, altri Europa, Sudamerica, Arabia/Africa/Asia) e il recupero da_recuperare (Nord Africa, Africa subsahariana, Medio Oriente, Asia orientale B2, Nuova Zelanda, Nord Europa, Ucraina/Serbia). Controllo incompleto (tutte le ricerche senza risultato): Peñarol, Independiente. Partite giocate senza risultato datato trovato: Internacional–Vitória, Newcastle–Arsenal, Napoli–Torino, Argentinos–Independiente, Pumas–Monterrey. Prossime partite non trovate per Newcastle, Napoli, Vitória, Corinthians, Peñarol, Monterrey, Independiente, Al-Ahli e Anadia. Manchester United inserito senza partita: orario non trovato. Candidati non ammessi: Pro Vercelli (allenamento contestato 19/11, nessuna partita verificata nei 7 giorni), SK Beveren (allenatore esonerato 11/11, fuori dalla finestra di 72 ore, nessuna partita verificata)."
+    "tipo": "pomeriggio",
+    "iniziato": "2026-11-22T16:06:17+01:00",
+    "squadre_controllate": 4,
+    "ricerche_totali": 90,
+    "ricerche_bloccate": 33,
+    "limiti": "90 ricerche su 180 previste (tetto non raggiunto). 8 per gli esiti; 12 per i ricontrolli di Djurgården, Manchester United, Independiente e Peñarol; 70 per i gruppi: Svezia/Finlandia, Ucraina/Serbia/Aberdeen, Brasile, Argentina/Uruguay, Colombia, Messico, Asia orientale, Inghilterra/Italia, Spagna/Germania/Francia/Portogallo, Medio Oriente, Africa del Nord. 33 bloccate: il motore ha risposto too_many_requests e alcuni sottoagenti hanno parlato di budget esaurito. Non eseguiti o incompleti: India/Sud-Est asiatico, Australia, Nuova Zelanda, Uzbekistan, Giappone e Cina (solo tentativi bloccati), Africa subsahariana, Marocco/Algeria/Tunisia/Sudafrica/Nigeria, Qatar/EAU/Iraq/Giordania, Ecuador/Perù/Cile/Bolivia/Venezuela/Paraguay, Nord Europa, Europa dell'Est, Turchia/Grecia, Olanda/Belgio, Germania e Francia (parziali). Controllo incompleto: Djurgården, Independiente, Peñarol."
   }
 }
