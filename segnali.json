@@ -1,6 +1,6 @@
 {
   "versione": 3,
-  "aggiornato": "2026-11-23T09:12:06+01:00",
+  "aggiornato": "2026-11-23T16:03:30+01:00",
   "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
   "esiti_precedenti": [
     {
@@ -494,7 +494,7 @@
       "segnalata_dal": "2026-10-29",
       "prima_notizia": "2026-10-24",
       "ultima_notizia": "2026-11-09",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -520,6 +520,15 @@
           "esito": "vecchia",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Burnley Blackburn 22 November 2026 result Celestini",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -558,7 +567,7 @@
       "segnalata_dal": "2026-11-05",
       "prima_notizia": "2026-11-02",
       "ultima_notizia": "2026-11-10",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -576,6 +585,15 @@
           "esito": "nulla",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Vitória Red Bull Bragantino resultado 19 de novembro 2026",
+          "lingua": "pt",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -611,7 +629,7 @@
       "segnalata_dal": "2026-11-09",
       "prima_notizia": "2026-11-02",
       "ultima_notizia": "2026-11-10",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -629,6 +647,15 @@
           "esito": "bloccata",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Argentinos Juniors Independiente resultado 21 noviembre 2026",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -661,7 +688,7 @@
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-11-06",
       "ultima_notizia": "2026-11-12",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -679,6 +706,15 @@
           "esito": "bloccata",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "soldi",
+          "query": "Corinthians Atlético-MG salários atrasados novembro 2026",
+          "lingua": "pt",
+          "esito": "vecchia",
+          "url": "https://www.oliberal.com/esportes/corinthians-paga-comissao-tecnica-e-time-feminino-jogadores-ainda-tem-salarios-atrasados-1.1193578",
+          "data_articolo": "2026-11-12",
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -715,7 +751,7 @@
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-11-06",
       "ultima_notizia": "2026-11-09",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -741,6 +777,15 @@
           "esito": "vecchia",
           "url": "https://www.sportsmole.co.uk/football/newcastle-united/injury-news/injuries-and-suspensions/livramento-fernandez-pardo-newcastle-injury-suspension-list-vs-fulham_608448.html",
           "data_articolo": "2026-11-07"
+        },
+        {
+          "tema": "altro",
+          "query": "Newcastle Arsenal 21 November 2026 result",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -774,7 +819,7 @@
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-11-07",
       "ultima_notizia": "2026-11-19",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -800,6 +845,15 @@
           "esito": "vecchia",
           "url": "https://planoinformativo.com/planodeportivo/345836/matias-almeyda-estaria-pensando-en-renunciar-a-rayados-tras-la-goleada-ante-toluca",
           "data_articolo": "2026-11-09"
+        },
+        {
+          "tema": "panchina",
+          "query": "Pumas Monterrey resultado 22 noviembre 2026 Almeyda",
+          "lingua": "es",
+          "esito": "vecchia",
+          "url": "https://www.tudn.com/futbol/liga-mx/matias-almeyda-lapidario-tras-goleada-de-toluca-no-hicimos-nada-video",
+          "data_articolo": "2026-11-08",
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -838,7 +892,7 @@
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-10-20",
       "ultima_notizia": "2026-11-13",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -856,6 +910,15 @@
           "esito": "bloccata",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Paju Frontier Cheonan City 22 November 2026 K League 2 result",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -892,7 +955,7 @@
       "segnalata_dal": "2026-11-11",
       "prima_notizia": "2026-11-10",
       "ultima_notizia": "2026-11-10",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -910,6 +973,15 @@
           "esito": "vecchia",
           "url": "https://www.365scores.com/es-mx/penarol/team/uruguay-7766",
           "data_articolo": "2026-08-05"
+        },
+        {
+          "tema": "altro",
+          "query": "Defensor Sporting Peñarol resultado clásico noviembre 2026",
+          "lingua": "es",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -945,7 +1017,7 @@
       "segnalata_dal": "2026-11-15",
       "prima_notizia": "2026-11-05",
       "ultima_notizia": "2026-11-09",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -971,6 +1043,24 @@
           "esito": "bloccata",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "panchina",
+          "query": "Allegri Napoli panchina 23 novembre 2026",
+          "lingua": "it",
+          "esito": "vecchia",
+          "url": "https://www.corrieredellosport.it/news/calcio/serie-a/napoli/2026/11/06-152407500/allegri_compari_e_comari",
+          "data_articolo": "2026-11-06",
+          "giro": "pomeriggio"
+        },
+        {
+          "tema": "altro",
+          "query": "Napoli Torino risultato 21 novembre 2026",
+          "lingua": "it",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1008,7 +1098,7 @@
       "segnalata_dal": "2026-11-15",
       "prima_notizia": "2026-11-10",
       "ultima_notizia": "2026-11-11",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -1026,6 +1116,15 @@
           "esito": "vecchia",
           "url": "https://www.fotmob.com/livescores/3237497/matchfacts/djurg%C3%A5rden-vs-sirius",
           "data_articolo": "2025-09-29"
+        },
+        {
+          "tema": "panchina",
+          "query": "Sirius Djurgården resultat 22 november 2026 Honkavaara",
+          "lingua": "sv",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1058,7 +1157,7 @@
       "segnalata_dal": "2026-11-15",
       "prima_notizia": "2026-11-05",
       "ultima_notizia": "2026-11-11",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
@@ -1076,6 +1175,15 @@
           "esito": "vecchia",
           "url": "https://www.sofascore.com/en-us/football/team/al-ahli/34469",
           "data_articolo": null
+        },
+        {
+          "tema": "panchina",
+          "query": "Al-Ahli Al-Nassr result November 2026 Pusic",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ],
       "fonti": [
@@ -1195,7 +1303,7 @@
       ],
       "prima_notizia": "2026-11-13",
       "ultima_notizia": "2026-11-19",
-      "controllato_il": "2026-11-23T09:12:06+01:00",
+      "controllato_il": "2026-11-23T16:03:30+01:00",
       "id_flashscore": null,
       "nome_flashscore": null,
       "ricerche_fatte": [
@@ -1206,6 +1314,15 @@
           "esito": "bloccata",
           "url": null,
           "data_articolo": null
+        },
+        {
+          "tema": "altro",
+          "query": "Zamalek El Gouna 23 November 2026",
+          "lingua": "en",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null,
+          "giro": "pomeriggio"
         }
       ]
     }
@@ -1925,11 +2042,11 @@
     }
   ],
   "giro": {
-    "tipo": "mattino",
-    "iniziato": "2026-11-23T09:09:29+01:00",
-    "squadre_controllate": 14,
-    "ricerche_totali": 54,
-    "ricerche_bloccate": 18,
-    "limiti": "54 ricerche eseguite, tetto 200 non raggiunto. Il motore ha risposto too_many_requests a molti sottoagenti: 18 ricerche bloccate. Esiti: 6 ricerche, nessun risultato verificato (Sirius–Djurgården, Burnley–Blackburn, Argentinos–Independiente, Pumas–Monterrey senza risultato datato; Newcastle–Arsenal e Napoli–Torino bloccate). Squadre già in lista: 14 controllate, nessuna notizia nuova nelle ultime 72 ore, quindi nessun 'ultima_notizia' aggiornato. Controllo incompleto: Independiente, Peñarol, Djurgården, Napoli, Manchester United (non ricercato), Paju Frontier, Zamalek, Vitória. Nuove squadre: 18 ricerche in 4 gruppi (Nord/Est Europa, Americhe, Africa/Medio Oriente/Asia, Europa occidentale), nessun candidato con notizia datata nella finestra. Gruppi A (club di peso per lega) non eseguiti per il limite del motore. Binario B non coperto: India, Sud-Est asiatico, Australia, Nuova Zelanda, Uzbekistan, Giappone, Cina, Africa subsahariana, Marocco/Algeria/Tunisia, Qatar/EAU/Iraq/Giordania, Ecuador/Perù/Cile/Bolivia/Venezuela/Paraguay, Norvegia/Svezia/Finlandia, Ucraina/Serbia, Turchia/Grecia, Olanda/Belgio, Germania/Francia (parziali)."
+    "tipo": "pomeriggio",
+    "iniziato": "2026-11-23T16:02:11+01:00",
+    "squadre_controllate": 12,
+    "ricerche_totali": 13,
+    "ricerche_bloccate": 0,
+    "limiti": "Giro pomeridiano ridotto: 13 ricerche WebSearch in tutto, nessun sottoagente, nessuna query bloccata dal motore (tetto 180 non raggiunto). Scelta, non limite di budget: l'indice di ricerca ha restituito solo risultati vecchi o assenti per le partite del 19-23/11, quindi nessun esito è stato verificato. Controllo pre-partita parziale: 1-2 query per squadra invece delle 3 previste (12 squadre: Burnley, Vitória, Independiente, Corinthians, Napoli, Newcastle, Monterrey, Paju Frontier, Peñarol, Al-Ahli, Djurgården, Zamalek). Manchester United non ricercato. Gruppi Asia/Oceania, Africa/Medio Oriente, Americhe ed Europa serale NON eseguiti: restano in da_recuperare. Nessuna squadra rimossa: nel pomeriggio il silenzio non rimuove. Nessuna nuova squadra. Le 12 partite da_verificare restano aperte."
   }
 }
