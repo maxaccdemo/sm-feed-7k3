@@ -157,7 +157,7 @@
       "risultato": null,
       "gol_avversaria": null,
       "esito_segnale": "da_verificare",
-      "commento": "Fonti contrastanti: un articolo parla di vittoria del Vitória 1-0 di sabato 19 senza anno leggibile, altre pagine danno 2-0 per il Bragantino senza data. Non verificato."
+      "commento": "Nessun risultato datato nelle ricerche del 24/11: da verificare."
     },
     {
       "id_partita": "2026-11-20_al-ahli-jeddah_al-nassr",
@@ -209,20 +209,7 @@
       "risultato": null,
       "gol_avversaria": null,
       "esito_segnale": "da_verificare",
-      "commento": "Risultato non trovato nelle ricerche del 22/11."
-    },
-    {
-      "id_partita": "2026-11-21_napoli_torino",
-      "data": "2026-11-21T20:45:00+01:00",
-      "partita": "Napoli – Torino",
-      "squadra_segnalata": "Napoli",
-      "tipo": "spogliatoio",
-      "avversaria": "Torino",
-      "era_favorita": true,
-      "risultato": null,
-      "gol_avversaria": null,
-      "esito_segnale": "da_verificare",
-      "commento": "Risultato non trovato: le fonti indicano date diverse (21 o 22/11)."
+      "commento": "Risultato non trovato nelle ricerche del 24/11: le fonti danno la partita come programmata."
     },
     {
       "id_partita": "2026-11-21_argentinos-juniors_independiente",
@@ -248,7 +235,7 @@
       "risultato": null,
       "gol_avversaria": null,
       "esito_segnale": "da_verificare",
-      "commento": "Risultato non trovato nelle ricerche del 22/11."
+      "commento": "Risultato non trovato nelle ricerche del 24/11."
     },
     {
       "id_partita": "2026-11-22_paju-frontier_cheonan-city",
@@ -274,7 +261,20 @@
       "risultato": null,
       "gol_avversaria": null,
       "esito_segnale": "da_verificare",
-      "commento": "Risultato non trovato nelle ricerche del 22/11: da verificare."
+      "commento": "Risultato non trovato nelle ricerche del 24/11 (solo precedenti stagioni)."
+    },
+    {
+      "id_partita": "2026-11-22_napoli_torino",
+      "data": "2026-11-22T15:00:00+01:00",
+      "partita": "Napoli – Torino",
+      "squadra_segnalata": "Napoli",
+      "tipo": "spogliatoio",
+      "avversaria": "Torino",
+      "era_favorita": true,
+      "risultato": null,
+      "gol_avversaria": null,
+      "esito_segnale": "da_verificare",
+      "commento": "Calendario (Fantacalcio): Napoli–Torino spostata a domenica 22/11 ore 15:00. Risultato non trovato nelle ricerche del 24/11."
     },
     {
       "id_partita": "2026-11-22_sirius_djurgarden",
@@ -300,7 +300,7 @@
       "risultato": null,
       "gol_avversaria": null,
       "esito_segnale": "da_verificare",
-      "commento": "Risultato non trovato: la ricerca del 24/11 non ha restituito una fonte datata sulla partita."
+      "commento": "Risultato non trovato nelle ricerche del 24/11: nessuna fonte datata sulla partita."
     }
   ],
   "bilancio": {
@@ -399,7 +399,7 @@
         "difesa": null,
         "attacco": null
       },
-      "da_verificare": null,
+      "da_verificare": "Partita 25/11 (Atlético-MG–Corinthians) ancora da confermare: nessuna fonte datata trovata nel giro del mattino; orario 20:00 Brasília secondo fonti senza data leggibile.",
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-11-06",
       "ultima_notizia": "2026-11-12",
@@ -678,7 +678,25 @@
       ]
     }
   ],
-  "partite": [],
+  "partite": [
+    {
+      "id_partita": "2026-11-26_atletico-mg_corinthians",
+      "data": "2026-11-26T00:00:00+01:00",
+      "data_utc": "2026-11-25T23:00:00Z",
+      "casa": "Atlético-MG",
+      "trasferta": "Corinthians",
+      "segnalata_in_casa": false,
+      "avversaria": {
+        "nome": "Atlético-MG",
+        "nome_flashscore": null,
+        "id_flashscore": null
+      },
+      "squadra_segnalata": "corinthians",
+      "competizione": "Brasileirão Série A 2026",
+      "favorita_stimata": "incerta",
+      "nota": "Orario da confermare: 25/11 ore 20:00 di Brasília, Arena MRV (fonti senza data leggibile)."
+    }
+  ],
   "criterio": "Si segnalano le squadre con problemi (soldi, spogliatoio, società, difesa decimata, attacco sterile), soprattutto quelle di peso, anche se le quote le danno sfavorite. Obiettivo principale: l'avversaria non perde (vince o pareggia). Obiettivo secondario, se la quota è interessante: l'avversaria segna almeno un gol. La quota serve solo come informazione.",
   "regole_freschezza": "Entra una squadra con notizia originale fino a 21 giorni prima, purché ci sia una notizia di conferma negli ultimi 7 giorni. Colore dell'ultima notizia: verde fino a 7 giorni, arancione da 8 a 14, rosso oltre 14. Esce dopo 21 giorni senza notizie.",
   "squadre_rimosse": [
@@ -1228,14 +1246,14 @@
       "id": "independiente",
       "squadra": "Independiente",
       "data_rimozione": "2026-11-25",
-      "motivo": "Oltre 14 giorni senza notizia nuova (ultima 2026-11-10); nessuna fonte degli ultimi 7 giorni conferma problema_in_corso. Ricerche del 25/11 (sottoagenti): solo articoli vecchi o nulla.",
+      "motivo": "Oltre 14 giorni senza notizia nuova (ultima 2026-11-10); nessuna fonte degli ultimi 7 giorni conferma problema_in_corso. Ricerche del 25/11 (sottoagenti): solo articoli vecchi o nulla. Dato il calendario, il giro pomeridiano 24/11 l'aveva già segnalata al 14° giorno.",
       "ultima_notizia": "2026-11-10"
     },
     {
       "id": "penarol",
       "squadra": "Peñarol",
       "data_rimozione": "2026-11-25",
-      "motivo": "Oltre 14 giorni senza notizia nuova (ultima 2026-11-10); nessuna fonte degli ultimi 7 giorni conferma problema_in_corso. Ricerche del 25/11 (sottoagenti): solo articoli vecchi o nulla.",
+      "motivo": "Oltre 14 giorni senza notizia nuova (ultima 2026-11-10); nessuna fonte degli ultimi 7 giorni conferma problema_in_corso. Ricerche del 25/11 (sottoagenti): solo articoli vecchi o nulla. Dato il calendario, il giro pomeridiano 24/11 l'aveva già segnalata al 14° giorno.",
       "ultima_notizia": "2026-11-10"
     }
   ],
@@ -1245,6 +1263,6 @@
     "squadre_controllate": 7,
     "ricerche_totali": 53,
     "ricerche_bloccate": 0,
-    "limiti": "Giro del mattino 25/11: 53 WebSearch stimate sul tetto di 180 (non raggiunto). Esiti: 8 ricerche, nessun risultato verificato per le 13 partite ancora da verificare. Squadre in lista: 7 controllate con 3 ricerche ciascuna (sottoagenti). Binario B di mercoledì: Brasile A e B; Argentina, Uruguay, Paraguay; Colombia, Ecuador, Perù, Bolivia, Cile, Venezuela. Nessuna candidata con notizia nelle ultime 72 ore. Gruppi A1–A10 (club di peso) NON eseguiti in questo giro per scelta di priorità e tempo: restano in da_recuperare. Nessuna ricerca bloccata. Nessuna partita verificata nei prossimi 7 giorni per le squadre in lista: partite vuota, nessuna data inventata. Squadre rimosse: Independiente e Peñarol (oltre 14 giorni). Nessuna nuova squadra."
+    "limiti": "Giro del mattino 25/11 unito al giro pomeridiano 24/11 già in pagina. Ricerche di questo giro: 53 WebSearch stimate sul tetto di 180 (non raggiunto). Esiti: 8 ricerche, nessun risultato verificato per le 13 partite ancora da verificare. Squadre in lista: 7 controllate con 3 ricerche ciascuna (sottoagenti); nessuna notizia nuova entro 72 ore. Binario B di mercoledì: Brasile A e B; Argentina, Uruguay, Paraguay; Colombia, Ecuador, Perù, Bolivia, Cile, Venezuela: nessuna candidata con notizia nelle ultime 72 ore. Gruppi A1–A10 (club di peso) NON eseguiti in questo giro per priorità e tempo: restano in da_recuperare. Nessuna ricerca bloccata. Partite: resta solo Atlético-MG–Corinthians (25/11 ore 20:00 Brasília), con orario da confermare; per le altre squadre nessuna partita verificata nei prossimi 7 giorni. Squadre rimosse: Independiente e Peñarol (oltre 14 giorni). Nessuna nuova squadra."
   }
 }
