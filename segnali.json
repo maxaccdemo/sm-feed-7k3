@@ -1,6 +1,6 @@
 {
   "versione": 3,
-  "aggiornato": "2026-11-24T09:11:45+01:00",
+  "aggiornato": "2026-11-25T09:10:37+01:00",
   "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
   "esiti_precedenti": [
     {
@@ -309,7 +309,7 @@
     "segnalata_vince": 28,
     "gol_avversaria_si": 54,
     "gol_avversaria_valutati": 73,
-    "osservazione": "Giro del mattino 24/11: nessuna notizia nuova entro 72 ore per nessuna squadra in lista; nessun risultato verificato per le 13 partite da verificare (Zamalek–El Gouna compresa). Tolte 7 squadre per decadimento o problema chiuso. Bilancio invariato: gli esiti da verificare non entrano nei totali.",
+    "osservazione": "Giro del mattino 25/11: nessuna notizia nuova entro 72 ore per le squadre in lista; nessun risultato verificato per le 13 partite da verificare. Tolte 2 squadre (Independiente, Peñarol) per decadimento. Bilancio invariato: gli esiti da verificare non entrano nei totali.",
     "per_tipo": {
       "non_indicato": {
         "valutati": 17,
@@ -381,64 +381,6 @@
   },
   "squadre": [
     {
-      "id": "independiente",
-      "squadra": "Independiente",
-      "nome_flashscore": "Independiente",
-      "id_flashscore": null,
-      "alias": [
-        "Independiente"
-      ],
-      "paese": "Argentina",
-      "tipo": "societa",
-      "livello": "basso",
-      "stato": "in_calo",
-      "motivo": "La FIFA ha inibito il club per un debito di circa 2,9 milioni di dollari col Red Bull Bragantino (caso Lomónaco); la scadenza del 2/11 è passata e il club avrebbe pagato solo circa 400.000 dollari: mercato bloccato.",
-      "andamento": "Inibizione FIFA in vigore (Cadena 3, 6/11).",
-      "novita": null,
-      "assenze": {
-        "difesa": null,
-        "attacco": "Abaldo in dubbio (scelta tecnica secondo il club)."
-      },
-      "da_verificare": "Cadena 3 (6/11): inibizione FIFA in vigore. Nessuna novità datata dopo il 10/11: al 14° giorno, la squadra esce domani salvo nuova notizia.",
-      "segnalata_dal": "2026-11-09",
-      "prima_notizia": "2026-11-02",
-      "ultima_notizia": "2026-11-10",
-      "controllato_il": "2026-11-24T09:11:45+01:00",
-      "problema_in_corso": false,
-      "ricerche_fatte": [
-        {
-          "tema": "soldi",
-          "query": "Independiente FIFA inhibición mercado de pases Lomónaco Bragantino deuda",
-          "lingua": "es",
-          "esito": "vecchia",
-          "url": "https://www.cadena3.com/noticia/deportes/independiente-enfrenta-nueva-inhibicion-de-fifa-por-deuda-con-red-bull-bragantino_611067",
-          "data_articolo": "2026-11-06"
-        },
-        {
-          "tema": "infortuni",
-          "query": "Independiente lesionados suspendidos próximo partido noviembre 2026",
-          "lingua": "es",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null
-        },
-        {
-          "tema": "altro",
-          "query": "Independiente noticias Infobae Olé TyC Sports 2026-11-22",
-          "lingua": "es",
-          "esito": "bloccata",
-          "url": null,
-          "data_articolo": null
-        }
-      ],
-      "fonti": [
-        "https://www.cadena3.com/noticia/deportes/independiente-enfrenta-nueva-inhibicion-de-fifa-por-deuda-con-red-bull-bragantino_611067",
-        "https://elintransigente.com/2026/11/12/edgardo-lasalvia-desmintio-abaldo-haya-sido-separado-independiente-ebriedad/",
-        "https://elintransigente.com/2026/11/10/sufre-independiente-inhibicion-fifa-complica-panorama-economico-club/",
-        "https://cadena3.com/noticia/futbol/otra-vez-inhibieron-a-independiente_611046"
-      ]
-    },
-    {
       "id": "corinthians",
       "squadra": "Corinthians",
       "nome_flashscore": "Corinthians",
@@ -457,33 +399,33 @@
         "difesa": null,
         "attacco": null
       },
-      "da_verificare": "Prossima partita (Atlético-MG, 21 o 25/11) non verificata: nessuna fonte datata trovata.",
+      "da_verificare": null,
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-11-06",
       "ultima_notizia": "2026-11-12",
-      "controllato_il": "2026-11-24T09:11:45+01:00",
+      "controllato_il": "2026-11-25T09:10:37+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
           "tema": "soldi",
-          "query": "Corinthians salários atrasados CLT outubro Seedorf",
-          "lingua": "pt",
+          "query": "Corinthians salários atrasados",
+          "lingua": "portoghese",
           "esito": "vecchia",
           "url": "https://www.oliberal.com/esportes/corinthians-paga-comissao-tecnica-e-time-feminino-jogadores-ainda-tem-salarios-atrasados-1.1193578",
           "data_articolo": "2026-11-12"
         },
         {
-          "tema": "infortuni",
-          "query": "Corinthians desfalques lesionados suspensos próxima partida Brasileirão",
-          "lingua": "pt",
+          "tema": "altro",
+          "query": "Corinthians próximo jogo data horário",
+          "lingua": "portoghese",
           "esito": "nulla",
           "url": null,
           "data_articolo": null
         },
         {
-          "tema": "altro",
-          "query": "Corinthians Lance ge.globo salários atletas novembro 2026",
-          "lingua": "pt",
+          "tema": "infortuni",
+          "query": "Corinthians desfalques lesionados suspensos próximo jogo",
+          "lingua": "portoghese",
           "esito": "nulla",
           "url": null,
           "data_articolo": null
@@ -520,39 +462,40 @@
         "difesa": null,
         "attacco": null
       },
-      "da_verificare": "Pumas–Monterrey (22/11 ore 02:00) giocata: risultato non trovato. Prossima partita non trovata.",
+      "da_verificare": null,
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-11-07",
       "ultima_notizia": "2026-11-19",
-      "controllato_il": "2026-11-24T09:11:45+01:00",
-      "problema_in_corso": false,
+      "controllato_il": "2026-11-25T09:10:37+01:00",
+      "problema_in_corso": true,
       "ricerche_fatte": [
         {
-          "tema": "panchina",
-          "query": "Monterrey Almeyda vestidor renuncia",
-          "lingua": "es",
+          "tema": "altro",
+          "query": "Almeyda Monterrey vestidor filtraciones",
+          "lingua": "spagnolo",
           "esito": "vecchia",
-          "url": "https://www.clarosports.com/futbol/liga-mx/walter-erviti-confirma-la-continuidad-de-matias-almeyda-en-monterrey/",
-          "data_articolo": "2026-11-13"
-        },
-        {
-          "tema": "infortuni",
-          "query": "Monterrey bajas lesionados suspendidos próximo partido",
-          "lingua": "es",
-          "esito": "vecchia",
-          "url": "https://www.record.com.mx/historia/crisis-fisica-en-monterrey-siete-lesionados-y-dos-en-duda-vs-chivas-2026032003211325989",
-          "data_articolo": "2026-03-20"
+          "url": "https://abcnoticias.mx/deportes/2026/11/19/destaca-guzman-que-las-filtraciones-son-preocupantes-y-aplaude-respaldo-a-almeyda-en-rayados-295962.html",
+          "data_articolo": "2026-11-19"
         },
         {
           "tema": "altro",
-          "query": "Medio Tiempo ESPN Deportes Monterrey noticias Almeyda",
-          "lingua": "es",
+          "query": "Monterrey próximo partido horario",
+          "lingua": "spagnolo",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null
+        },
+        {
+          "tema": "infortuni",
+          "query": "Rayados bajas lesionados sancionados próximo partido",
+          "lingua": "spagnolo",
           "esito": "vecchia",
-          "url": "https://www.clarosports.com/futbol/liga-mx/almeyda-descarta-crisis-monterrey/",
-          "data_articolo": "2026-09-17"
+          "url": "https://abcnoticias.mx/deportes/2026/11/17/tendria-rayados-tres-ausencias-para-el-partido-contra-pumas-295747.html",
+          "data_articolo": "2026-11-17"
         }
       ],
       "fonti": [
+        "https://abcnoticias.mx/deportes/2026/11/19/destaca-guzman-que-las-filtraciones-son-preocupantes-y-aplaude-respaldo-a-almeyda-en-rayados-295962.html",
         "https://abcnoticias.mx/deportes/2026/11/17/tendria-rayados-tres-ausencias-para-el-partido-contra-pumas-295747.html",
         "https://www.foxsports.com.mx/2026/11/10/pumas-podria-quedar-eliminado-pese-a-ganar-en-la-jornada-17-vs-rayados-por-que/",
         "https://abcnoticias.mx/deportes/2026/11/13/walter-erviti-confirma-continuidad-de-matias-almeyda-en-rayados-y-pone-bajo-evaluacion-a-jugadores-295387.html",
@@ -584,34 +527,34 @@
         "difesa": null,
         "attacco": null
       },
-      "da_verificare": "Paju–Cheonan City (22/11 ore 08:30 italiane = 16:30 KST) da confermare sul sito K League. Licenza 2027 in valutazione.",
+      "da_verificare": null,
       "segnalata_dal": "2026-11-10",
       "prima_notizia": "2026-10-20",
       "ultima_notizia": "2026-11-13",
-      "controllato_il": "2026-11-24T09:11:45+01:00",
+      "controllato_il": "2026-11-25T09:10:37+01:00",
       "problema_in_corso": false,
       "ricerche_fatte": [
         {
           "tema": "soldi",
-          "query": "파주 프런티어 임금 체불 stipend 2026",
-          "lingua": "ko/en",
+          "query": "파주 프런티어 급여 체불",
+          "lingua": "coreano",
           "esito": "vecchia",
-          "url": "https://www.koreadaily.com/article/20261117212321267",
-          "data_articolo": "2026-11-17"
+          "url": "https://www.starnewskorea.com/en/sports/2026/11/13/2026111318494312494",
+          "data_articolo": "2026-11-13"
         },
         {
-          "tema": "infortuni",
-          "query": "파주 프런티어 부상 결장 출전 명단 다음 경기",
-          "lingua": "ko",
-          "esito": "vecchia",
+          "tema": "soldi",
+          "query": "Paju Frontier salary unpaid license",
+          "lingua": "inglese",
+          "esito": "nulla",
           "url": null,
           "data_articolo": null
         },
         {
           "tema": "altro",
-          "query": "뉴스핌 경기 파주 프런티어 프런티어 소식",
-          "lingua": "ko",
-          "esito": "bloccata",
+          "query": "파주 프런티어 다음 경기",
+          "lingua": "coreano",
+          "esito": "nulla",
           "url": null,
           "data_articolo": null
         }
@@ -623,68 +566,6 @@
         "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015560",
         "https://www.koreadaily.com/article/20261023223325871",
         "https://sports.khan.co.kr/article/202611041016013/"
-      ]
-    },
-    {
-      "id": "penarol",
-      "squadra": "Peñarol",
-      "nome_flashscore": null,
-      "id_flashscore": null,
-      "alias": [
-        "Peñarol",
-        "CA Peñarol",
-        "Penarol"
-      ],
-      "paese": "Uruguay",
-      "tipo": "societa",
-      "livello": "basso",
-      "stato": "in_calo",
-      "motivo": "Il presidente Ignacio Ruglio ha confermato il 10/11 che non si ricandida alle elezioni del 12/12; secondo El Observador il club è in difficoltà su più fronti: il BROU ha respinto una linea di credito da 6 milioni di dollari, bilancio da ridimensionare, rosa da rifondare, campagna elettorale tesa.",
-      "andamento": "Rischio di una terza stagione senza titoli (El Observador 10/11).",
-      "novita": null,
-      "assenze": {
-        "difesa": null,
-        "attacco": null
-      },
-      "da_verificare": "Presidente Ruglio non si ricandida (confermato 10/11): premessa contestata da fonti ESPN/El Observador che parlano di rielezione, da verificare. Prestito BROU da 6 mln non confermato. Nessuna notizia datata nelle ultime 72 ore.",
-      "segnalata_dal": "2026-11-11",
-      "prima_notizia": "2026-11-10",
-      "ultima_notizia": "2026-11-10",
-      "controllato_il": "2026-11-24T09:11:45+01:00",
-      "problema_in_corso": false,
-      "ricerche_fatte": [
-        {
-          "tema": "soldi",
-          "query": "Peñarol Ruglio elecciones BROU préstamo deuda 6 millones noviembre 2026",
-          "lingua": "es",
-          "esito": "vecchia",
-          "url": "https://www.elobservador.com.uy/nota/deuda-de-ruglio-al-brou-justicia-condeno-a-exgerenta-a-pagar-us-168-000-que-le-sobregiro--20244242240/amp",
-          "data_articolo": "2024-04-25"
-        },
-        {
-          "tema": "infortuni",
-          "query": "Peñarol lesionados suspendidos próximo partido noviembre 2026",
-          "lingua": "es",
-          "esito": "vecchia",
-          "url": null,
-          "data_articolo": null
-        },
-        {
-          "tema": "altro",
-          "query": "Peñarol noticias El Observador Ovación El País Uruguay 2026",
-          "lingua": "es",
-          "esito": "vecchia",
-          "url": null,
-          "data_articolo": null
-        }
-      ],
-      "fonti": [
-        "https://www.telenoche.com.uy/penarol-a145",
-        "https://www.elobservador.com.uy/futbol/torneo-clausura-defensor-sporting-volvio-fijar-precios-altos-los-hinchas-penarol-que-quieran-visitar-el-franzini-n6063436",
-        "https://www.montevideo.com.uy/Deportes/Ignacio-Ruglio-no-se-presentara-en-elecciones-de-Penarol-y-volvera-a-ser-un-hincha-mas--uc981675",
-        "https://www.elobservador.com.uy/futbol/ignacio-ruglio-abandona-penarol-el-proyecto-que-el-presidente-no-pudo-sostener-la-crisis-y-la-decision-que-lo-expone-y-condiciona-el-futuro-n6063404",
-        "https://www.elobservador.com.uy/futbol/ignacio-ruglio-confirmo-que-no-sera-candidato-presidente-las-elecciones-penarol-n6063332",
-        "https://www.elobservador.com.uy/futbol/las-bajas-peso-que-tendra-diego-aguirre-penarol-el-partido-clave-defensor-sporting-el-torneo-clausura-n6063355"
       ]
     },
     {
@@ -703,13 +584,13 @@
         "difesa": null,
         "attacco": null
       },
-      "da_verificare": "Nessuna partita trovata in questo giro.",
+      "da_verificare": null,
       "fonti": [
         "https://www.abola.pt/noticias/plantel-do-anadia-denuncia-meses-de-salarios-em-atraso-e-anuncia-greve-aos-treinos-2026111622170652982"
       ],
       "prima_notizia": "2026-11-16",
       "ultima_notizia": "2026-11-16",
-      "controllato_il": "2026-11-24T09:11:45+01:00",
+      "controllato_il": "2026-11-25T09:10:37+01:00",
       "problema_in_corso": false,
       "nome_flashscore": null,
       "id_flashscore": null,
@@ -720,23 +601,23 @@
         {
           "tema": "soldi",
           "query": "Anadia salários em atraso greve treinos",
-          "lingua": "pt",
+          "lingua": "portoghese",
           "esito": "vecchia",
           "url": "https://www.abola.pt/noticias/plantel-do-anadia-denuncia-meses-de-salarios-em-atraso-e-anuncia-greve-aos-treinos-2026111622170652982",
           "data_articolo": "2026-11-16"
         },
         {
-          "tema": "infortuni",
-          "query": "Anadia jogo próxima jornada lesionados Campeonato de Portugal",
-          "lingua": "pt",
+          "tema": "altro",
+          "query": "Anadia próximo jogo",
+          "lingua": "portoghese",
           "esito": "nulla",
           "url": null,
           "data_articolo": null
         },
         {
           "tema": "altro",
-          "query": "Anadia futebol clube notícias Diário de Coimbra Região de Aveiro novembro 2026",
-          "lingua": "pt",
+          "query": "Anadia Ojogo SAD",
+          "lingua": "portoghese",
           "esito": "nulla",
           "url": null,
           "data_articolo": null
@@ -759,46 +640,38 @@
         "difesa": null,
         "attacco": null
       },
-      "da_verificare": "Orario 23/11 da confermare (fonte: 17:00 ora del Cairo). Diffide di due giocatori stranieri per stipendi non pagati: fonte senza data. Date ricavate dai riassunti di ricerca, non verificate sulla pagina.",
+      "da_verificare": null,
       "fonti": [
         "https://www.ysscores.com/en/news/14100088/zamalek-pay-a-portion-of-players-dues-ahead-of-algeria-trip",
         "https://www.ysscores.com/en/news/14098920/zamalek-move-to-pay-overdue-dues-to-moataz-gamal"
       ],
       "prima_notizia": "2026-11-13",
       "ultima_notizia": "2026-11-19",
-      "controllato_il": "2026-11-24T09:11:45+01:00",
+      "controllato_il": "2026-11-25T09:10:37+01:00",
       "id_flashscore": null,
       "nome_flashscore": null,
       "ricerche_fatte": [
         {
           "tema": "soldi",
-          "query": "Zamalek unpaid salaries players staff November 2026",
-          "lingua": "en",
-          "esito": "vecchia",
-          "url": "https://www.ysscores.com/en/news/14100088/zamalek-pay-a-portion-of-players-dues-ahead-of-algeria-trip",
-          "data_articolo": "2026-11-19"
-        },
-        {
-          "tema": "infortuni",
-          "query": "Zamalek injuries suspensions next match",
-          "lingua": "en",
-          "esito": "vecchia",
-          "url": null,
-          "data_articolo": "2026-10-19"
-        },
-        {
-          "tema": "soldi",
-          "query": "رواتب الزمالك متأخرة اللاعبين الجهاز الفني نوفمبر 2026",
-          "lingua": "ar",
+          "query": "الزمالك مستحقات اللاعبين",
+          "lingua": "arabo",
           "esito": "vecchia",
           "url": "https://www.masrawy.com/sports/sports_news/details/2026/11/9/3076342",
           "data_articolo": "2026-11-09"
         },
         {
+          "tema": "soldi",
+          "query": "Zamalek unpaid salaries",
+          "lingua": "inglese",
+          "esito": "nulla",
+          "url": null,
+          "data_articolo": null
+        },
+        {
           "tema": "altro",
-          "query": "Ahram Online Zamalek news (stampa locale Al-Ahly-Zamalek)",
-          "lingua": "en",
-          "esito": "bloccata",
+          "query": "الزمالك موعد المباراة القادمة",
+          "lingua": "arabo",
+          "esito": "nulla",
           "url": null,
           "data_articolo": null
         }
@@ -839,88 +712,6 @@
           "esito": "bloccata",
           "url": null,
           "data_articolo": null
-        }
-      ]
-    },
-    {
-      "id": "west-ham",
-      "squadra": "West Ham",
-      "data_rimozione": "2026-11-10",
-      "motivo": "allenatore cambiato e ha vinto (Parker, rimonta sul Cardiff il 4/11; fonte Sports Mole senza data leggibile); nessuna partita in lista nei 7 giorni",
-      "ultima_notizia": "2026-11-03",
-      "ricerche_fatte": [
-        {
-          "tema": "panchina",
-          "query": "West Ham new manager appointed interim after Nuno sacked",
-          "lingua": "en",
-          "esito": "vecchia",
-          "url": "https://www.flashscore.com/news/soccer-championship-west-ham-make-move-for-former-captain-scott-parker-move-after-sacking-nuno/AsMZTNwe/",
-          "data_articolo": null
-        },
-        {
-          "tema": "soldi",
-          "query": "West Ham dressing room owners wages Championship November 2026",
-          "lingua": "en",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null
-        },
-        {
-          "tema": "infortuni",
-          "query": "Blackburn Rovers 2-1 West Ham result team news injuries next fixture",
-          "lingua": "en",
-          "esito": "bloccata",
-          "url": null,
-          "data_articolo": null
-        },
-        {
-          "tema": "altro",
-          "query": "West Ham Blackburn Championship Scott Parker first match",
-          "lingua": "en",
-          "esito": "vecchia",
-          "url": "https://www.skysports.com/football/blackburn-vs-west-ham/report/560667",
-          "data_articolo": null
-        }
-      ]
-    },
-    {
-      "id": "atalanta",
-      "squadra": "Atalanta",
-      "data_rimozione": "2026-11-10",
-      "motivo": "assenze valide solo per la partita in programma: nessuna partita nei prossimi 7 giorni (Lecce–Atalanta 30/11) e nessuna conferma negli ultimi 3 giorni",
-      "ultima_notizia": "2026-11-06",
-      "ricerche_fatte": [
-        {
-          "tema": "soldi",
-          "query": "Atalanta società Percassi stipendi novembre 2026",
-          "lingua": "it",
-          "esito": "nulla",
-          "url": null,
-          "data_articolo": null
-        },
-        {
-          "tema": "panchina",
-          "query": "Atalanta allenatore spogliatoio Lecce-Atalanta conferenza stampa",
-          "lingua": "it",
-          "esito": "bloccata",
-          "url": null,
-          "data_articolo": null
-        },
-        {
-          "tema": "panchina",
-          "query": "Atalanta Sarri news oggi dopo Monza",
-          "lingua": "it",
-          "esito": "vecchia",
-          "url": "https://www.ansa.it/amp/english/news/2026/06/09/atalanta-sack-palladino-sarri-set-to-take-over_f01c5cce-0eec-48b0-b8d2-dc72657109f4.html",
-          "data_articolo": "2026-06-09"
-        },
-        {
-          "tema": "infortuni",
-          "query": "Atalanta infortunati Kristensen Kossounou Hien Bellanova recupero dopo la sosta",
-          "lingua": "it",
-          "esito": "vecchia",
-          "url": "https://www.fantacalcio.it/news/calcio-italia/26_10_2026/atalanta-emergenza-in-difesa-risentimento-per-bellanova-sarri-spera-in-due-recuperi-499783",
-          "data_articolo": "2026-10-26"
         }
       ]
     },
@@ -1432,14 +1223,28 @@
       "data_rimozione": "2026-11-24",
       "motivo": "spogliatoio: oltre 10 giorni senza notizia sul problema (ultima 2026-11-11)",
       "ultima_notizia": "2026-11-11"
+    },
+    {
+      "id": "independiente",
+      "squadra": "Independiente",
+      "data_rimozione": "2026-11-25",
+      "motivo": "Oltre 14 giorni senza notizia nuova (ultima 2026-11-10); nessuna fonte degli ultimi 7 giorni conferma problema_in_corso. Ricerche del 25/11 (sottoagenti): solo articoli vecchi o nulla.",
+      "ultima_notizia": "2026-11-10"
+    },
+    {
+      "id": "penarol",
+      "squadra": "Peñarol",
+      "data_rimozione": "2026-11-25",
+      "motivo": "Oltre 14 giorni senza notizia nuova (ultima 2026-11-10); nessuna fonte degli ultimi 7 giorni conferma problema_in_corso. Ricerche del 25/11 (sottoagenti): solo articoli vecchi o nulla.",
+      "ultima_notizia": "2026-11-10"
     }
   ],
   "giro": {
     "tipo": "mattino",
-    "iniziato": "2026-11-24T09:08:23+01:00",
-    "squadre_controllate": 14,
-    "ricerche_totali": 76,
-    "ricerche_bloccate": 4,
-    "limiti": "Giro del mattino, 76 WebSearch stimate sul tetto di 180 (non raggiunto): 8 per gli esiti, 44 sulle 14 squadre in lista (3 a squadra; Al-Ahli 4, Zamalek 4 con una bloccata), 24 sul binario B di martedì (3 agenti, 8 ciascuno). 4 ricerche bloccate (Independiente, Paju Frontier, Djurgården, Zamalek). Gruppi A1–A10 (club di peso) NON eseguiti per priorità e tempo: restano in da_recuperare. Binario B: nessuna candidata; copertura parziale (alcuni paesi con meno di 3 ricerche). Nessuna nuova squadra. Nessuna partita trovata nei prossimi 7 giorni per le squadre rimaste."
+    "iniziato": "2026-11-25T09:08:08+01:00",
+    "squadre_controllate": 7,
+    "ricerche_totali": 53,
+    "ricerche_bloccate": 0,
+    "limiti": "Giro del mattino 25/11: 53 WebSearch stimate sul tetto di 180 (non raggiunto). Esiti: 8 ricerche, nessun risultato verificato per le 13 partite ancora da verificare. Squadre in lista: 7 controllate con 3 ricerche ciascuna (sottoagenti). Binario B di mercoledì: Brasile A e B; Argentina, Uruguay, Paraguay; Colombia, Ecuador, Perù, Bolivia, Cile, Venezuela. Nessuna candidata con notizia nelle ultime 72 ore. Gruppi A1–A10 (club di peso) NON eseguiti in questo giro per scelta di priorità e tempo: restano in da_recuperare. Nessuna ricerca bloccata. Nessuna partita verificata nei prossimi 7 giorni per le squadre in lista: partite vuota, nessuna data inventata. Squadre rimosse: Independiente e Peñarol (oltre 14 giorni). Nessuna nuova squadra."
   }
 }
