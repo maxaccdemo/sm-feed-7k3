@@ -1,6 +1,6 @@
 {
  "versione": 3,
- "aggiornato": "2026-11-25T16:04:43+01:00",
+ "aggiornato": "2026-11-26T16:01:34+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -309,7 +309,7 @@
   "segnalata_vince": 28,
   "gol_avversaria_si": 54,
   "gol_avversaria_valutati": 73,
-  "osservazione": "Giro pomeridiano 25/11: cercati i risultati di 7 partite passate (Napoli–Torino, Newcastle–Arsenal, Burnley–Blackburn, Pumas–Monterrey, Vitória–Bragantino, Al-Ahli–Al-Nassr, Atlético Bucaramanga–América de Cali): nessun risultato datato e verificato, tutte restano da_verificare. Bilancio invariato.",
+  "osservazione": "Giro pomeridiano 26/11 ridotto: nessun risultato datato e verificato per Atlético-MG–Corinthians, Newcastle–Arsenal, Napoli–Torino, Burnley–Blackburn, Zamalek–El Gouna. Tutte restano da_verificare. Salari del Corinthians: solo notizie di 9-12/11, nessuna novità.",
   "per_tipo": {
    "non_indicato": {
     "valutati": 17,
@@ -399,65 +399,54 @@
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Partita 25/11 ore 20:00 di Brasília (26/11 ore 00:00 in Italia) Atlético-MG–Corinthians: nel giro del pomeriggio nessuna formazione o desfalque datato trovato; l'orario resta da confermare. Ultima notizia sugli stipendi 12/11: senza notizie nuove entro il 26/11 la squadra esce per decadimento dal giro successivo.",
+   "da_verificare": "Partita 25/11 ore 20:00 di Brasília (26/11 ore 00:00 in Italia) Atlético-MG–Corinthians: nel giro del pomeriggio nessuna formazione o desfalque datato trovato; l'orario resta da confermare. Ultima notizia sugli stipendi 12/11: senza notizie nuove entro il 26/11 la squadra esce per decadimento dal giro successivo. Data e orario di Atlético-MG – Corinthians non confermati da fonti datate.",
    "segnalata_dal": "2026-11-10",
    "prima_notizia": "2026-11-06",
    "ultima_notizia": "2026-11-12",
-   "controllato_il": "2026-11-25T16:04:43+01:00",
+   "controllato_il": "2026-11-26T16:01:34+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Corinthians salários atrasados",
-     "lingua": "portoghese",
+     "query": "Corinthians stipendi atrasados novembro 2026",
+     "lingua": "pt",
      "esito": "vecchia",
      "url": "https://www.oliberal.com/esportes/corinthians-paga-comissao-tecnica-e-time-feminino-jogadores-ainda-tem-salarios-atrasados-1.1193578",
-     "data_articolo": "2026-11-12",
-     "giro": "mattino"
+     "data_articolo": "2026-11-12"
     },
     {
      "tema": "altro",
-     "query": "Corinthians próximo jogo data horário",
-     "lingua": "portoghese",
+     "query": "Atlético-MG Corinthians Brasileirão 26 novembro 2026",
+     "lingua": "pt",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Corinthians desfalques lesionados suspensos próximo jogo",
-     "lingua": "portoghese",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "data_articolo": null
     },
     {
      "tema": "soldi",
-     "query": "Corinthians salários atrasados novembro 2026",
-     "lingua": "portoghese",
+     "query": "Corinthians salários atrasados jogadores novembro 2026",
+     "lingua": "pt",
      "esito": "vecchia",
      "url": "https://www.oliberal.com/esportes/corinthians-paga-comissao-tecnica-e-time-feminino-jogadores-ainda-tem-salarios-atrasados-1.1193578",
      "data_articolo": "2026-11-12",
      "giro": "pomeriggio"
     },
     {
-     "tema": "infortuni",
-     "query": "Corinthians Atlético-MG desfalques lesionados 25/11/2026",
-     "lingua": "portoghese",
+     "tema": "altro",
+     "query": "Corinthians Atlético-MG placar 25/11/2026 Brasileirão",
+     "lingua": "pt",
      "esito": "nulla",
      "url": null,
      "data_articolo": null,
      "giro": "pomeriggio"
     },
     {
-     "tema": "soldi",
-     "query": "jogadores salários atrasados Série A Brasil novembro 2026 paralisação",
-     "lingua": "portoghese",
-     "esito": "vecchia",
-     "url": "https://www.dgabc.com.br/Noticia/4367729/corinthians-atrasa-salarios-e-abre-brecha-para-rescisao-clube-tem-pendencia-com-a-fazenda",
-     "data_articolo": "2026-11-09",
+     "tema": "altro",
+     "query": "Corinthians próximo jogo Brasileirão dezembro 2026 tabela",
+     "lingua": "pt",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
      "giro": "pomeriggio"
     }
    ],
@@ -484,7 +473,7 @@
    "paese": "Messico",
    "tipo": "spogliatoio",
    "livello": "basso",
-   "stato": "attiva",
+   "stato": "controllo_incompleto",
    "motivo": "Dopo il 4-0 subito a Toluca l'allenatore Matías Almeyda ha parlato di 'un desastre' e di fughe di notizie dallo spogliatoio; vuole 'purificare' il gruppo e ha minacciato di dimettersi a fine torneo.",
    "andamento": "10° in Liga MX con 21 punti, deve vincere per la Liguilla.",
    "novita": null,
@@ -561,7 +550,7 @@
    "paese": "Corea del Sud",
    "tipo": "stipendi",
    "livello": "basso",
-   "stato": "in_calo",
+   "stato": "controllo_incompleto",
    "motivo": "Il 13/11 il club ha ammesso con un comunicato ufficiale di non poter pagare gli stipendi restanti del 2026: ottobre pagato solo al 50-70%, il Comune rifiuta altri fondi, cerca un prestito esterno. L'audit comunale chiede il licenziamento di presidente e vice; licenza K League 2027 a rischio.",
    "andamento": "10° su 17 in K League 2 con 9 vittorie, 8 pareggi e 13 sconfitte (Newspim 13/11).",
    "novita": null,
@@ -638,7 +627,7 @@
    "campionato": "Campeonato de Portugal (Grupo B, categoria da confermare)",
    "tipo": "stipendi",
    "livello": "basso",
-   "stato": "in_calo",
+   "stato": "controllo_incompleto",
    "favorita_stimata": "no",
    "motivo": "Il plantel denuncia vari mesi di stipendi in atraso e annuncia greve aos treinos, rivolgendosi alla SAD e al proprietario.",
    "andamento": "Campionato minore; secondo l'articolo rischia di giocare l'Estarreja senza allenamenti.",
@@ -706,7 +695,7 @@
    "campionato": "Egyptian Premier League",
    "tipo": "stipendi",
    "livello": "alto",
-   "stato": "attiva",
+   "stato": "controllo_incompleto",
    "problema_in_corso": true,
    "motivo": "Stipendi arretrati non pagati da circa quattro mesi a giocatori, staff tecnico e amministrativo; il club ha avviato il pagamento di parte dei debiti.",
    "andamento": "Pagamenti parziali ai giocatori il 19/11 prima della trasferta in Algeria; saldo residuo non noto.",
@@ -781,7 +770,7 @@
    "squadra_segnalata": "corinthians",
    "competizione": "Brasileirão Série A 2026",
    "favorita_stimata": "incerta",
-   "nota": "Orario da confermare: 25/11 ore 20:00 di Brasília, Arena MRV (fonti senza data leggibile)."
+   "nota": "orario da confermare: nessuna fonte datata trovata per questa partita"
   }
  ],
  "criterio": "Si segnalano le squadre con problemi (soldi, spogliatoio, società, difesa decimata, attacco sterile), soprattutto quelle di peso, anche se le quote le danno sfavorite. Obiettivo principale: l'avversaria non perde (vince o pareggia). Obiettivo secondario, se la quota è interessante: l'avversaria segna almeno un gol. La quota serve solo come informazione.",
@@ -1346,10 +1335,11 @@
  ],
  "giro": {
   "tipo": "pomeriggio",
-  "iniziato": "2026-11-25T16:02:03+01:00",
-  "squadre_controllate": 5,
-  "ricerche_totali": 23,
+  "iniziato": "2026-11-26T16:01:34+01:00",
+  "squadre_controllate": 1,
+  "ricerche_totali": 8,
   "ricerche_bloccate": 0,
-  "limiti": "Pomeriggio 25/11: 23 WebSearch spese su 180 (budget non esaurito: la copertura è stata limitata dal tempo). Esiti: 8 ricerche, nessun risultato verificato. Squadre: Corinthians 3 ricerche (stipendi confermati fino al 12/11, nessuna notizia nuova; partita di stasera senza formazioni datate); Monterrey 1 ricerca (nulla di nuovo); Paju Frontier 2 (nulla di nuovo); Anadia 1 (nulla di nuovo); Zamalek 1 (pagamento parziale del 19/11, saldo non noto). Le altre squadre restano con il controllo del mattino. Gruppi non eseguiti: A1–A10 (club di peso). Copertura parziale: Corea 2, Egitto 2, Messico 2, Colombia 2, Italia 2, Inghilterra 3 (sola stampa nazionale), Argentina 1, Portogallo 1, Arabia 1, Australia 1, Africa subsahariana 1. Brasile coperto (4 ricerche, stampa regionale). Non cercati: Spagna, Germania, Francia, Olanda, Turchia, Giappone, Cina, SE Asiatico, Africa del nord. Nessuna ricerca bloccata. Pereira e Pasto (Colombia): notizie del 14–15/11, oltre 7 giorni, non riammesse."
- }
+  "limiti": "Giro pomeridiano ridotto (8 ricerche su 180 di budget, nessun sottoagente lanciato). Controllata solo Corinthians. Non eseguiti i gruppi di ricerca per paese (b–f) e le verifiche pre-partita per Monterrey, Paju Frontier, Anadia, Zamalek: restano con il controllo del mattino. Esiti: nessuna chiusura verificata. Da_recuperare invariato."
+ },
+ "osservazione_pomeriggio": "Giro pomeridiano 26/11 ridotto: nessun risultato datato e verificato per Atlético-MG–Corinthians, Newcastle–Arsenal, Napoli–Torino, Burnley–Blackburn, Zamalek–El Gouna. Tutte restano da_verificare. Salari del Corinthians: solo notizie di 9-12/11, nessuna novità."
 }
