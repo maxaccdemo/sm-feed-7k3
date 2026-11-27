@@ -1,6 +1,6 @@
 {
  "versione": 3,
- "aggiornato": "2026-11-27T09:08:32+01:00",
+ "aggiornato": "2026-11-27T16:06:28+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
   {
@@ -296,7 +296,7 @@
   "segnalata_vince": 28,
   "gol_avversaria_si": 54,
   "gol_avversaria_valutati": 73,
-  "osservazione": "Giro del mattino 27/11 ridotto: nessun risultato verificato in più e nessuna notizia nuova entro 72 ore. Restano da verificare 14 partite; la più recente è Atlético-MG–Corinthians (26/11).",
+  "osservazione": "Giro del pomeriggio 27/11: nessun risultato verificato da fonte doppia. Restano da verificare 14 partite (Newcastle–Arsenal 21/11 ha un solo riscontro, 2-2, theScore). Nessuna notizia nuova entro 72 ore sulle squadre in lista.",
   "per_tipo": {
    "non_indicato": {
     "valutati": 17,
@@ -387,11 +387,11 @@
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Nessuna partita confermata nei prossimi 7 giorni. Ultima partita in lista Pumas–Monterrey del 21/11: risultato non trovato. Prossimo impegno da confermare.",
+   "da_verificare": "Nessuna partita confermata nei prossimi 7 giorni. Pumas–Monterrey (22/11): risultato non trovato. Un articolo del 17/11 indica tre assenze per la partita con i Pumas (Medina, Chávez, Durdevic), ruolo e stato non confermati. Il pomeriggio non ha confermato la minaccia di dimissioni a fine torneo; una nota del 13/11 riporta il sostegno della dirigenza al tecnico.",
    "segnalata_dal": "2026-11-10",
    "prima_notizia": "2026-11-07",
    "ultima_notizia": "2026-11-19",
-   "controllato_il": "2026-11-27T09:08:32+01:00",
+   "controllato_il": "2026-11-27T16:06:28+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
@@ -417,6 +417,33 @@
      "esito": "nulla",
      "url": null,
      "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "partido Pumas Monterrey resultado 22 noviembre 2026",
+     "lingua": "es",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "panchina",
+     "query": "Almeyda Monterrey vestidor renuncia",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": "https://www.publimetro.com.mx/deportes/2026/11/04/matias-almeyda-explota-contra-rayados-y-lanza-dura-advertencia-no-puedo-confiar/",
+     "data_articolo": "2026-11-04",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Monterrey Rayados bajas formación Pumas noviembre 2026",
+     "lingua": "es",
+     "esito": "vecchia",
+     "url": "https://abcnoticias.mx/deportes/2026/11/17/tendria-rayados-tres-ausencias-para-el-partido-contra-pumas-295747.html",
+     "data_articolo": "2026-11-17",
+     "giro": "pomeriggio"
     }
    ],
    "fonti": [
@@ -453,11 +480,11 @@
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Nessuna partita confermata nei prossimi 7 giorni: il 22/11 vs Cheonan City non ha risultato nelle fonti, e le fonti danno date discordanti sul calendario.",
+   "da_verificare": "Prossima partita non confermata; 22/11 vs Cheonan City senza risultato. Articolo del 17/11 (Korea Daily): la cooperativa cerca finanziamenti esterni per saldare gli arretrati. Il comunicato del 13/11 non è stato riletto. Ultima notizia nuova resta 13/11.",
    "segnalata_dal": "2026-11-10",
    "prima_notizia": "2026-10-20",
    "ultima_notizia": "2026-11-13",
-   "controllato_il": "2026-11-27T09:08:32+01:00",
+   "controllato_il": "2026-11-27T16:06:28+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
@@ -483,6 +510,33 @@
      "esito": "nulla",
      "url": null,
      "data_articolo": null
+    },
+    {
+     "tema": "soldi",
+     "query": "파주 프론티어 임금 체불 선수단 급여",
+     "lingua": "ko",
+     "esito": "vecchia",
+     "url": "https://www.koreadaily.com/article/20261117212321267",
+     "data_articolo": "2026-11-17",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "altro",
+     "query": "파주 프론티어 경기 일정 결과 K리그2",
+     "lingua": "ko",
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "파주 프론티어 부상 결장 선발 명단",
+     "lingua": "ko",
+     "esito": "bloccata",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
     }
    ],
    "fonti": [
@@ -502,7 +556,7 @@
    "campionato": "Campeonato de Portugal (Grupo B, categoria da confermare)",
    "tipo": "stipendi",
    "livello": "basso",
-   "stato": "in_calo",
+   "stato": "controllo_incompleto",
    "favorita_stimata": "no",
    "motivo": "Il plantel denuncia vari mesi di stipendi in atraso e annuncia greve aos treinos, rivolgendosi alla SAD e al proprietario.",
    "andamento": "Campionato minore; secondo l'articolo rischia di giocare l'Estarreja senza allenamenti.",
@@ -511,7 +565,7 @@
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Partita di domenica 22/11 con l'Estarreja: risultato non trovato nelle fonti datate. Prossima partita non confermata.",
+   "da_verificare": "Non ricercata nel pomeriggio 27/11: budget WebSearch esaurito prima di arrivare alla squadra. Nessuna verifica su stipendi, risultato Estarreja (22/11) o prossimo match.",
    "fonti": [
     "https://www.abola.pt/noticias/plantel-do-anadia-denuncia-meses-de-salarios-em-atraso-e-anuncia-greve-aos-treinos-2026111622170652982"
    ],
@@ -567,7 +621,7 @@
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": "Prossima partita non confermata: nessun calendario datato per dicembre 2026. Partita del 23/11 vs El Gouna: risultato non trovato.",
+   "da_verificare": "Prossima partita non confermata. El Gouna (23/11): risultato non trovato. Masrawy (9/11): arretrati e anticipi da pagare entro il 1 dicembre; il pagamento dei parziali del 19/11 non è confermato.",
    "fonti": [
     "https://www.ysscores.com/en/news/14095163/ongoing-financial-dues-crisis-at-zamalek-sc",
     "https://www.ysscores.com/en/news/14100088/zamalek-pay-a-portion-of-players-dues-ahead-of-algeria-trip",
@@ -575,7 +629,7 @@
    ],
    "prima_notizia": "2026-11-13",
    "ultima_notizia": "2026-11-19",
-   "controllato_il": "2026-11-27T09:08:32+01:00",
+   "controllato_il": "2026-11-27T16:06:28+01:00",
    "id_flashscore": null,
    "nome_flashscore": null,
    "ricerche_fatte": [
@@ -602,6 +656,33 @@
      "esito": "nulla",
      "url": null,
      "data_articolo": null
+    },
+    {
+     "tema": "altro",
+     "query": "Zamalek El Gouna result November 2026",
+     "lingua": "en",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "soldi",
+     "query": "الزمالك مرتبات المتأخرة اللاعبين نوفمبر 2026",
+     "lingua": "ar",
+     "esito": "vecchia",
+     "url": "https://www.masrawy.com/sports/sports_news/details/2026/11/9/3076342",
+     "data_articolo": "2026-11-09",
+     "giro": "pomeriggio"
+    },
+    {
+     "tema": "infortuni",
+     "query": "الزمالك إصابات غياب قائمة مباراة الجونة",
+     "lingua": "ar",
+     "esito": "nulla",
+     "url": null,
+     "data_articolo": null,
+     "giro": "pomeriggio"
     }
    ]
   }
@@ -1144,12 +1225,12 @@
   }
  ],
  "giro": {
-  "tipo": "mattino",
-  "iniziato": "2026-11-27T09:08:32+01:00",
-  "squadre_controllate": 5,
-  "ricerche_totali": 22,
-  "ricerche_bloccate": 0,
-  "limiti": "Giro del mattino 27/11 ridotto: 22 ricerche su 180 di budget (8 per gli esiti, 14 per le squadre in lista). Nessun sottoagente lanciato, quindi nessun gruppo dei binari A o B eseguito e nessuna squadra nuova cercata. Corinthians rimossa per decadimento (ultima notizia 12/11). Nessuna partita futura confermata per le squadre in lista. Nessun paese del calendario di venerdì coperto: tutti in da_recuperare."
+  "tipo": "pomeriggio",
+  "iniziato": "2026-11-27T16:02:13+01:00",
+  "squadre_controllate": 3,
+  "ricerche_totali": 95,
+  "ricerche_bloccate": 10,
+  "limiti": "Pomeriggio 27/11: circa 95 WebSearch tentate (8 esiti, 9 sulle squadre in lista, 78 nei gruppi), di cui 10 bloccate per budget (errori too_many_requests). Squadre ricontrollate: Monterrey, Zamalek, Paju Frontier. Anadia non ricercata (controllo_incompleto). Gruppi non eseguiti: Australia/Nuova Zelanda/Uzbekistan (B3) e lista_club (F). Copertura parziale: Canada, USA, Centro America, Paraguay, Hong Kong, Qatar, EAU, Iran, Iraq, Giordania, Norvegia, Danimarca, Finlandia, Repubblica Ceca, Croazia, Romania, Ucraina, Svizzera, Austria, Ungheria. Nessuna squadra nuova: le notizie candidate (Club Africano, FC Goa, Junior, Boca Juniors de Cali, Chapecoense, Portimonense) non hanno conferme negli ultimi 7 giorni. Nessuna partita confermata nei 7 giorni per le squadre in lista."
  },
  "osservazione_mattino": "27/11: 4 squadre in lista, nessuna notizia nuova entro 72 ore. Corinthians rimossa per decadimento. Nessuna partita futura confermata da fonti datate."
 }
