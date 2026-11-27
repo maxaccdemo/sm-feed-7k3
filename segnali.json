@@ -1,34 +1,8 @@
 {
  "versione": 3,
- "aggiornato": "2026-11-25T16:04:43+01:00",
+ "aggiornato": "2026-11-27T09:08:32+01:00",
  "nota": "Orari in ora italiana (ISO 8601 con fuso). Dal 25/10 ora solare (+01:00). Dati raccolti da notizie pubbliche: possono contenere errori, controllare la fonte.",
  "esiti_precedenti": [
-  {
-   "id_partita": "2026-11-11_internacional-de-bogota_america-de-cali",
-   "data": "2026-11-11T00:30:00+01:00",
-   "partita": "Internacional de Bogotá – América de Cali",
-   "squadra_segnalata": "América de Cali",
-   "tipo": "stipendi",
-   "avversaria": "Internacional de Bogotá",
-   "era_favorita": null,
-   "risultato": "1-2",
-   "gol_avversaria": true,
-   "esito_segnale": "smentito",
-   "commento": "L'América vince in rimonta l'andata della semifinale di Copa BetPlay (Sanguinetti 5'; Marlon Torres 42', Tortolero 44'), con l'Inter in dieci dal 10' (ClaroSports 10/11, Minuto60 11/11)."
-  },
-  {
-   "id_partita": "2026-11-12_deportivo-pasto_junior",
-   "data": "2026-11-12T23:00:00+01:00",
-   "partita": "Deportivo Pasto – Junior",
-   "squadra_segnalata": "Deportivo Pasto",
-   "tipo": "stipendi",
-   "avversaria": "Junior",
-   "era_favorita": false,
-   "risultato": "0-1",
-   "gol_avversaria": true,
-   "esito_segnale": "confermato",
-   "commento": "Il Pasto, con la Sub-20 per lo sciopero dei professionisti, perde 0-1 (Carlos Pérez al 60'; Junior in dieci dal 73'): VAVEL 12/11, confermato da Futbolred."
-  },
   {
    "id_partita": "2026-11-14_america-mg_avai",
    "data": "2026-11-14T20:30:00+01:00",
@@ -209,7 +183,7 @@
    "risultato": null,
    "gol_avversaria": null,
    "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato nelle ricerche del 24/11: le fonti danno la partita come programmata."
+   "commento": "Nella ricerca del 27/11 solo la guida alla partita, senza punteggio: risultato non trovato, da verificare."
   },
   {
    "id_partita": "2026-11-21_argentinos-juniors_independiente",
@@ -235,7 +209,7 @@
    "risultato": null,
    "gol_avversaria": null,
    "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato nelle ricerche del 24/11."
+   "commento": "Nella ricerca del 27/11 solo anteprime della partita del 21/11: risultato non trovato, da verificare."
   },
   {
    "id_partita": "2026-11-22_paju-frontier_cheonan-city",
@@ -248,7 +222,7 @@
    "risultato": null,
    "gol_avversaria": null,
    "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato nelle ricerche del 22/11: da verificare."
+   "commento": "Nessun risultato nella ricerca del 27/11; le fonti danno date di calendario discordanti: da verificare."
   },
   {
    "id_partita": "2026-11-22_burnley_blackburn-rovers",
@@ -261,7 +235,7 @@
    "risultato": null,
    "gol_avversaria": null,
    "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato nelle ricerche del 24/11 (solo precedenti stagioni)."
+   "commento": "Nessun risultato 2026 nella ricerca del 27/11 (solo precedenti stagioni): da verificare."
   },
   {
    "id_partita": "2026-11-22_napoli_torino",
@@ -274,7 +248,7 @@
    "risultato": null,
    "gol_avversaria": null,
    "esito_segnale": "da_verificare",
-   "commento": "Calendario (Fantacalcio): Napoli–Torino spostata a domenica 22/11 ore 15:00. Risultato non trovato nelle ricerche del 24/11."
+   "commento": "Nessun risultato trovato nella ricerca del 27/11 (fonti senza data o di altre stagioni): da verificare."
   },
   {
    "id_partita": "2026-11-22_sirius_djurgarden",
@@ -300,7 +274,20 @@
    "risultato": null,
    "gol_avversaria": null,
    "esito_segnale": "da_verificare",
-   "commento": "Risultato non trovato nelle ricerche del 24/11: nessuna fonte datata sulla partita."
+   "commento": "Nessun risultato datato nelle ricerche del 27/11 (fonti di stagioni precedenti): da verificare."
+  },
+  {
+   "id_partita": "2026-11-26_atletico-mg_corinthians",
+   "data": "2026-11-26T00:00:00+01:00",
+   "partita": "Atlético-MG – Corinthians",
+   "squadra_segnalata": "Corinthians",
+   "tipo": "stipendi",
+   "avversaria": "Atlético-MG",
+   "era_favorita": null,
+   "risultato": null,
+   "gol_avversaria": null,
+   "esito_segnale": "da_verificare",
+   "commento": "Nessun risultato datato trovato nelle ricerche del 27/11 (solo calendari e anteprime): da verificare."
   }
  ],
  "bilancio": {
@@ -309,7 +296,7 @@
   "segnalata_vince": 28,
   "gol_avversaria_si": 54,
   "gol_avversaria_valutati": 73,
-  "osservazione": "Giro pomeridiano 25/11: cercati i risultati di 7 partite passate (Napoli–Torino, Newcastle–Arsenal, Burnley–Blackburn, Pumas–Monterrey, Vitória–Bragantino, Al-Ahli–Al-Nassr, Atlético Bucaramanga–América de Cali): nessun risultato datato e verificato, tutte restano da_verificare. Bilancio invariato.",
+  "osservazione": "Giro del mattino 27/11 ridotto: nessun risultato verificato in più e nessuna notizia nuova entro 72 ore. Restano da verificare 14 partite; la più recente è Atlético-MG–Corinthians (26/11).",
   "per_tipo": {
    "non_indicato": {
     "valutati": 17,
@@ -381,98 +368,6 @@
  },
  "squadre": [
   {
-   "id": "corinthians",
-   "squadra": "Corinthians",
-   "nome_flashscore": "Corinthians",
-   "id_flashscore": null,
-   "alias": [
-    "Corinthians"
-   ],
-   "paese": "Brasile",
-   "tipo": "stipendi",
-   "livello": "medio",
-   "stato": "in_calo",
-   "motivo": "Stipendi CLT di ottobre (scadenza 6/11) non pagati a giocatori e staff, incluso l'allenatore Seedorf e il suo assistente; tre mesi di diritti d'immagine e premi arretrati, debiti oltre R$ 50 milioni, tre blocchi di mercato FIFA.",
-   "andamento": "Ritardi ricorrenti da ottobre; il 9/11 Lance e ABCD Jornal confermano gli stipendi non pagati dal 6/11. Il club attribuisce parte del problema alla MP delle Bets.",
-   "novita": null,
-   "assenze": {
-    "difesa": null,
-    "attacco": null
-   },
-   "da_verificare": "Partita 25/11 ore 20:00 di Brasília (26/11 ore 00:00 in Italia) Atlético-MG–Corinthians: nel giro del pomeriggio nessuna formazione o desfalque datato trovato; l'orario resta da confermare. Ultima notizia sugli stipendi 12/11: senza notizie nuove entro il 26/11 la squadra esce per decadimento dal giro successivo.",
-   "segnalata_dal": "2026-11-10",
-   "prima_notizia": "2026-11-06",
-   "ultima_notizia": "2026-11-12",
-   "controllato_il": "2026-11-25T16:04:43+01:00",
-   "problema_in_corso": false,
-   "ricerche_fatte": [
-    {
-     "tema": "soldi",
-     "query": "Corinthians salários atrasados",
-     "lingua": "portoghese",
-     "esito": "vecchia",
-     "url": "https://www.oliberal.com/esportes/corinthians-paga-comissao-tecnica-e-time-feminino-jogadores-ainda-tem-salarios-atrasados-1.1193578",
-     "data_articolo": "2026-11-12",
-     "giro": "mattino"
-    },
-    {
-     "tema": "altro",
-     "query": "Corinthians próximo jogo data horário",
-     "lingua": "portoghese",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Corinthians desfalques lesionados suspensos próximo jogo",
-     "lingua": "portoghese",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "soldi",
-     "query": "Corinthians salários atrasados novembro 2026",
-     "lingua": "portoghese",
-     "esito": "vecchia",
-     "url": "https://www.oliberal.com/esportes/corinthians-paga-comissao-tecnica-e-time-feminino-jogadores-ainda-tem-salarios-atrasados-1.1193578",
-     "data_articolo": "2026-11-12",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Corinthians Atlético-MG desfalques lesionados 25/11/2026",
-     "lingua": "portoghese",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "soldi",
-     "query": "jogadores salários atrasados Série A Brasil novembro 2026 paralisação",
-     "lingua": "portoghese",
-     "esito": "vecchia",
-     "url": "https://www.dgabc.com.br/Noticia/4367729/corinthians-atrasa-salarios-e-abre-brecha-para-rescisao-clube-tem-pendencia-com-a-fazenda",
-     "data_articolo": "2026-11-09",
-     "giro": "pomeriggio"
-    }
-   ],
-   "fonti": [
-    "https://www.oliberal.com/esportes/corinthians-paga-comissao-tecnica-e-time-feminino-jogadores-ainda-tem-salarios-atrasados-1.1193578",
-    "https://revistaoeste.com/esporte/noticias-do-corinthians-hoje-13-11-2026/",
-    "https://www.lance.com.br/corinthians/diretor-do-corinthians-admite-incomodo-com-salarios-atrasados-mas-evita-dar-prazo.html",
-    "https://ohoje.com/2026/11/10/mp-sp-prepara-acao-que-pode-levar-a-intervencao-judicial-no-corinthians/",
-    "https://www.oliberal.com/esportes/vai-cair-corinthians-atrasa-salarios-e-abre-brecha-para-rescisoes-1.1192248",
-    "https://abcdoabc.com.br/corinthians-atrasa-salarios-tambem-da-comissao/",
-    "https://abcdjornal.com.br/esporte/noticia/2026/11/09/corinthians-atrasa-salario-de-comissao-tecnica/",
-    "https://www.lance.com.br/corinthians/corinthians-atrasa-salarios-de-jogadores-e-comissao-tecnica-de-seedorf.html"
-   ]
-  },
-  {
    "id": "monterrey",
    "squadra": "CF Monterrey",
    "nome_flashscore": null,
@@ -484,7 +379,7 @@
    "paese": "Messico",
    "tipo": "spogliatoio",
    "livello": "basso",
-   "stato": "attiva",
+   "stato": "in_calo",
    "motivo": "Dopo il 4-0 subito a Toluca l'allenatore Matías Almeyda ha parlato di 'un desastre' e di fughe di notizie dallo spogliatoio; vuole 'purificare' il gruppo e ha minacciato di dimettersi a fine torneo.",
    "andamento": "10° in Liga MX con 21 punti, deve vincere per la Liguilla.",
    "novita": null,
@@ -492,51 +387,40 @@
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": null,
+   "da_verificare": "Nessuna partita confermata nei prossimi 7 giorni. Ultima partita in lista Pumas–Monterrey del 21/11: risultato non trovato. Prossimo impegno da confermare.",
    "segnalata_dal": "2026-11-10",
    "prima_notizia": "2026-11-07",
    "ultima_notizia": "2026-11-19",
-   "controllato_il": "2026-11-25T09:10:37+01:00",
-   "problema_in_corso": true,
+   "controllato_il": "2026-11-27T09:08:32+01:00",
+   "problema_in_corso": false,
    "ricerche_fatte": [
     {
-     "tema": "altro",
-     "query": "Almeyda Monterrey vestidor filtraciones",
+     "tema": "panchina",
+     "query": "Almeyda Rayados vestidor noticias hoy",
      "lingua": "spagnolo",
      "esito": "vecchia",
-     "url": "https://abcnoticias.mx/deportes/2026/11/19/destaca-guzman-que-las-filtraciones-son-preocupantes-y-aplaude-respaldo-a-almeyda-en-rayados-295962.html",
-     "data_articolo": "2026-11-19",
-     "giro": "mattino"
-    },
-    {
-     "tema": "altro",
-     "query": "Monterrey próximo partido horario",
-     "lingua": "spagnolo",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "url": "https://abcnoticias.mx/deportes/2026/11/18/confirma-almeyda-que-rayados-ya-evalua-refuerzos-y-posibles-salidas-para-el-proximo-torneo-295851.html",
+     "data_articolo": "2026-11-18"
     },
     {
      "tema": "infortuni",
-     "query": "Rayados bajas lesionados sancionados próximo partido",
+     "query": "Rayados bajas lesionados sancionados Liguilla noviembre 2026",
      "lingua": "spagnolo",
      "esito": "vecchia",
      "url": "https://abcnoticias.mx/deportes/2026/11/17/tendria-rayados-tres-ausencias-para-el-partido-contra-pumas-295747.html",
-     "data_articolo": "2026-11-17",
-     "giro": "mattino"
+     "data_articolo": "2026-11-17"
     },
     {
      "tema": "altro",
-     "query": "Monterrey Rayados entrenador despido noviembre 2026",
+     "query": "Monterrey Liguilla Apertura 2026 partido de ida fecha horario",
      "lingua": "spagnolo",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
     }
    ],
    "fonti": [
+    "https://abcnoticias.mx/deportes/2026/11/18/confirma-almeyda-que-rayados-ya-evalua-refuerzos-y-posibles-salidas-para-el-proximo-torneo-295851.html",
     "https://abcnoticias.mx/deportes/2026/11/19/destaca-guzman-que-las-filtraciones-son-preocupantes-y-aplaude-respaldo-a-almeyda-en-rayados-295962.html",
     "https://abcnoticias.mx/deportes/2026/11/17/tendria-rayados-tres-ausencias-para-el-partido-contra-pumas-295747.html",
     "https://www.foxsports.com.mx/2026/11/10/pumas-podria-quedar-eliminado-pese-a-ganar-en-la-jornada-17-vs-rayados-por-que/",
@@ -569,11 +453,11 @@
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": null,
+   "da_verificare": "Nessuna partita confermata nei prossimi 7 giorni: il 22/11 vs Cheonan City non ha risultato nelle fonti, e le fonti danno date discordanti sul calendario.",
    "segnalata_dal": "2026-11-10",
    "prima_notizia": "2026-10-20",
    "ultima_notizia": "2026-11-13",
-   "controllato_il": "2026-11-25T09:10:37+01:00",
+   "controllato_il": "2026-11-27T09:08:32+01:00",
    "problema_in_corso": false,
    "ricerche_fatte": [
     {
@@ -581,48 +465,28 @@
      "query": "파주 프런티어 급여 체불",
      "lingua": "coreano",
      "esito": "vecchia",
-     "url": "https://www.starnewskorea.com/en/sports/2026/11/13/2026111318494312494",
-     "data_articolo": "2026-11-13",
-     "giro": "mattino"
+     "url": "https://www.koreadaily.com/article/20261117212321267",
+     "data_articolo": "2026-11-17"
     },
     {
      "tema": "soldi",
-     "query": "Paju Frontier salary unpaid license",
+     "query": "Paju Frontier license K League 2027 unpaid salaries November 2026",
      "lingua": "inglese",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "esito": "vecchia",
+     "url": "https://www.starnewskorea.com/en/sports/2026/11/13/2026111318494312494",
+     "data_articolo": "2026-11-13"
     },
     {
      "tema": "altro",
-     "query": "파주 프런티어 다음 경기",
+     "query": "파주 프런티어 최종전 2026 K리그2 일정",
      "lingua": "coreano",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "soldi",
-     "query": "파주 프런티어 급여 체불",
-     "lingua": "coreano",
-     "esito": "vecchia",
-     "url": "https://www.starnewskorea.com/en/sports/2026/11/13/2026111318494312494",
-     "data_articolo": "2026-11-13",
-     "giro": "pomeriggio"
-    },
-    {
-     "tema": "soldi",
-     "query": "Paju Frontier salary unpaid license",
-     "lingua": "inglese",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "pomeriggio"
+     "data_articolo": null
     }
    ],
    "fonti": [
+    "https://www.koreadaily.com/article/20261117212321267",
     "https://www.starnewskorea.com/en/sports/2026/11/13/2026111318494312494",
     "https://www.newspim.com/news/view/20261113001400",
     "https://www.kyeonggi.com/article/20261110580276",
@@ -647,13 +511,13 @@
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": null,
+   "da_verificare": "Partita di domenica 22/11 con l'Estarreja: risultato non trovato nelle fonti datate. Prossima partita non confermata.",
    "fonti": [
     "https://www.abola.pt/noticias/plantel-do-anadia-denuncia-meses-de-salarios-em-atraso-e-anuncia-greve-aos-treinos-2026111622170652982"
    ],
    "prima_notizia": "2026-11-16",
    "ultima_notizia": "2026-11-16",
-   "controllato_il": "2026-11-25T09:10:37+01:00",
+   "controllato_il": "2026-11-27T09:08:32+01:00",
    "problema_in_corso": false,
    "nome_flashscore": null,
    "id_flashscore": null,
@@ -663,39 +527,27 @@
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "Anadia salários em atraso greve treinos",
+     "query": "Anadia salários em atraso greve treinos SAD novembro 2026",
      "lingua": "portoghese",
      "esito": "vecchia",
      "url": "https://www.abola.pt/noticias/plantel-do-anadia-denuncia-meses-de-salarios-em-atraso-e-anuncia-greve-aos-treinos-2026111622170652982",
-     "data_articolo": "2026-11-16",
-     "giro": "mattino"
+     "data_articolo": "2026-11-16"
     },
     {
      "tema": "altro",
-     "query": "Anadia próximo jogo",
+     "query": "Anadia Estarreja jogo resultado Campeonato de Portugal novembro 2026",
      "lingua": "portoghese",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "data_articolo": null
     },
     {
      "tema": "altro",
-     "query": "Anadia Ojogo SAD",
+     "query": "Anadia FC próximo jogo SAD Harry Tachian plantel treinos",
      "lingua": "portoghese",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "soldi",
-     "query": "Anadia salários em atraso novembro 2026",
-     "lingua": "portoghese",
-     "esito": "vecchia",
-     "url": "https://www.abola.pt/noticias/plantel-do-anadia-denuncia-meses-de-salarios-em-atraso-e-anuncia-greve-aos-treinos-2026111622170652982",
-     "data_articolo": "2026-11-16",
-     "giro": "pomeriggio"
+     "data_articolo": null
     }
    ]
   },
@@ -705,9 +557,9 @@
    "paese": "Egitto",
    "campionato": "Egyptian Premier League",
    "tipo": "stipendi",
-   "livello": "alto",
-   "stato": "attiva",
-   "problema_in_corso": true,
+   "livello": "medio",
+   "stato": "in_calo",
+   "problema_in_corso": false,
    "motivo": "Stipendi arretrati non pagati da circa quattro mesi a giocatori, staff tecnico e amministrativo; il club ha avviato il pagamento di parte dei debiti.",
    "andamento": "Pagamenti parziali ai giocatori il 19/11 prima della trasferta in Algeria; saldo residuo non noto.",
    "novita": null,
@@ -715,75 +567,46 @@
     "difesa": null,
     "attacco": null
    },
-   "da_verificare": null,
+   "da_verificare": "Prossima partita non confermata: nessun calendario datato per dicembre 2026. Partita del 23/11 vs El Gouna: risultato non trovato.",
    "fonti": [
+    "https://www.ysscores.com/en/news/14095163/ongoing-financial-dues-crisis-at-zamalek-sc",
     "https://www.ysscores.com/en/news/14100088/zamalek-pay-a-portion-of-players-dues-ahead-of-algeria-trip",
     "https://www.ysscores.com/en/news/14098920/zamalek-move-to-pay-overdue-dues-to-moataz-gamal"
    ],
    "prima_notizia": "2026-11-13",
    "ultima_notizia": "2026-11-19",
-   "controllato_il": "2026-11-25T09:10:37+01:00",
+   "controllato_il": "2026-11-27T09:08:32+01:00",
    "id_flashscore": null,
    "nome_flashscore": null,
    "ricerche_fatte": [
     {
      "tema": "soldi",
-     "query": "الزمالك مستحقات اللاعبين",
+     "query": "الزمالك مستحقات اللاعبين نوفمبر 2026",
      "lingua": "arabo",
      "esito": "vecchia",
      "url": "https://www.masrawy.com/sports/sports_news/details/2026/11/9/3076342",
-     "data_articolo": "2026-11-09",
-     "giro": "mattino"
+     "data_articolo": "2026-11-09"
     },
     {
      "tema": "soldi",
-     "query": "Zamalek unpaid salaries",
+     "query": "Zamalek unpaid salaries players dues November 2026",
      "lingua": "inglese",
-     "esito": "nulla",
-     "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
+     "esito": "vecchia",
+     "url": "https://www.ysscores.com/en/news/14095163/ongoing-financial-dues-crisis-at-zamalek-sc",
+     "data_articolo": "2026-11-13"
     },
     {
      "tema": "altro",
-     "query": "الزمالك موعد المباراة القادمة",
-     "lingua": "arabo",
+     "query": "Zamalek next match Egyptian Premier League fixture December 2026",
+     "lingua": "inglese",
      "esito": "nulla",
      "url": null,
-     "data_articolo": null,
-     "giro": "mattino"
-    },
-    {
-     "tema": "soldi",
-     "query": "Zamalek salaries unpaid players November 2026",
-     "lingua": "inglese",
-     "esito": "vecchia",
-     "url": "https://www.ysscores.com/en/news/14100088/zamalek-pay-a-portion-of-players-dues-ahead-of-algeria-trip",
-     "data_articolo": "2026-11-19",
-     "giro": "pomeriggio"
+     "data_articolo": null
     }
    ]
   }
  ],
- "partite": [
-  {
-   "id_partita": "2026-11-26_atletico-mg_corinthians",
-   "data": "2026-11-26T00:00:00+01:00",
-   "data_utc": "2026-11-25T23:00:00Z",
-   "casa": "Atlético-MG",
-   "trasferta": "Corinthians",
-   "segnalata_in_casa": false,
-   "avversaria": {
-    "nome": "Atlético-MG",
-    "nome_flashscore": null,
-    "id_flashscore": null
-   },
-   "squadra_segnalata": "corinthians",
-   "competizione": "Brasileirão Série A 2026",
-   "favorita_stimata": "incerta",
-   "nota": "Orario da confermare: 25/11 ore 20:00 di Brasília, Arena MRV (fonti senza data leggibile)."
-  }
- ],
+ "partite": [],
  "criterio": "Si segnalano le squadre con problemi (soldi, spogliatoio, società, difesa decimata, attacco sterile), soprattutto quelle di peso, anche se le quote le danno sfavorite. Obiettivo principale: l'avversaria non perde (vince o pareggia). Obiettivo secondario, se la quota è interessante: l'avversaria segna almeno un gol. La quota serve solo come informazione.",
  "regole_freschezza": "Entra una squadra con notizia originale fino a 21 giorni prima, purché ci sia una notizia di conferma negli ultimi 7 giorni. Colore dell'ultima notizia: verde fino a 7 giorni, arancione da 8 a 14, rosso oltre 14. Esce dopo 21 giorni senza notizie.",
  "squadre_rimosse": [
@@ -817,55 +640,6 @@
      "esito": "bloccata",
      "url": null,
      "data_articolo": null
-    }
-   ]
-  },
-  {
-   "id": "juventus",
-   "squadra": "Juventus",
-   "data_rimozione": "2026-11-11",
-   "motivo": "spogliatoio: oltre 10 giorni senza notizie sul problema (ultima 31/10); Spalletti dopo il 2-2 di Firenze non parla di spogliatoio, nessuna tensione nuova (ricerca del 11/11)",
-   "ultima_notizia": "2026-10-31",
-   "ricerche_fatte": [
-    {
-     "tema": "soldi",
-     "query": "Juventus stipendi ritardo monte ingaggi novembre 2026",
-     "lingua": "it",
-     "esito": "vecchia",
-     "url": "https://www.calcioefinanza.it/2026/09/07/stipendi-juventus-2026-2027-monte-ingaggi-yildiz/",
-     "data_articolo": "2026-09-07"
-    },
-    {
-     "tema": "panchina",
-     "query": "Spalletti Juventus futuro panchina dopo Fiorentina-Juventus 2-2",
-     "lingua": "it",
-     "esito": "nuova",
-     "url": "https://www.pazzidifanta.com/news/juventus-spalletti-dichiarazioni-post-partita-fiorentina-11a-giornata-serie-a-2026-27-460565",
-     "data_articolo": "2026-11-09"
-    },
-    {
-     "tema": "panchina",
-     "query": "Juventus spogliatoio Spalletti Bremer Conceição sfogo (siti locali)",
-     "lingua": "it",
-     "esito": "vecchia",
-     "url": "https://www.juventusnews24.com/juventus-spogliatoio-spalletti-giocatori-scontenti/",
-     "data_articolo": "2026-10-20"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Juventus infortunati Venezia Bremer Conceição sosta nazionali (siti locali)",
-     "lingua": "it",
-     "esito": "nuova",
-     "url": "https://sport.sky.it/calcio/serie-a/2026/11/10/infortuni-serie-a-giocatori-rientro-dopo-sosta-nazionali",
-     "data_articolo": "2026-11-10"
-    },
-    {
-     "tema": "infortuni",
-     "query": "Infortunio Kalulu lesione dopo Fiorentina-Juve",
-     "lingua": "it",
-     "esito": "nuova",
-     "url": "https://juventusnews24.com/infortunio-kalulu-lesione-juve-salta-francia-condizioni-tempi-recupero",
-     "data_articolo": "2026-11-09"
     }
    ]
   },
@@ -1342,14 +1116,40 @@
    "data_rimozione": "2026-11-25",
    "motivo": "Oltre 14 giorni senza notizia nuova (ultima 2026-11-10); nessuna fonte degli ultimi 7 giorni conferma problema_in_corso. Ricerche del 25/11 (sottoagenti): solo articoli vecchi o nulla. Dato il calendario, il giro pomeridiano 24/11 l'aveva già segnalata al 14° giorno.",
    "ultima_notizia": "2026-11-10"
+  },
+  {
+   "id": "corinthians",
+   "squadra": "Corinthians",
+   "data_rimozione": "2026-11-27",
+   "motivo": "stipendi: oltre 14 giorni senza notizia nuova sul problema (ultima 12/11); ricerche del 27/11 con soli articoli del 9-12/11; nessuna fonte degli ultimi 7 giorni conferma problema_in_corso. Partita Atlético-MG–Corinthians del 26/11 passata in esiti (da verificare).",
+   "ricerche_fatte": [
+    {
+     "tema": "soldi",
+     "query": "Corinthians salários atrasados jogadores novembro 2026",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": "https://www.dgabc.com.br/Noticia/4368422/corinthians-paga-comissao-tecnica-e-time-feminino-jogadores-ainda-tem-salarios-atrasados",
+     "data_articolo": "2026-11-12"
+    },
+    {
+     "tema": "infortuni",
+     "query": "Corinthians desfalques Seedorf escalação lesionados suspensos",
+     "lingua": "pt",
+     "esito": "vecchia",
+     "url": null,
+     "data_articolo": null
+    }
+   ],
+   "ultima_notizia": "2026-11-12"
   }
  ],
  "giro": {
-  "tipo": "pomeriggio",
-  "iniziato": "2026-11-25T16:02:03+01:00",
+  "tipo": "mattino",
+  "iniziato": "2026-11-27T09:08:32+01:00",
   "squadre_controllate": 5,
-  "ricerche_totali": 23,
+  "ricerche_totali": 22,
   "ricerche_bloccate": 0,
-  "limiti": "Pomeriggio 25/11: 23 WebSearch spese su 180 (budget non esaurito: la copertura è stata limitata dal tempo). Esiti: 8 ricerche, nessun risultato verificato. Squadre: Corinthians 3 ricerche (stipendi confermati fino al 12/11, nessuna notizia nuova; partita di stasera senza formazioni datate); Monterrey 1 ricerca (nulla di nuovo); Paju Frontier 2 (nulla di nuovo); Anadia 1 (nulla di nuovo); Zamalek 1 (pagamento parziale del 19/11, saldo non noto). Le altre squadre restano con il controllo del mattino. Gruppi non eseguiti: A1–A10 (club di peso). Copertura parziale: Corea 2, Egitto 2, Messico 2, Colombia 2, Italia 2, Inghilterra 3 (sola stampa nazionale), Argentina 1, Portogallo 1, Arabia 1, Australia 1, Africa subsahariana 1. Brasile coperto (4 ricerche, stampa regionale). Non cercati: Spagna, Germania, Francia, Olanda, Turchia, Giappone, Cina, SE Asiatico, Africa del nord. Nessuna ricerca bloccata. Pereira e Pasto (Colombia): notizie del 14–15/11, oltre 7 giorni, non riammesse."
- }
+  "limiti": "Giro del mattino 27/11 ridotto: 22 ricerche su 180 di budget (8 per gli esiti, 14 per le squadre in lista). Nessun sottoagente lanciato, quindi nessun gruppo dei binari A o B eseguito e nessuna squadra nuova cercata. Corinthians rimossa per decadimento (ultima notizia 12/11). Nessuna partita futura confermata per le squadre in lista. Nessun paese del calendario di venerdì coperto: tutti in da_recuperare."
+ },
+ "osservazione_mattino": "27/11: 4 squadre in lista, nessuna notizia nuova entro 72 ore. Corinthians rimossa per decadimento. Nessuna partita futura confermata da fonti datate."
 }
